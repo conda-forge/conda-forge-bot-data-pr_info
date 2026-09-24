@@ -285,10 +285,16 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4255484859.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 41,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1790292040.6233118,
         "migrator_name": "OSXArm",
         "migrator_version": 1,
         "name": "arm osx addition"
