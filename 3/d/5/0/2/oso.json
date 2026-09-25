@@ -420,10 +420,10 @@
   "bad": false,
   "pinning_version": "2025.10.06.11.31.54",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1790017742
+    "python315": 1790317988
   },
   "pre_pr_migrator_attempts": {
-    "python315": 1
+    "python315": 2
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -435,7 +435,7 @@
         "osx_arm64_python3.15.____cp315: Cannot solve the request because of: cffi >=1.15,<2 cannot be installed because there are no viable options:\n└─ cffi 1.15.0 | 1.15.1 | ... | 1.17.1 would require\n   └─ pypy3.8 7.3.8.*, for which no candidates were found.\n",
         "win_64_python3.15.____cp315: Cannot solve the request because of: cffi >=1.15,<2 cannot be installed because there are no viable options:\n└─ cffi 1.15.0 | 1.15.1 | ... | 1.17.1 would require\n   └─ python >=3.7,<3.8.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/35636952957'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36098861505'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.52.3"
