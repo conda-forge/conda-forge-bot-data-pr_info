@@ -735,25 +735,24 @@
         "migrator_version": 0,
         "name": "libboost190"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4641538753.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "uhd4110"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.08.17.07.23.37",
-  "pre_pr_migrator_attempt_ts": {
-    "uhd4110": 1790356649
-  },
-  "pre_pr_migrator_attempts": {
-    "uhd4110": 1
-  },
-  "pre_pr_migrator_status": {
-    "uhd4110": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "osx_64_: Cannot solve the request because of: gnuradio-osmosdr * cannot be installed because there are no viable options:\n└─ gnuradio-osmosdr 0.2.0 | 0.2.2 | ... | 0.2.6 would require\n   └─ gnuradio-core >=3.8.1.0,<3.8.2.0a0, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36161815248'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "2026.8.9"
+  "pinning_version": "2026.09.25.08.29.03",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.9.23"
 }
