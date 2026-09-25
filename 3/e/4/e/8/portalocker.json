@@ -877,10 +877,16 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4567841917.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 89,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1790373226.7157238,
         "branch": "v1.7.x",
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
