@@ -185,8 +185,23 @@
   ],
   "bad": false,
   "pinning_version": "2025.09.07.16.43.52",
-  "pre_pr_migrator_attempt_ts": {},
-  "pre_pr_migrator_attempts": {},
-  "pre_pr_migrator_status": {},
+  "pre_pr_migrator_attempt_ts": {
+    "python315": 1790377812
+  },
+  "pre_pr_migrator_attempts": {
+    "python315": 1
+  },
+  "pre_pr_migrator_status": {
+    "python315": {
+      "base_branch": "main",
+      "kind": "not-solvable",
+      "messages": [
+        "linux_64_python3.15.____cp315: Cannot solve the request because of: scikit-image * cannot be installed because there are no viable options:\n└─ scikit-image 0.12.3 | 0.13.0 | ... | 0.26.0 would require\n   └─ numpy 1.12.*, for which no candidates were found.\n",
+        "osx_64_python3.15.____cp315: Cannot solve the request because of: scikit-image * cannot be installed because there are no viable options:\n└─ scikit-image 0.12.3 | 0.13.0 | ... | 0.26.0 would require\n   └─ numpy 1.12.*, for which no candidates were found.\n",
+        "win_64_python3.15.____cp315: Cannot solve the request because of: scikit-image * cannot be installed because there are no viable options:\n└─ scikit-image 0.12.3 | 0.13.0 | ... | 0.26.0 would require\n   └─ numpy 1.11.*, for which no candidates were found.\n"
+      ],
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36193555294'>bot CI job</a>)"
+    }
+  },
   "smithy_version": "3.52.1"
 }
