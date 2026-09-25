@@ -261,7 +261,13 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4630996812.json"
+        "labels": [
+          {
+            "name": "enhancement"
+          }
+        ],
+        "number": 22,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
