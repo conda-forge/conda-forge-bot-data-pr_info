@@ -528,10 +528,10 @@
   "bad": false,
   "pinning_version": "2026.08.20.13.36.35",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1790425594
+    "python315": 1790449655
   },
   "pre_pr_migrator_attempts": {
-    "python315": 1
+    "python315": 2
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -544,7 +544,7 @@
         "osx_arm64_python3.15.____cp315: Cannot solve the request because of: scikit-image * cannot be installed because there are no viable options:\n└─ scikit-image 0.17.2 | 0.18.0 | ... | 0.26.0 would require\n   └─ python >=3.8,<3.9.0a0, for which no candidates were found.\n",
         "win_64_python3.15.____cp315: Cannot solve the request because of: scikit-image * cannot be installed because there are no viable options:\n└─ scikit-image 0.12.3 | 0.13.0 | ... | 0.26.0 would require\n   └─ numpy 1.10.*, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36239363716'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36262788844'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.8.9"
