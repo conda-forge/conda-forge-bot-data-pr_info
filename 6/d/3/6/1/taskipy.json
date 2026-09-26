@@ -124,10 +124,10 @@
   "bad": false,
   "pinning_version": "2025.09.07.02.24.17",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1790358535
+    "python315": 1790417646
   },
   "pre_pr_migrator_attempts": {
-    "python315": 1
+    "python315": 2
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -141,7 +141,7 @@
         "win_64_python3.14.____cp314: Cannot solve the request because of: psutil >=5.7.2,<7.0 cannot be installed because there are no viable options:\n└─ psutil 5.7.2 | 5.7.3 | ... | 6.1.1 would require\n   └─ python >=3.7,<3.8.0a0, for which no candidates were found.\n",
         "win_64_python3.15.____cp315: Cannot solve the request because of: psutil >=5.7.2,<7.0 cannot be installed because there are no viable options:\n└─ psutil 5.7.2 | 5.7.3 | ... | 6.1.1 would require\n   └─ python >=3.7,<3.8.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36161815248'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36232208196'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.52.1"
