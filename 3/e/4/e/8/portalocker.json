@@ -904,10 +904,23 @@
         "migrator_version": 0,
         "version": "4.4.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4644092759.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "v1.7.x",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.09.24.04.24.45",
+  "pinning_version": "2026.09.25.21.46.02",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
