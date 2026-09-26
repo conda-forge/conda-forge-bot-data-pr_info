@@ -478,10 +478,16 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3330196557.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 168,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1790419017.731314,
         "branch": "qt5",
         "migrator_name": "OSXArm",
         "migrator_version": 1,
@@ -518,10 +524,16 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3330216354.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 170,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1790419017.7314804,
         "branch": "qt5",
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
