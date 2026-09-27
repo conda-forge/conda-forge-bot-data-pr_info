@@ -117,10 +117,19 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/1532769129.json"
+        "labels": [
+          {
+            "name": "py312-distutils"
+          },
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 14,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1790547142.0443196,
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
         "migrator_version": 0,
