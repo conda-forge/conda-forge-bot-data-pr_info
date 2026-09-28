@@ -632,6 +632,17 @@
         "migrator_version": 0,
         "name": "python315"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4658192223.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "8.15.2"
+      }
     }
   ],
   "bad": false,
