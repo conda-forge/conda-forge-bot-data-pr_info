@@ -961,6 +961,17 @@
         "migrator_version": 0,
         "version": "9.11.7"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4657912520.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "9.11.9"
+      }
     }
   ],
   "bad": false,
