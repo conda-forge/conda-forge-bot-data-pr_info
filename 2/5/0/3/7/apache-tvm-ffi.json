@@ -213,10 +213,16 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4249358503.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 20,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1790625366.3958576,
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
         "migrator_version": 0,
@@ -225,10 +231,16 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4449627767.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 21,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1790625366.3960452,
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
         "migrator_version": 0,
@@ -237,7 +249,9 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4575676211.json"
+        "labels": [],
+        "number": 22,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -248,7 +262,9 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4629457884.json"
+        "labels": [],
+        "number": 23,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
