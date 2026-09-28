@@ -1321,6 +1321,17 @@
         "migrator_version": 0,
         "name": "libhwloc2150"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4661187226.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "LinuxRISCV64",
+        "migrator_version": 1,
+        "name": "support linux riscv64 platform"
+      }
     }
   ],
   "bad": false,
