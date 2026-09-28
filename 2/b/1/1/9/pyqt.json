@@ -543,10 +543,16 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3330225212.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 171,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1790604840.1849012,
         "branch": "qt5",
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
