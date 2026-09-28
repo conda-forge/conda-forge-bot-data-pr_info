@@ -686,7 +686,9 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4666545622.json"
+        "labels": [],
+        "number": 58,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -697,7 +699,9 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4667312170.json"
+        "labels": [],
+        "number": 59,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
