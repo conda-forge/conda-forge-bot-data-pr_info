@@ -220,10 +220,10 @@
   "bad": false,
   "pinning_version": "2025.10.07.10.53.53",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1790630489
+    "python315": 1790644519
   },
   "pre_pr_migrator_attempts": {
-    "python315": 6
+    "python315": 7
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -241,7 +241,7 @@
         "osx_64_python3.14.____cp314: Cannot solve the request because of: zope.interface 5.4.0.* cannot be installed because there are no viable options:\n└─ zope.interface 5.4.0 would require\n   └─ python >=3.7,<3.8.0a0, for which no candidates were found.\n",
         "osx_64_python3.15.____cp315: Cannot solve the request because of: zope.interface 5.4.0.* cannot be installed because there are no viable options:\n└─ zope.interface 5.4.0 would require\n   └─ python >=3.7,<3.8.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36478940058'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36503300758'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.52.3"
