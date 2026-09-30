@@ -656,10 +656,10 @@
   "bad": false,
   "pinning_version": "2026.02.27.18.23.39",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1790591057
+    "python315": 1790760920
   },
   "pre_pr_migrator_attempts": {
-    "python315": 8
+    "python315": 9
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -668,7 +668,7 @@
       "messages": [
         "linux_ppc64le_python3.15.____cp315: Cannot solve the request because of: arro3-core >=0.4.2 cannot be installed because there are no viable options:\n└─ arro3-core 0.5.1 | 0.6.0 | ... | 0.6.5 would require\n   └─ python >=3.11,<3.12.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36405403643'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36691540938'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.55.1"
