@@ -445,7 +445,7 @@
         "__lazy_json__": "pr_json/4253175769.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1790766534.5980566,
         "migrator_name": "OSXArm",
         "migrator_version": 1,
         "name": "arm osx addition"
