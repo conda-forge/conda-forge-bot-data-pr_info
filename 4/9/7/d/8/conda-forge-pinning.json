@@ -65867,10 +65867,22 @@
         "name": "aws_checksums",
         "pin_version": "1"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4693164669.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "vtk970"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.09.25.23.22.04",
+  "pinning_version": "2026.09.29.05.28.35",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
