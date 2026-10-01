@@ -725,42 +725,24 @@
         "migrator_version": 0,
         "name": "cuda130"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4710556147.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.06.08.09.22.55",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1790870273
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 1
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_64_c_compiler_version14c_stdlib_version2.17cuda_compiler_version12.9cxx_compiler_version14hdf51.14.6python3.15.____cp315: Cannot solve the request because of: h5py * cannot be installed because there are no viable options:\n└─ h5py 2.6.0 | 2.7.0 | ... | 3.16.0 would require\n   └─ hdf5 1.8.15.*, for which no candidates were found.\n",
-        "linux_64_c_compiler_version14c_stdlib_version2.17cuda_compiler_version12.9cxx_compiler_version14hdf52python3.15.____cp315: Cannot solve the request because of: h5py * cannot be installed because there are no viable options:\n└─ h5py 2.6.0 | 2.7.0 | ... | 3.16.0 would require\n   └─ hdf5 1.8.15.*, for which no candidates were found.\n",
-        "linux_64_c_compiler_version15c_stdlib_version2.17cuda_compiler_versionNonecxx_compiler_version15hdf51.14.6python3.15.____cp315: Cannot solve the request because of: h5py * cannot be installed because there are no viable options:\n└─ h5py 2.6.0 | 2.7.0 | ... | 3.16.0 would require\n   └─ hdf5 1.8.15.*, for which no candidates were found.\n",
-        "linux_64_c_compiler_version15c_stdlib_version2.17cuda_compiler_versionNonecxx_compiler_version15hdf52python3.15.____cp315: Cannot solve the request because of: h5py * cannot be installed because there are no viable options:\n└─ h5py 2.6.0 | 2.7.0 | ... | 3.16.0 would require\n   └─ hdf5 1.8.15.*, for which no candidates were found.\n",
-        "linux_64_c_compiler_version15c_stdlib_version2.28cuda_compiler_version13.4cxx_compiler_version15hdf51.14.6python3.15.____cp315: Cannot solve the request because of: h5py * cannot be installed because there are no viable options:\n└─ h5py 2.6.0 | 2.7.0 | ... | 3.16.0 would require\n   └─ hdf5 1.8.15.*, for which no candidates were found.\n",
-        "linux_64_c_compiler_version15c_stdlib_version2.28cuda_compiler_version13.4cxx_compiler_version15hdf52python3.15.____cp315: Cannot solve the request because of: h5py * cannot be installed because there are no viable options:\n└─ h5py 2.6.0 | 2.7.0 | ... | 3.16.0 would require\n   └─ hdf5 1.8.15.*, for which no candidates were found.\n",
-        "linux_aarch64_c_compiler_version14c_stdlib_version2.17cuda_compiler_version12.9cxx_compiler_version14hdf51.14.6python3.15.____cp315: Cannot solve the request because of: h5py * cannot be installed because there are no viable options:\n└─ h5py 2.10.0 | 3.1.0 | ... | 3.16.0 would require\n   └─ hdf5 >=1.10.5,<1.10.6.0a0 mpi_openmpi_*, for which no candidates were found.\n",
-        "linux_aarch64_c_compiler_version14c_stdlib_version2.17cuda_compiler_version12.9cxx_compiler_version14hdf52python3.15.____cp315: Cannot solve the request because of: h5py * cannot be installed because there are no viable options:\n└─ h5py 2.10.0 | 3.1.0 | ... | 3.16.0 would require\n   └─ hdf5 >=1.10.5,<1.10.6.0a0 mpi_openmpi_*, for which no candidates were found.\n",
-        "linux_aarch64_c_compiler_version15c_stdlib_version2.17cuda_compiler_versionNonecxx_compiler_version15hdf51.14.6python3.15.____cp315: Cannot solve the request because of: h5py * cannot be installed because there are no viable options:\n└─ h5py 2.10.0 | 3.1.0 | ... | 3.16.0 would require\n   └─ hdf5 >=1.10.5,<1.10.6.0a0 mpi_openmpi_*, for which no candidates were found.\n",
-        "linux_aarch64_c_compiler_version15c_stdlib_version2.17cuda_compiler_versionNonecxx_compiler_version15hdf52python3.15.____cp315: Cannot solve the request because of: h5py * cannot be installed because there are no viable options:\n└─ h5py 2.10.0 | 3.1.0 | ... | 3.16.0 would require\n   └─ hdf5 >=1.10.5,<1.10.6.0a0 mpi_openmpi_*, for which no candidates were found.\n",
-        "linux_aarch64_c_compiler_version15c_stdlib_version2.28cuda_compiler_version13.4cxx_compiler_version15hdf51.14.6python3.15.____cp315: Cannot solve the request because of: h5py * cannot be installed because there are no viable options:\n└─ h5py 2.10.0 | 3.1.0 | ... | 3.16.0 would require\n   └─ hdf5 >=1.10.5,<1.10.6.0a0 mpi_openmpi_*, for which no candidates were found.\n",
-        "linux_aarch64_c_compiler_version15c_stdlib_version2.28cuda_compiler_version13.4cxx_compiler_version15hdf52python3.15.____cp315: Cannot solve the request because of: h5py * cannot be installed because there are no viable options:\n└─ h5py 2.10.0 | 3.1.0 | ... | 3.16.0 would require\n   └─ hdf5 >=1.10.5,<1.10.6.0a0 mpi_openmpi_*, for which no candidates were found.\n",
-        "linux_ppc64le_hdf51.14.6python3.15.____cp315: Cannot solve the request because of: h5py * cannot be installed because there are no viable options:\n└─ h5py 2.10.0 | 3.1.0 | ... | 3.16.0 would require\n   └─ hdf5 >=1.10.5,<1.10.6.0a0 mpi_mpich_*, for which no candidates were found.\n",
-        "linux_ppc64le_hdf52python3.15.____cp315: Cannot solve the request because of: h5py * cannot be installed because there are no viable options:\n└─ h5py 2.10.0 | 3.1.0 | ... | 3.16.0 would require\n   └─ hdf5 >=1.10.5,<1.10.6.0a0 mpi_mpich_*, for which no candidates were found.\n",
-        "osx_64_hdf51.14.6python3.15.____cp315: Cannot solve the request because of: h5py * cannot be installed because there are no viable options:\n└─ h5py 2.6.0 | 2.7.0 | ... | 3.16.0 would require\n   └─ hdf5 1.8.15.*, for which no candidates were found.\n",
-        "osx_64_hdf52python3.15.____cp315: Cannot solve the request because of: h5py * cannot be installed because there are no viable options:\n└─ h5py 2.6.0 | 2.7.0 | ... | 3.16.0 would require\n   └─ hdf5 1.8.15.*, for which no candidates were found.\n",
-        "osx_arm64_hdf51.14.6python3.15.____cp315: Cannot solve the request because of: h5py * cannot be installed because there are no viable options:\n└─ h5py 2.10.0 | 3.1.0 | ... | 3.16.0 would require\n   └─ hdf5 >=1.10.6,<1.10.7.0a0 mpi_openmpi_*, for which no candidates were found.\n",
-        "osx_arm64_hdf52python3.15.____cp315: Cannot solve the request because of: h5py * cannot be installed because there are no viable options:\n└─ h5py 2.10.0 | 3.1.0 | ... | 3.16.0 would require\n   └─ hdf5 >=1.10.6,<1.10.7.0a0 mpi_openmpi_*, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36875044921'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "2026.5.29"
+  "pinning_version": "2026.10.01.13.16.10",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.9.23"
 }
