@@ -123,10 +123,10 @@
   "bad": false,
   "pinning_version": "2024.05.18.00.22.24",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1790829070
+    "python315": 1790831388
   },
   "pre_pr_migrator_attempts": {
-    "python315": 7
+    "python315": 8
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -149,7 +149,7 @@
         "win_64_python3.14.____cp314: Cannot solve the request because of: msmtools >=1.1.4 cannot be installed because there are no viable options:\n└─ msmtools 1.1.4 | 1.2 | ... | 1.2.6 would require\n   └─ numpy 1.11.*, for which no candidates were found.\n",
         "win_64_python3.15.____cp315: Cannot solve the request because of: msmtools >=1.1.4 cannot be installed because there are no viable options:\n└─ msmtools 1.1.4 | 1.2 | ... | 1.2.6 would require\n   └─ numpy 1.11.*, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36812790102'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36816535104'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.35.1"
