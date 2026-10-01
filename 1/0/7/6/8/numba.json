@@ -1304,7 +1304,7 @@
         "__lazy_json__": "pr_json/4596670168.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1790816862.3963969,
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
         "migrator_version": 0,
@@ -1328,7 +1328,9 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4693100356.json"
+        "labels": [],
+        "number": 213,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
