@@ -73,7 +73,9 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4440730246.json"
+        "labels": [],
+        "number": 7,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -85,10 +87,16 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4697083576.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 8,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1790839436.1894042,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "2.3.6"
