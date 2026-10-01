@@ -355,8 +355,23 @@
   ],
   "bad": false,
   "pinning_version": "2025.09.01.21.18.50",
-  "pre_pr_migrator_attempt_ts": {},
-  "pre_pr_migrator_attempts": {},
-  "pre_pr_migrator_status": {},
+  "pre_pr_migrator_attempt_ts": {
+    "python315": 1790870691
+  },
+  "pre_pr_migrator_attempts": {
+    "python315": 1
+  },
+  "pre_pr_migrator_status": {
+    "python315": {
+      "base_branch": "main",
+      "kind": "not-solvable",
+      "messages": [
+        "linux_64_python3.15.____cp315: Cannot solve the request because of: meshio * cannot be installed because there are no viable options:\n├─ meshio 3.2.12 | 3.2.14 | ... | 5.3.5 would require\n│  └─ h5py *, which cannot be installed because there are no viable options:\n│     └─ h5py 2.6.0 | 2.7.0 | ... | 3.16.0 would require\n│        └─ hdf5 1.8.15.*, for which no candidates were found.\n└─ meshio 2.3.10 would require\n   └─ python <3, for which no candidates were found.\n",
+        "osx_64_python3.15.____cp315: Cannot solve the request because of: meshio * cannot be installed because there are no viable options:\n├─ meshio 3.2.12 | 3.2.14 | ... | 5.3.5 would require\n│  └─ h5py *, which cannot be installed because there are no viable options:\n│     └─ h5py 2.6.0 | 2.7.0 | ... | 3.16.0 would require\n│        └─ hdf5 1.8.15.*, for which no candidates were found.\n└─ meshio 2.3.10 would require\n   └─ python <3, for which no candidates were found.\n",
+        "win_64_python3.15.____cp315: Cannot solve the request because of: meshio * cannot be installed because there are no viable options:\n├─ meshio 3.2.12 | 3.2.14 | ... | 5.3.5 would require\n│  └─ h5py *, which cannot be installed because there are no viable options:\n│     └─ h5py 2.6.0 | 2.7.0 | ... | 3.16.0 would require\n│        └─ hdf5 1.8.15.*, for which no candidates were found.\n└─ meshio 2.3.10 would require\n   └─ python <3, for which no candidates were found.\n"
+      ],
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36875044921'>bot CI job</a>)"
+    }
+  },
   "smithy_version": "3.52.0"
 }
