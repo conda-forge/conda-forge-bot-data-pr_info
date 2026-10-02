@@ -10085,10 +10085,22 @@
         "migrator_version": 0,
         "version": "0.37.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4721176300.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "aws_c_s311"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.09.23.15.06.48",
+  "pinning_version": "2026.10.02.14.55.35",
   "pre_pr_migrator_attempt_ts": {
     "aws_c_1_0": 1790965428,
     "s2n177": 1786470364
