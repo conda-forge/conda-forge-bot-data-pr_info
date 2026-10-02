@@ -191,10 +191,10 @@
   "bad": false,
   "pinning_version": "2026.08.07.09.33.43",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1790950357
+    "python315": 1790974668
   },
   "pre_pr_migrator_attempts": {
-    "python315": 7
+    "python315": 8
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -217,7 +217,7 @@
         "win_64_python3.14.____cp314: Cannot solve the request because of: No candidates were found for toolchain *.\n",
         "win_64_python3.15.____cp315: Cannot solve the request because of: No candidates were found for toolchain *.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37008807905'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37052970338'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.8.5"
