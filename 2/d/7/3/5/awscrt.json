@@ -10102,7 +10102,9 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/02bbbfc6-298c-4687-bead-d54e262fb9f2.json"
+        "labels": [],
+        "number": null,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
