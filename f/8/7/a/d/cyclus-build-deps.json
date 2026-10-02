@@ -186,10 +186,10 @@
   "bad": false,
   "pinning_version": "2025.10.03.07.51.02",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1790783009
+    "python315": 1790949921
   },
   "pre_pr_migrator_attempts": {
-    "python315": 8
+    "python315": 9
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -207,7 +207,7 @@
         "osx_64_python3.14.____cp314: Cannot solve the request because of: cython 0.26.* cannot be installed because there are no viable options:\n└─ cython 0.26 | 0.26.1 would require\n   └─ python 3.6.*, for which no candidates were found.\n",
         "osx_64_python3.15.____cp315: Cannot solve the request because of: cython 0.26.* cannot be installed because there are no viable options:\n└─ cython 0.26 | 0.26.1 would require\n   └─ python 3.6.*, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36729973363'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37008807905'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.52.3"
