@@ -149,10 +149,10 @@
   "bad": false,
   "pinning_version": "2025.12.12.16.57.37",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1790858744
+    "python315": 1790905859
   },
   "pre_pr_migrator_attempts": {
-    "python315": 2
+    "python315": 3
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -162,7 +162,7 @@
         "linux_64_python3.12.____cpython: Cannot solve the request because of: pandas >=1.4.3,<2.0 cannot be installed because there are no viable options:\n└─ pandas 1.4.3 | 1.4.4 | ... | 1.5.3 would require\n   └─ python >=3.10,<3.11.0a0, for which no candidates were found.\n",
         "linux_64_python3.13.____cp313: Cannot solve the request because of: pandas >=1.4.3,<2.0 cannot be installed because there are no viable options:\n└─ pandas 1.4.3 | 1.4.4 | ... | 1.5.3 would require\n   └─ python >=3.10,<3.11.0a0, for which no candidates were found.\n",
         "linux_64_python3.14.____cp314: Cannot solve the request because of: pandas >=1.4.3,<2.0 cannot be installed because there are no viable options:\n└─ pandas 1.4.3 | 1.4.4 | ... | 1.5.3 would require\n   └─ python >=3.10,<3.11.0a0, for which no candidates were found.\n",
-        "linux_64_python3.15.____cp315: HTTP status server error (503 Service Unavailable) for url (https://conda.anaconda.org/conda-forge/label/python_rc/noarch/repodata.json.zst)",
+        "linux_64_python3.15.____cp315: Cannot solve the request because of: pandas >=1.4.3,<2.0 cannot be installed because there are no viable options:\n└─ pandas 1.4.3 | 1.4.4 | ... | 1.5.3 would require\n   └─ python >=3.10,<3.11.0a0, for which no candidates were found.\n",
         "osx_64_python3.12.____cpython: Cannot solve the request because of: pandas >=1.4.3,<2.0 cannot be installed because there are no viable options:\n└─ pandas 1.4.3 | 1.4.4 | ... | 1.5.3 would require\n   └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n",
         "osx_64_python3.13.____cp313: Cannot solve the request because of: pandas >=1.4.3,<2.0 cannot be installed because there are no viable options:\n└─ pandas 1.4.3 | 1.4.4 | ... | 1.5.3 would require\n   └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n",
         "osx_64_python3.14.____cp314: Cannot solve the request because of: pandas >=1.4.3,<2.0 cannot be installed because there are no viable options:\n└─ pandas 1.4.3 | 1.4.4 | ... | 1.5.3 would require\n   └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n",
@@ -176,7 +176,7 @@
         "win_64_python3.14.____cp314: Cannot solve the request because of: pandas >=1.4.3,<2.0 cannot be installed because there are no viable options:\n└─ pandas 1.4.3 | 1.4.4 | ... | 1.5.3 would require\n   └─ python >=3.8,<3.9.0a0, for which no candidates were found.\n",
         "win_64_python3.15.____cp315: Cannot solve the request because of: pandas >=1.4.3,<2.0 cannot be installed because there are no viable options:\n└─ pandas 1.4.3 | 1.4.4 | ... | 1.5.3 would require\n   └─ python >=3.8,<3.9.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36855963487'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36946757375'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.53.3"
