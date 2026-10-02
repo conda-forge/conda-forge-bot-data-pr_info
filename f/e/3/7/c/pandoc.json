@@ -1084,10 +1084,16 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3837031009.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 169,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1790982767.4607763,
         "migrator_name": "WinArm64",
         "migrator_version": 1,
         "name": "support windows arm64 platform"
