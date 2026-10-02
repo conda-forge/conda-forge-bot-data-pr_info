@@ -1017,10 +1017,22 @@
         "migrator_version": 0,
         "name": "libboost190"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4714140073.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "openexr35"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.04.24.09.30.54",
+  "pinning_version": "2026.10.02.03.46.34",
   "pre_pr_migrator_attempt_ts": {
     "imath323": 1790927402,
     "python315": 1790797197
@@ -1077,5 +1089,5 @@
       "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36757603490'>bot CI job</a>)"
     }
   },
-  "smithy_version": "3.61.1"
+  "smithy_version": "2026.9.23"
 }
