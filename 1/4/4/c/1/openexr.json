@@ -963,10 +963,16 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4637922741.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 89,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1790907710.7359843,
         "migrator_name": "LinuxRISCV64",
         "migrator_version": 1,
         "name": "support linux riscv64 platform"
@@ -987,7 +993,9 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4708278747.json"
+        "labels": [],
+        "number": 91,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
