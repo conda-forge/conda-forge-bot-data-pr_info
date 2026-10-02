@@ -97,10 +97,10 @@
   "bad": false,
   "pinning_version": "2025.12.12.23.31.02",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1790849762
+    "python315": 1790913191
   },
   "pre_pr_migrator_attempts": {
-    "python315": 1
+    "python315": 2
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -120,7 +120,7 @@
         "win_64_python3.14.____cp314: Cannot solve the request because of: numpy 1.23.* cannot be installed because there are no viable options:\n└─ numpy 1.23.0 | 1.23.1 | ... | 1.23.5 would require\n   └─ python >=3.8,<3.9.0a0, for which no candidates were found.\n",
         "win_64_python3.15.____cp315: Cannot solve the request because of: numpy 1.23.* cannot be installed because there are no viable options:\n└─ numpy 1.23.0 | 1.23.1 | ... | 1.23.5 would require\n   └─ python >=3.8,<3.9.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36842463173'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36954835085'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.53.3"
