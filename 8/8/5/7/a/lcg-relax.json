@@ -55,12 +55,24 @@
         "migrator_version": 0,
         "name": "root_base64004"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/7b6d512c-7c96-4d69-bdd9-4b5aa931128a.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "geant41143"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.09.19.07.52.00",
+  "pinning_version": "2026.10.01.22.47.43",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
-  "smithy_version": "2026.9.10"
+  "smithy_version": "2026.9.23"
 }
