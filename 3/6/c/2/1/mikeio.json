@@ -665,10 +665,10 @@
   "bad": false,
   "pinning_version": "2026.09.09.20.21.58",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1790933962
+    "python315": 1791059576
   },
   "pre_pr_migrator_attempts": {
-    "python315": 6
+    "python315": 7
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -681,7 +681,7 @@
         "win_64_python3.14.____cp314: Cannot solve the request because of: No candidates were found for mikecore 0.1.2b2.*.\n",
         "win_64_python3.15.____cp315: Cannot solve the request because of: No candidates were found for mikecore 0.1.2b2.*.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36985572338'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37149244459'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.9.1"
