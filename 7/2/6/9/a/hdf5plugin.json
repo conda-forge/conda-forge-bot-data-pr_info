@@ -833,10 +833,22 @@
         "migrator_version": 0,
         "name": "python315"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/cabe37a4-79fc-457c-bab2-d4f89b82d22d.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "openjph032"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.01.13.16.10",
+  "pinning_version": "2026.10.03.12.44.27",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
