@@ -958,10 +958,22 @@
         "migrator_version": 0,
         "name": "hdf52"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4730376403.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "hdf52"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.04.29.07.45.43",
+  "pinning_version": "2026.10.03.16.10.39",
   "pre_pr_migrator_attempt_ts": {
     "root_base64000": 1781214957
   },
@@ -978,5 +990,5 @@
       "url": "https://github.com/conda-forge/conda-forge-bot/actions/runs/27378524073"
     }
   },
-  "smithy_version": "3.61.2"
+  "smithy_version": "2026.9.23"
 }
