@@ -684,10 +684,10 @@
   "bad": false,
   "pinning_version": "2026.04.25.10.12.57",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1790853721
+    "python315": 1791036510
   },
   "pre_pr_migrator_attempts": {
-    "python315": 8
+    "python315": 9
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -703,7 +703,7 @@
         "osx_64_python3.14.____cp314: Cannot solve the request because of: setuptools <60 cannot be installed because there are no viable options:\n└─ setuptools 23.0.0 | 25.1.3 | ... | 59.8.0 would require\n   └─ python 3.5.*, for which no candidates were found.\n",
         "osx_64_python3.15.____cp315: Cannot solve the request because of: setuptools <60 cannot be installed because there are no viable options:\n└─ setuptools 23.0.0 | 25.1.3 | ... | 59.8.0 would require\n   └─ python 3.5.*, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/36848521704'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37127696970'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.61.2"
