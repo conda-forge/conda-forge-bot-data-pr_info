@@ -1195,10 +1195,22 @@
         "migrator_version": 0,
         "version": "1.28.7"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4722813955.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libvpx117"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.09.07.21.55.55",
+  "pinning_version": "2026.10.02.19.10.32",
   "pre_pr_migrator_attempt_ts": {
     "mpg123133": 1786367258
   },
@@ -1215,5 +1227,5 @@
       "url": "https://github.com/conda-forge/conda-forge-bot/actions/runs/31388196752"
     }
   },
-  "smithy_version": "2026.9.1"
+  "smithy_version": "2026.9.23"
 }
