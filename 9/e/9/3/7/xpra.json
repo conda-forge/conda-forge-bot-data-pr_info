@@ -742,10 +742,10 @@
   "bad": false,
   "pinning_version": "2026.08.10.11.23.07",
   "pre_pr_migrator_attempt_ts": {
-    "libvpx117": 1791026622
+    "libvpx117": 1791028396
   },
   "pre_pr_migrator_attempts": {
-    "libvpx117": 2
+    "libvpx117": 3
   },
   "pre_pr_migrator_status": {
     "libvpx117": {
@@ -757,7 +757,7 @@
         "linux_64_python3.13.____cp313: Cannot solve the request because of: pycups * cannot be installed because there are no viable options:\n└─ pycups 2.0.1 would require\n   └─ python >=3.6,<3.7.0a0, for which no candidates were found.\n",
         "linux_64_python3.14.____cp314: Cannot solve the request because of: pycups * cannot be installed because there are no viable options:\n└─ pycups 2.0.1 would require\n   └─ python >=3.6,<3.7.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37118789533'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37119802120'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.8.9"
