@@ -212,8 +212,24 @@
   ],
   "bad": false,
   "pinning_version": "2026.03.05.22.30.25",
-  "pre_pr_migrator_attempt_ts": {},
-  "pre_pr_migrator_attempts": {},
-  "pre_pr_migrator_status": {},
+  "pre_pr_migrator_attempt_ts": {
+    "python315": 1791012134
+  },
+  "pre_pr_migrator_attempts": {
+    "python315": 1
+  },
+  "pre_pr_migrator_status": {
+    "python315": {
+      "base_branch": "main",
+      "kind": "not-solvable",
+      "messages": [
+        "linux_64_python3.15.____cp315: Cannot solve the request because of: python-lmdb * cannot be installed because there are no viable options:\n└─ python-lmdb 0.92 | 0.96 | ... | 2.3.0 would require\n   └─ python 3.6.*, for which no candidates were found.\n",
+        "osx_64_python3.15.____cp315: Cannot solve the request because of: python-lmdb * cannot be installed because there are no viable options:\n└─ python-lmdb 0.92 | 0.94 | ... | 2.3.0 would require\n   └─ python 3.6.*, for which no candidates were found.\n",
+        "osx_arm64_python3.15.____cp315: Cannot solve the request because of: python-lmdb * cannot be installed because there are no viable options:\n└─ python-lmdb 0.99 | 1.0.0 | ... | 2.3.0 would require\n   └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n",
+        "win_64_python3.15.____cp315: Cannot solve the request because of: python-lmdb * cannot be installed because there are no viable options:\n└─ python-lmdb 0.92 | 0.94 | ... | 2.3.0 would require\n   └─ python 3.6.*, for which no candidates were found.\n"
+      ],
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37105065968'>bot CI job</a>)"
+    }
+  },
   "smithy_version": "3.55.1"
 }
