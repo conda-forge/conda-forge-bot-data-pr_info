@@ -2156,7 +2156,9 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/0c6e4ffa-c3b3-45ba-947c-9741744ff51e.json"
+        "labels": [],
+        "number": null,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
