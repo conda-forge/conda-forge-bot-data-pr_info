@@ -65,6 +65,19 @@
         "migrator_version": 0,
         "name": "libboost190"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/51802e57-177d-4e89-9ee9-4ed172532927.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "v7.2.x",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "gsl28"
+      }
     }
   ],
   "bad": false,
