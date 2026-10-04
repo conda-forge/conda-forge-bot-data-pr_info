@@ -69,10 +69,10 @@
   "bad": false,
   "pinning_version": "2026.02.23.21.20.04",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1791114174
+    "python315": 1791149703
   },
   "pre_pr_migrator_attempts": {
-    "python315": 8
+    "python315": 9
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -84,7 +84,7 @@
         "osx_64_python3.14.____cp314: Cannot solve the request because of: scipy <1.16 cannot be installed because there are no viable options:\n└─ scipy 0.17.1 | 0.18.0 | ... | 1.15.2 would require\n   └─ python 3.5.*, for which no candidates were found.\n",
         "osx_64_python3.15.____cp315: Cannot solve the request because of: numpy <2.4.0 cannot be installed because there are no viable options:\n└─ numpy 1.8.2 | 1.9.3 | ... | 2.3.5 would require\n   └─ python 3.6.*, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37198758900'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37234902187'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.54.2"
