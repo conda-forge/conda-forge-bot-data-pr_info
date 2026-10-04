@@ -294,40 +294,24 @@
         "migrator_version": 0,
         "version": "2.3.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4737306014.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.09.23.14.09.31",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1791069684
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 9
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_64_python3.11.____cpython: error determining content size from frame header",
-        "linux_64_python3.12.____cpython: error determining content size from frame header",
-        "linux_64_python3.13.____cp313: error determining content size from frame header",
-        "linux_64_python3.14.____cp314: error determining content size from frame header",
-        "osx_64_python3.11.____cpython: error determining content size from frame header",
-        "osx_64_python3.12.____cpython: error determining content size from frame header",
-        "osx_64_python3.13.____cp313: error determining content size from frame header",
-        "osx_64_python3.14.____cp314: error determining content size from frame header",
-        "osx_arm64_python3.11.____cpython: error determining content size from frame header",
-        "osx_arm64_python3.12.____cpython: error determining content size from frame header",
-        "osx_arm64_python3.13.____cp313: error determining content size from frame header",
-        "osx_arm64_python3.14.____cp314: error determining content size from frame header",
-        "win_64_python3.11.____cpython: error determining content size from frame header",
-        "win_64_python3.12.____cpython: error determining content size from frame header",
-        "win_64_python3.13.____cp313: error determining content size from frame header",
-        "win_64_python3.14.____cp314: error determining content size from frame header"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37159261913'>bot CI job</a>)"
-    }
-  },
+  "pinning_version": "2026.10.03.16.10.39",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
   "smithy_version": "2026.9.23"
 }
