@@ -329,28 +329,24 @@
         "migrator_version": 0,
         "name": "nlopt211"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4735011729.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.06.06.17.50.26",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1791059695
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 9
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_64_python3.15.____cp315: Cannot solve the request because of: No candidates were found for microed-data >=0.1.0.dev9,<0.2.0.\n",
-        "osx_64_python3.15.____cp315: Cannot solve the request because of: No candidates were found for microed-data >=0.1.0.dev9,<0.2.0.\n",
-        "osx_arm64_python3.15.____cp315: Cannot solve the request because of: No candidates were found for microed-data >=0.1.0.dev9,<0.2.0.\n",
-        "win_64_python3.15.____cp315: Cannot solve the request because of: No candidates were found for microed-data >=0.1.0.dev9,<0.2.0.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37149244459'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "2026.5.29"
+  "pinning_version": "2026.10.03.16.10.39",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.9.23"
 }
