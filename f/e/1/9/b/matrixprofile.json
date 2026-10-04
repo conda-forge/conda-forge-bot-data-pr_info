@@ -153,10 +153,10 @@
   "bad": false,
   "pinning_version": "2025.09.27.05.44.00",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1791110622
+    "python315": 1791122878
   },
   "pre_pr_migrator_attempts": {
-    "python315": 8
+    "python315": 9
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -179,7 +179,7 @@
         "win_64_python3.14.____cp314: Cannot solve the request because of: protobuf 3.11.2.* cannot be installed because there are no viable options:\n└─ protobuf 3.11.2 would require\n   └─ python >=3.6,<3.7.0a0, for which no candidates were found.\n",
         "win_64_python3.15.____cp315: Cannot solve the request because of: protobuf 3.11.2.* cannot be installed because there are no viable options:\n└─ protobuf 3.11.2 would require\n   └─ python >=3.6,<3.7.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37195412845'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37206441660'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.52.3"
