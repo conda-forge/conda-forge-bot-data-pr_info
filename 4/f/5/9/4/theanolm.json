@@ -133,10 +133,10 @@
   "bad": false,
   "pinning_version": "2025.09.07.20.31.15",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1791009442
+    "python315": 1791101152
   },
   "pre_pr_migrator_attempts": {
-    "python315": 4
+    "python315": 5
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -159,7 +159,7 @@
         "win_64_python3.14.____cp314: Cannot solve the request because of: theano * cannot be installed because there are no viable options:\n└─ theano 0.8.2 | 0.9.0 | ... | 1.0.5 would require\n   └─ python 3.6.*, for which no candidates were found.\n",
         "win_64_python3.15.____cp315: Cannot solve the request because of: theano * cannot be installed because there are no viable options:\n└─ theano 0.8.2 | 0.9.0 | ... | 1.0.5 would require\n   └─ python 3.6.*, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37102365157'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37185126112'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.52.1"
