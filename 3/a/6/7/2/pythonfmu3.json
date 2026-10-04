@@ -148,10 +148,10 @@
   "bad": false,
   "pinning_version": "2025.09.27.05.44.00",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1791109079
+    "python315": 1791142480
   },
   "pre_pr_migrator_attempts": {
-    "python315": 8
+    "python315": 9
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -162,7 +162,7 @@
         "osx_64_python3.15.____cp315: Cannot solve the request because of: pyfmi * cannot be installed because there are no viable options:\n└─ pyfmi 2.3.1 | 2.4.0 | ... | 2.22.0 would require\n   └─ python 3.5.*, for which no candidates were found.\n",
         "win_64_python3.15.____cp315: Cannot solve the request because of: pyfmi * cannot be installed because there are no viable options:\n└─ pyfmi 2.3.1 | 2.4.0 | ... | 2.22.0 would require\n   └─ numpy 1.10.*, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37192876827'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37227137164'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.52.3"
