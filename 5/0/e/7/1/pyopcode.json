@@ -206,10 +206,10 @@
   "bad": false,
   "pinning_version": "2025.09.06.13.11.28",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1791046568
+    "python315": 1791083960
   },
   "pre_pr_migrator_attempts": {
-    "python315": 8
+    "python315": 9
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -227,7 +227,7 @@
         "win_64_python3.14.____cp314: Cannot solve the request because of: boost 1.63.* cannot be installed because there are no viable options:\n└─ boost 1.63.0 would require\n   └─ python 3.4.*, for which no candidates were found.\n",
         "win_64_python3.15.____cp315: Cannot solve the request because of: boost 1.63.* cannot be installed because there are no viable options:\n└─ boost 1.63.0 would require\n   └─ python 3.4.*, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37137688304'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37171866793'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.52.1"
