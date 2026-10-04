@@ -734,7 +734,13 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4579394284.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 63,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": 1791154839.6438305,
