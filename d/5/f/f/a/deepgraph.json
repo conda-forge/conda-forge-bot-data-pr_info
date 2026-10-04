@@ -289,10 +289,10 @@
   "bad": false,
   "pinning_version": "2025.10.24.23.37.09",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1791059283
+    "python315": 1791081573
   },
   "pre_pr_migrator_attempts": {
-    "python315": 8
+    "python315": 9
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -301,7 +301,7 @@
       "messages": [
         "osx_64_python3.15.____cp315: Cannot solve the request because of: graph-tool >=2.27 cannot be installed because there are no viable options:\n└─ graph-tool 2.29 | 2.30 | ... | 2.98 would require\n   └─ python >=3.7,<3.8.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37149244459'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37170021663'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.52.3"
