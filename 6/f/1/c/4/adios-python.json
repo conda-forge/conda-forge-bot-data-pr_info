@@ -213,44 +213,24 @@
         "migrator_version": 0,
         "name": "python314"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4734792801.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2025.09.07.16.43.52",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1791114678
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 9
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_64_python3.11.____cpython: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "linux_64_python3.12.____cpython: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "linux_64_python3.13.____cp313: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "linux_64_python3.14.____cp314: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "linux_64_python3.15.____cp315: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "linux_aarch64_python3.11.____cpython: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "linux_aarch64_python3.12.____cpython: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "linux_aarch64_python3.13.____cp313: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "linux_aarch64_python3.14.____cp314: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "linux_aarch64_python3.15.____cp315: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "linux_ppc64le_python3.11.____cpython: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "linux_ppc64le_python3.12.____cpython: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "linux_ppc64le_python3.13.____cp313: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "linux_ppc64le_python3.14.____cp314: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "linux_ppc64le_python3.15.____cp315: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "osx_64_python3.11.____cpython: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "osx_64_python3.12.____cpython: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "osx_64_python3.13.____cp313: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "osx_64_python3.14.____cp314: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "osx_64_python3.15.____cp315: Cannot solve the request because of: No candidates were found for pin_compatible *.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37198758900'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "3.52.1"
+  "pinning_version": "2026.10.03.16.10.39",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.9.23"
 }
