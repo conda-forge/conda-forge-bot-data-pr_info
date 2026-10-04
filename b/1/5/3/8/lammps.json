@@ -718,25 +718,24 @@
         "migrator_version": 0,
         "name": "libnetcdf4101"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4731813959.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.07.12.09.01.38",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1791052291
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 9
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "bot-error",
-      "messages": [
-        "Traceback (most recent call last):\n  File \"/opt/conda/lib/python3.12/site-packages/conda_forge_feedstock_ops/__main__.py\", line 105, in _run_bot_task\n    data = func(**kwargs)\n           ^^^^^^^^^^^^^^\n  File \"/opt/conda/lib/python3.12/site-packages/conda_forge_feedstock_ops/__main__.py\", line 223, in _rerender_feedstock\n    msg = rerender_local(fs_dir, **kwargs)\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/conda/lib/python3.12/site-packages/conda_forge_feedstock_ops/rerender.py\", line 290, in rerender_local\n    raise RuntimeError(f\"Failed to rerender.\noutput: {ret.stdout}\n\")\nRuntimeError: Failed to rerender.\noutput: Adding in variants from internal_defaults\nAdding in variants from /tmp/tmpzrtqta11/conda-smithy/conda_build_config.yaml\nAdding in variants from /tmp/tmp3ps6yr8t/lammps-feedstock/recipe/conda_build_config.yaml\nAdding in variants from argument_variants\nINFO:conda_smithy.configure_feedstock:Downloading conda-forge-pinning-2026.10.03.16.10.39\nINFO:conda_smithy.configure_feedstock:Extracting conda-forge-pinning to /tmp/tmpzrtqta11/conda-smithy\nINFO:conda_smithy.configure_feedstock:README rendering is skipped\nINFO:conda_smithy.configure_feedstock:mpich5.yaml from feedstock is ignored and upstream version is used\nINFO:conda_smithy.configure_feedstock:hdf52.yaml from feedstock is ignored and upstream version is used\nINFO:conda_smithy.configure_feedstock:python315.yaml from feedstock is ignored and upstream version is used\nWARNING: Setting build platform. This is only useful when pretending to be on another platform, such as for rendering necessary dependencies on a non-native platform. I trust that you know what you're doing.\nWARNING: Setting build arch. This is only useful when pretending to be on another arch, such as for rendering necessary dependencies on a non-native arch. I trust that you know what you're doing.\nINFO:conda_smithy.configure_feedstock:Applying migrations: /tmp/tmpzrtqta11/conda-smithy/share/conda-forge/migrations/python315.yaml,/tmp/tmpzrtqta11/conda-smithy/share/conda-forge/migrations/mpich5.yaml,/tmp/tmpzrtqta11/conda-smithy/share/conda-forge/migrations/hdf52.yaml\nWARNING: Number of parsed outputs does not match detected raw metadata blocks. Identified output block may be wrong! If you are using Jinja conditionals to include or exclude outputs, consider using `skip: true  # [condition]` instead.\nINFO:conda_smithy.configure_feedstock:Applying migrations: /tmp/tmpzrtqta11/conda-smithy/share/conda-forge/migrations/python315.yaml,/tmp/tmpzrtqta11/conda-smithy/share/conda-forge/migrations/mpich5.yaml,/tmp/tmpzrtqta11/conda-smithy/share/conda-forge/migrations/hdf52.yaml\nINFO:conda_smithy.configure_feedstock:variables used to distribute packages over CI jobs:\n    {'target_platform', 'mpi', 'hdf5', 'python'}\nINFO:conda_smithy.configure_feedstock:variables used to distribute packages over CI jobs:\n    {'target_platform', 'mpi', 'hdf5', 'python'}\nINFO:conda_smithy.configure_feedstock:Applying migrations: /tmp/tmpzrtqta11/conda-smithy/share/conda-forge/migrations/python315.yaml,/tmp/tmpzrtqta11/conda-smithy/share/conda-forge/migrations/mpich5.yaml,/tmp/tmpzrtqta11/conda-smithy/share/conda-forge/migrations/hdf52.yaml\n/opt/conda/lib/python3.12/site-packages/conda_build/environ.py:547: UserWarning: The environment variable 'Kokkos_OPT_ARGS' is being passed through with value '-DKokkos_ARCH_MAXWELL50=ON'.  If you are splitting build and test phases with --no-test, please ensure that this value is also set similarly at test time.\n  warnings.warn(\n/opt/conda/lib/python3.12/site-packages/conda_build/environ.py:547: UserWarning: The environment variable 'Kokkos_OPT_ARGS' is being passed through with value '-DKokkos_ARCH_AMPERE80=ON'.  If you are splitting build and test phases with --no-test, please ensure that this value is also set similarly at test time.\n  warnings.warn(\n\n\n"
-      ],
-      "url": "https://github.com/conda-forge/conda-forge-bot/actions/runs/37143092315"
-    }
-  },
-  "smithy_version": "2026.6.14"
+  "pinning_version": "2026.10.03.16.10.39",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.9.23"
 }
