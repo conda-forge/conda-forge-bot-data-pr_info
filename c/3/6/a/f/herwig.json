@@ -52,10 +52,23 @@
         "migrator_version": 0,
         "version": "7.3.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/fe9bcdea-1420-4b49-ba58-82309de0f741.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "v7.2.x",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libboost190"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.02.19.10.32",
+  "pinning_version": "2026.10.03.16.10.39",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
