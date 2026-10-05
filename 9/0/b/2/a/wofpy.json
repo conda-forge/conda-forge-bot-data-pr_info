@@ -82,10 +82,10 @@
   "bad": false,
   "pinning_version": "2023.10.13.20.51.23",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1791206586
+    "python315": 1791212640
   },
   "pre_pr_migrator_attempts": {
-    "python315": 1
+    "python315": 2
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -94,7 +94,7 @@
       "messages": [
         "No `.ci_support/*.yaml` files found! This can happen when a rerender results in no builds for a recipe (e.g., a recipe is python 2.7 only). This attempted migration is being reported as not solvable."
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37312309981'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37319877369'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.27.1"
