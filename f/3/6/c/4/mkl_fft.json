@@ -839,25 +839,24 @@
         "migrator_version": 0,
         "version": "2.3.2"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4744656738.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.08.04.03.43.27",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1791197288
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 1
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "osx_64_python3.15.____cp315: Cannot solve the request because of: mkl-service * cannot be installed because there are no viable options:\n└─ mkl-service 2.0.1 | 2.0.2 | ... | 2.9.0 would require\n   └─ mkl >=2019.3,<2020.0a0, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37295586734'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "2026.6.14"
+  "pinning_version": "2026.10.05.07.50.19",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.9.23"
 }
