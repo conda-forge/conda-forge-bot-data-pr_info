@@ -510,10 +510,10 @@
   "bad": false,
   "pinning_version": "2026.06.07.05.41.48",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1791197947
+    "python315": 1791203560
   },
   "pre_pr_migrator_attempts": {
-    "python315": 6
+    "python315": 7
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -533,7 +533,7 @@
         "win_64_libgdal3.10python3.15.____cp315: Cannot solve the request because of: gdal >=3.0.4 cannot be installed because there are no viable options:\n└─ gdal 3.0.4 | 3.1.0 | ... | 3.13.3 would require\n   └─ python >=3.6,<3.7.0a0, for which no candidates were found.\n",
         "win_64_libgdal3.11python3.15.____cp315: Cannot solve the request because of: gdal >=3.0.4 cannot be installed because there are no viable options:\n└─ gdal 3.0.4 | 3.1.0 | ... | 3.13.3 would require\n   └─ python >=3.6,<3.7.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37295586734'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37303985877'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.5.29"
