@@ -118,10 +118,10 @@
   "bad": false,
   "pinning_version": "2026.09.29.05.28.35",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1791186633
+    "python315": 1791191207
   },
   "pre_pr_migrator_attempts": {
-    "python315": 8
+    "python315": 9
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -130,12 +130,12 @@
       "messages": [
         "linux_64_python3.13.____cp313: Cannot solve the request because of: cython <3.0.0 cannot be installed because there are no viable options:\n└─ cython 0.24 | 0.24.1 | ... | 0.29.37 would require\n   └─ python 3.5.*, for which no candidates were found.\n",
         "linux_64_python3.14.____cp314: Cannot solve the request because of: cython <3.0.0 cannot be installed because there are no viable options:\n└─ cython 0.24 | 0.24.1 | ... | 0.29.37 would require\n   └─ python 3.5.*, for which no candidates were found.\n",
-        "linux_64_python3.15.____cp315: Cannot solve the request because of: scipy * cannot be installed because there are no viable options:\n└─ scipy 0.17.1 | 0.18.0 | ... | 1.18.1 would require\n   └─ python 3.5.*, for which no candidates were found.\n",
+        "linux_64_python3.15.____cp315: Cannot solve the request because of: cython <3.0.0 cannot be installed because there are no viable options:\n└─ cython 0.24 | 0.24.1 | ... | 0.29.37 would require\n   └─ python 3.5.*, for which no candidates were found.\n",
         "osx_64_python3.13.____cp313: Cannot solve the request because of: cython <3.0.0 cannot be installed because there are no viable options:\n└─ cython 0.24 | 0.24.1 | ... | 0.29.37 would require\n   └─ python 3.6.*, for which no candidates were found.\n",
         "osx_64_python3.14.____cp314: Cannot solve the request because of: cython <3.0.0 cannot be installed because there are no viable options:\n└─ cython 0.24 | 0.24.1 | ... | 0.29.37 would require\n   └─ python 3.6.*, for which no candidates were found.\n",
-        "osx_64_python3.15.____cp315: Cannot solve the request because of: scipy * cannot be installed because there are no viable options:\n└─ scipy 0.17.1 | 0.18.0 | ... | 1.18.1 would require\n   └─ python 3.5.*, for which no candidates were found.\n"
+        "osx_64_python3.15.____cp315: Cannot solve the request because of: cython <3.0.0 cannot be installed because there are no viable options:\n└─ cython 0.24 | 0.24.1 | ... | 0.29.37 would require\n   └─ python 3.6.*, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37274323148'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37281198079'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.9.23"
