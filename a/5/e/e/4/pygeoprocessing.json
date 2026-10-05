@@ -509,8 +509,34 @@
   ],
   "bad": false,
   "pinning_version": "2026.06.07.05.41.48",
-  "pre_pr_migrator_attempt_ts": {},
-  "pre_pr_migrator_attempts": {},
-  "pre_pr_migrator_status": {},
+  "pre_pr_migrator_attempt_ts": {
+    "python315": 1791169535
+  },
+  "pre_pr_migrator_attempts": {
+    "python315": 1
+  },
+  "pre_pr_migrator_status": {
+    "python315": {
+      "base_branch": "main",
+      "kind": "not-solvable",
+      "messages": [
+        "linux_64_libgdal3.10python3.15.____cp315: Cannot solve the request because of: gdal >=3.0.4 cannot be installed because there are no viable options:\n└─ gdal 3.0.4 | 3.1.0 | ... | 3.13.3 would require\n   └─ python >=3.7,<3.8.0a0, for which no candidates were found.\n",
+        "linux_64_libgdal3.11python3.15.____cp315: Cannot solve the request because of: gdal >=3.0.4 cannot be installed because there are no viable options:\n└─ gdal 3.0.4 | 3.1.0 | ... | 3.13.3 would require\n   └─ python >=3.7,<3.8.0a0, for which no candidates were found.\n",
+        "linux_aarch64_libgdal3.10python3.15.____cp315: Cannot solve the request because of: gdal >=3.0.4 cannot be installed because there are no viable options:\n└─ gdal 3.2.2 | 3.3.0 | ... | 3.13.3 would require\n   └─ python >=3.7,<3.8.0a0, for which no candidates were found.\n",
+        "linux_aarch64_libgdal3.11python3.15.____cp315: Cannot solve the request because of: gdal >=3.0.4 cannot be installed because there are no viable options:\n└─ gdal 3.2.2 | 3.3.0 | ... | 3.13.3 would require\n   └─ python >=3.7,<3.8.0a0, for which no candidates were found.\n",
+        "linux_ppc64le_libgdal3.10python3.15.____cp315: Cannot solve the request because of: gdal >=3.0.4 cannot be installed because there are no viable options:\n└─ gdal 3.2.2 | 3.3.0 | ... | 3.13.3 would require\n   └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n",
+        "linux_ppc64le_libgdal3.11python3.15.____cp315: Cannot solve the request because of: gdal >=3.0.4 cannot be installed because there are no viable options:\n└─ gdal 3.2.2 | 3.3.0 | ... | 3.13.3 would require\n   └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n",
+        "linux_ppc64le_libgdal3.13python3.15.____cp315: Cannot solve the request because of: gdal >=3.0.4 cannot be installed because there are no viable options:\n└─ gdal 3.2.2 | 3.3.0 | ... | 3.13.3 would require\n   └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n",
+        "osx_64_libgdal3.10python3.15.____cp315: Cannot solve the request because of: gdal >=3.0.4 cannot be installed because there are no viable options:\n└─ gdal 3.0.4 | 3.1.0 | ... | 3.13.3 would require\n   └─ python >=3.6,<3.7.0a0, for which no candidates were found.\n",
+        "osx_64_libgdal3.11python3.15.____cp315: Cannot solve the request because of: gdal >=3.0.4 cannot be installed because there are no viable options:\n└─ gdal 3.0.4 | 3.1.0 | ... | 3.13.3 would require\n   └─ python >=3.6,<3.7.0a0, for which no candidates were found.\n",
+        "osx_arm64_libgdal3.10python3.15.____cp315: Cannot solve the request because of: gdal >=3.0.4 cannot be installed because there are no viable options:\n└─ gdal 3.1.4 | 3.2.2 | ... | 3.13.3 would require\n   └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n",
+        "osx_arm64_libgdal3.11python3.15.____cp315: Cannot solve the request because of: gdal >=3.0.4 cannot be installed because there are no viable options:\n└─ gdal 3.1.4 | 3.2.2 | ... | 3.13.3 would require\n   └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n",
+        "win_64_libgdal3.10python3.15.____cp315: Cannot solve the request because of: gdal >=3.0.4 cannot be installed because there are no viable options:\n└─ gdal 3.0.4 | 3.1.0 | ... | 3.13.3 would require\n   └─ python >=3.6,<3.7.0a0, for which no candidates were found.\n",
+        "win_64_libgdal3.11python3.15.____cp315: Cannot solve the request because of: gdal >=3.0.4 cannot be installed because there are no viable options:\n└─ gdal 3.0.4 | 3.1.0 | ... | 3.13.3 would require\n   └─ python >=3.6,<3.7.0a0, for which no candidates were found.\n",
+        "win_64_libgdal3.13python3.15.____cp315: Cannot solve the request because of: gdal >=3.0.4 cannot be installed because there are no viable options:\n└─ gdal 3.0.4 | 3.1.0 | ... | 3.13.3 would require\n   └─ python >=3.6,<3.7.0a0, for which no candidates were found.\n"
+      ],
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37256560505'>bot CI job</a>)"
+    }
+  },
   "smithy_version": "2026.5.29"
 }
