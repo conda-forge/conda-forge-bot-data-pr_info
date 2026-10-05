@@ -98,10 +98,10 @@
   "bad": false,
   "pinning_version": "2025.09.09.16.04.35",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1791156783
+    "python315": 1791165171
   },
   "pre_pr_migrator_attempts": {
-    "python315": 8
+    "python315": 9
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -114,7 +114,7 @@
         "linux_64_python3.14.____cp314: Cannot solve the request because of: h5py <3.2 cannot be installed because there are no viable options:\n└─ h5py 2.6.0 | 2.7.0 | ... | 3.1.0 would require\n   └─ hdf5 1.8.15.*, for which no candidates were found.\n",
         "linux_64_python3.15.____cp315: Cannot solve the request because of: h5py <3.2 cannot be installed because there are no viable options:\n└─ h5py 2.6.0 | 2.7.0 | ... | 3.1.0 would require\n   └─ hdf5 1.8.15.*, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37241834483'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37249935415'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.52.2"
