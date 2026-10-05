@@ -182,7 +182,9 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4744491682.json"
+        "labels": [],
+        "number": 15,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
