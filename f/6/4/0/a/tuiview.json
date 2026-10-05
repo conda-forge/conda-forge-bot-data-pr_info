@@ -532,8 +532,21 @@
   ],
   "bad": false,
   "pinning_version": "2026.05.09.13.09.17",
-  "pre_pr_migrator_attempt_ts": {},
-  "pre_pr_migrator_attempts": {},
-  "pre_pr_migrator_status": {},
+  "pre_pr_migrator_attempt_ts": {
+    "python315": 1791173879
+  },
+  "pre_pr_migrator_attempts": {
+    "python315": 1
+  },
+  "pre_pr_migrator_status": {
+    "python315": {
+      "base_branch": "main",
+      "kind": "not-solvable",
+      "messages": [
+        "win_64_python3.15.____cp315: Cannot solve the request because of: The following packages are incompatible\n├─ python 3.15.* *_cp315 can be installed with any of the following options:\n│  └─ python 3.15.0rc1 | 3.15.0rc2\n└─ gdal 3.13.* cannot be installed because there are no viable options:\n   ├─ gdal 3.13.0 | 3.13.1 | 3.13.2 | 3.13.3 would require\n   │  └─ python_abi 3.14.* *_cp314, which cannot be installed because there are no viable options:\n   │     └─ python_abi 3.14 would constrain\n   │        └─ python 3.14.* *_cp314, which conflicts with any installable versions previously reported\n   ├─ gdal 3.13.0 | 3.13.1 | 3.13.2 | 3.13.3 would require\n   │  └─ python_abi 3.13.* *_cp313, which cannot be installed because there are no viable options:\n   │     └─ python_abi 3.13 would constrain\n   │        └─ python 3.13.* *_cpython, which conflicts with any installable versions previously reported\n   ├─ gdal 3.13.0 | 3.13.1 | 3.13.2 | 3.13.3 would require\n   │  └─ python_abi 3.12.* *_cp312, which cannot be installed because there are no viable options:\n   │     └─ python_abi 3.12 would constrain\n   │        └─ python 3.12.* *_cpython, which conflicts with any installable versions previously reported\n   ├─ gdal 3.13.0 | 3.13.1 | 3.13.2 | 3.13.3 would require\n   │  └─ python_abi 3.11.* *_cp311, which cannot be installed because there are no viable options:\n   │     ├─ python_abi 3.11 would constrain\n   │     │  └─ python 3.11.* *_cpython, which conflicts with any installable versions previously reported\n   │     └─ python_abi 3.11 would require\n   │        └─ python 3.11.*, for which no candidates were found.\n   ├─ gdal 3.13.0 | 3.13.1 | 3.13.2 | 3.13.3 would require\n   │  └─ python_abi 3.10.* *_cp310, which cannot be installed because there are no viable options:\n   │     ├─ python_abi 3.10 would constrain\n   │     │  └─ python 3.10.* *_cpython, which conflicts with any installable versions previously reported\n   │     └─ python_abi 3.10 would require\n   │        └─ python 3.10.*, for which no candidates were found.\n   └─ gdal 3.13.0 | 3.13.1 | 3.13.2 | 3.13.3 would require\n      └─ python_abi 3.14.* *_cp314t, which cannot be installed because there are no viable options:\n         └─ python_abi 3.14 would constrain\n            └─ python 3.14.* *_cp314t, which conflicts with any installable versions previously reported\n"
+      ],
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37260599384'>bot CI job</a>)"
+    }
+  },
   "smithy_version": "3.61.2"
 }
