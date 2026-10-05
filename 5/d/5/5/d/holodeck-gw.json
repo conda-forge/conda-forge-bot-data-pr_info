@@ -113,30 +113,24 @@
         "migrator_version": 0,
         "version": "1.6"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4743197891.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.09.29.05.28.35",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1791191207
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 9
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_64_python3.13.____cp313: Cannot solve the request because of: cython <3.0.0 cannot be installed because there are no viable options:\n└─ cython 0.24 | 0.24.1 | ... | 0.29.37 would require\n   └─ python 3.5.*, for which no candidates were found.\n",
-        "linux_64_python3.14.____cp314: Cannot solve the request because of: cython <3.0.0 cannot be installed because there are no viable options:\n└─ cython 0.24 | 0.24.1 | ... | 0.29.37 would require\n   └─ python 3.5.*, for which no candidates were found.\n",
-        "linux_64_python3.15.____cp315: Cannot solve the request because of: cython <3.0.0 cannot be installed because there are no viable options:\n└─ cython 0.24 | 0.24.1 | ... | 0.29.37 would require\n   └─ python 3.5.*, for which no candidates were found.\n",
-        "osx_64_python3.13.____cp313: Cannot solve the request because of: cython <3.0.0 cannot be installed because there are no viable options:\n└─ cython 0.24 | 0.24.1 | ... | 0.29.37 would require\n   └─ python 3.6.*, for which no candidates were found.\n",
-        "osx_64_python3.14.____cp314: Cannot solve the request because of: cython <3.0.0 cannot be installed because there are no viable options:\n└─ cython 0.24 | 0.24.1 | ... | 0.29.37 would require\n   └─ python 3.6.*, for which no candidates were found.\n",
-        "osx_64_python3.15.____cp315: Cannot solve the request because of: cython <3.0.0 cannot be installed because there are no viable options:\n└─ cython 0.24 | 0.24.1 | ... | 0.29.37 would require\n   └─ python 3.6.*, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37281198079'>bot CI job</a>)"
-    }
-  },
+  "pinning_version": "2026.10.05.07.50.19",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
   "smithy_version": "2026.9.23"
 }
