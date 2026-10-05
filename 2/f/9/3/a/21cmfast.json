@@ -338,27 +338,24 @@
         "migrator_version": 0,
         "name": "gsl28"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4740846154.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.08.07.09.33.43",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1791161921
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 9
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_64_python3.15.____cp315: Cannot solve the request because of: astropy >=2.0 cannot be installed because there are no viable options:\n├─ astropy 8.0.0 | 8.0.1 would require\n│  └─ pyarrow >=16.0, which cannot be installed because there are no viable options:\n│     └─ pyarrow 16.0.0 | 16.1.0 | ... | 25.0.0 would require\n│        └─ python >=3.11,<3.12.0a0, for which no candidates were found.\n├─ astropy 7.2.0 would require\n│  └─ pyarrow >=14.0.2, which cannot be installed because there are no viable options:\n│     └─ pyarrow 14.0.2 | 15.0.0 | 15.0.1 | 15.0.2 would require\n│        └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n├─ astropy 7.0.0 | 7.0.1 | ... | 7.1.1 would require\n│  └─ pyarrow >=10.0.1, which cannot be installed because there are no viable options:\n│     └─ pyarrow 10.0.1 | 11.0.0 | ... | 14.0.1 would require\n│        └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n└─ astropy 2.0 | 2.0.1 | ... | 6.1.7 would require\n   └─ python 3.6.*, for which no candidates were found.\n",
-        "osx_64_python3.15.____cp315: Cannot solve the request because of: astropy >=2.0 cannot be installed because there are no viable options:\n├─ astropy 8.0.0 | 8.0.1 would require\n│  └─ pyarrow >=16.0, which cannot be installed because there are no viable options:\n│     └─ pyarrow 16.0.0 | 16.1.0 | ... | 25.0.0 would require\n│        └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n├─ astropy 7.2.0 would require\n│  └─ pyarrow >=14.0.2, which cannot be installed because there are no viable options:\n│     └─ pyarrow 14.0.2 | 15.0.0 | 15.0.1 | 15.0.2 would require\n│        └─ python >=3.8,<3.9.0a0, for which no candidates were found.\n├─ astropy 7.0.0 | 7.0.1 | ... | 7.1.1 would require\n│  └─ pyarrow >=10.0.1, which cannot be installed because there are no viable options:\n│     └─ pyarrow 10.0.1 | 11.0.0 | ... | 14.0.1 would require\n│        └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n└─ astropy 2.0 | 2.0.1 | ... | 6.1.7 would require\n   └─ python 3.6.*, for which no candidates were found.\n",
-        "osx_arm64_python3.15.____cp315: Cannot solve the request because of: astropy >=2.0 cannot be installed because there are no viable options:\n├─ astropy 8.0.0 | 8.0.1 would require\n│  └─ pyarrow >=16.0, which cannot be installed because there are no viable options:\n│     └─ pyarrow 16.0.0 | 16.1.0 | ... | 25.0.0 would require\n│        └─ python >=3.8,<3.9.0a0, for which no candidates were found.\n├─ astropy 7.2.0 would require\n│  └─ pyarrow >=14.0.2, which cannot be installed because there are no viable options:\n│     └─ pyarrow 14.0.2 | 15.0.0 | 15.0.1 | 15.0.2 would require\n│        └─ python >=3.10,<3.11.0a0, for which no candidates were found.\n├─ astropy 7.0.0 | 7.0.1 | ... | 7.1.1 would require\n│  └─ pyarrow >=10.0.1, which cannot be installed because there are no viable options:\n│     └─ pyarrow 10.0.1 | 11.0.0 | ... | 14.0.1 would require\n│        └─ python >=3.8,<3.9.0a0, for which no candidates were found.\n└─ astropy 4.0.4 | 4.1 | ... | 6.1.7 would require\n   └─ python >=3.8,<3.9.0a0, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37241845732'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "2026.8.5"
+  "pinning_version": "2026.10.03.16.10.39",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.9.23"
 }
