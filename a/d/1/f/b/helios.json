@@ -247,28 +247,24 @@
         "migrator_version": 0,
         "name": "libgdal_core313"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4747929374.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.05.09.13.09.17",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1791211559
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 9
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_64_python3.15.____cp315: Cannot solve the request because of: libboost-python-devel 1.88.* cannot be installed because there are no viable options:\n└─ libboost-python-devel 1.88.0 would require\n   └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n",
-        "osx_64_python3.15.____cp315: Cannot solve the request because of: libboost-python-devel 1.88.* cannot be installed because there are no viable options:\n└─ libboost-python-devel 1.88.0 would require\n   └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n",
-        "osx_arm64_python3.15.____cp315: Cannot solve the request because of: libboost-python-devel 1.88.* cannot be installed because there are no viable options:\n└─ libboost-python-devel 1.88.0 would require\n   └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n",
-        "win_64_python3.15.____cp315: Cannot solve the request because of: libboost-python-devel 1.88.* cannot be installed because there are no viable options:\n└─ libboost-python-devel 1.88.0 would require\n   └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37319877369'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "3.61.2"
+  "pinning_version": "2026.10.05.12.02.10",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.9.23"
 }
