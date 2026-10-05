@@ -540,28 +540,24 @@
         "migrator_version": 0,
         "name": "nlopt211"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4749411994.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.06.07.05.41.48",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1791221354
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 9
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_64_python3.15.____cp315: Cannot solve the request because of: nlopt <2.10.1 cannot be installed because there are no viable options:\n└─ nlopt 2.4.2 | 2.5.0 | ... | 2.10.0 would require\n   └─ python 3.6.*, for which no candidates were found.\n",
-        "osx_64_python3.15.____cp315: Cannot solve the request because of: nlopt <2.10.1 cannot be installed because there are no viable options:\n└─ nlopt 2.4.2 | 2.5.0 | ... | 2.10.0 would require\n   └─ python 3.6.*, for which no candidates were found.\n",
-        "osx_arm64_python3.15.____cp315: Cannot solve the request because of: nlopt <2.10.1 cannot be installed because there are no viable options:\n└─ nlopt 2.7.0 | 2.7.1 | ... | 2.10.0 would require\n   └─ python >=3.8,<3.9.0a0, for which no candidates were found.\n",
-        "win_64_python3.15.____cp315: Cannot solve the request because of: pagmo-devel 2.19.* cannot be installed because there are no viable options:\n├─ pagmo-devel 2.19.1 would require\n│  └─ nlopt >=2.10.0,<2.11.0a0, which cannot be installed because there are no viable options:\n│     └─ nlopt 2.10.0 would require\n│        └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n└─ pagmo-devel 2.19.0 | 2.19.1 would require\n   └─ ipopt >=3.14.10,<3.14.11.0a0, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37341011008'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "2026.5.29"
+  "pinning_version": "2026.10.05.12.02.10",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.9.23"
 }
