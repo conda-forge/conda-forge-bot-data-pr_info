@@ -45,7 +45,9 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4618022375.json"
+        "labels": [],
+        "number": 10,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -56,7 +58,9 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4624913917.json"
+        "labels": [],
+        "number": 11,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -67,7 +71,9 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4745424513.json"
+        "labels": [],
+        "number": 13,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
