@@ -62,25 +62,24 @@
         "migrator_version": 0,
         "name": "python312"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4753046695.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2024.05.18.00.22.24",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1791250041
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 9
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "No `.ci_support/*.yaml` files found! This can happen when a rerender results in no builds for a recipe (e.g., a recipe is python 2.7 only). This attempted migration is being reported as not solvable."
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37397714790'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "3.36.0"
+  "pinning_version": "2026.10.05.12.02.10",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.9.23"
 }
