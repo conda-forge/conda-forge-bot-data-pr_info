@@ -670,10 +670,16 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4665590165.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 56,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1791260884.0703652,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "8.15.4"
