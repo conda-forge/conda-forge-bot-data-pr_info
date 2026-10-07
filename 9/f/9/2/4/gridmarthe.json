@@ -160,10 +160,10 @@
   "bad": false,
   "pinning_version": "2026.10.02.19.10.32",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1791403028
+    "python315": 1791406219
   },
   "pre_pr_migrator_attempts": {
-    "python315": 3
+    "python315": 4
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -171,14 +171,10 @@
       "kind": "not-solvable",
       "messages": [
         "linux_64_python3.15.____cp315: Cannot solve the request because of: pandas <3.0 cannot be installed because there are no viable options:\n└─ pandas 0.17.0 | 0.17.1 | ... | 2.3.3 would require\n   └─ numpy 1.11.*, for which no candidates were found.\n",
-        "osx_64_python3.11.____cpython: HTTP status server error (502 Bad Gateway) for url (https://conda.anaconda.org/conda-forge/osx-64/04f372a60e2c24244d21548a6e24ab759331c9f4f518c0527b6ad92f146d11c3.msgpack.zst)",
-        "osx_64_python3.12.____cpython: HTTP status server error (502 Bad Gateway) for url (https://conda.anaconda.org/conda-forge/osx-64/b871f61085f43b3a0b87b95a3d7f55a0dd42be239cee1241c9a35921d33e7500.msgpack.zst)",
-        "osx_64_python3.13.____cp313: HTTP status server error (502 Bad Gateway) for url (https://conda.anaconda.org/conda-forge/osx-64/fe7838d89ba33ff24e80450f5375775c840d2a90bf381c587cfb116e2bd5ac1a.msgpack.zst)",
         "osx_64_python3.15.____cp315: Cannot solve the request because of: pandas <3.0 cannot be installed because there are no viable options:\n└─ pandas 0.17.0 | 0.17.1 | ... | 2.3.3 would require\n   └─ numpy 1.11.*, for which no candidates were found.\n",
-        "win_64_python3.11.____cpython: HTTP status server error (502 Bad Gateway) for url (https://conda.anaconda.org/conda-forge/win-64/9a8b0a6a041afad97976468849a2b52aba6edc8b0f910248f2d3690805c51c9c.msgpack.zst)",
         "win_64_python3.15.____cp315: Cannot solve the request because of: pandas <3.0 cannot be installed because there are no viable options:\n└─ pandas 0.17.0 | 0.17.1 | ... | 2.3.3 would require\n   └─ numpy 1.11.*, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37672321794'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37679357820'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.9.23"
