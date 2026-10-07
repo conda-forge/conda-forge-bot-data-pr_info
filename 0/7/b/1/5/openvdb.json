@@ -346,10 +346,21 @@
         "migrator_version": 0,
         "name": "tbb2023"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4766739694.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "13.1.0"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.05.29.18.35.10",
+  "pinning_version": "2026.10.06.17.21.00",
   "pre_pr_migrator_attempt_ts": {
     "python315": 1791330762
   },
@@ -371,5 +382,5 @@
       "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37536828845'>bot CI job</a>)"
     }
   },
-  "smithy_version": "2026.5.29"
+  "smithy_version": "2026.9.23"
 }
