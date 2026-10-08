@@ -1286,7 +1286,9 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4079798941.json"
+        "labels": [],
+        "number": 150,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1298,10 +1300,16 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4157330760.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 151,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1791497781.1383674,
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
         "migrator_version": 0,
@@ -1310,10 +1318,19 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4209182684.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          },
+          {
+            "name": "automerge"
+          }
+        ],
+        "number": 152,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1791497781.1385622,
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
         "migrator_version": 0,
@@ -1322,10 +1339,16 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4252224833.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 153,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1791497781.1386054,
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
         "migrator_version": 0,
@@ -1334,10 +1357,16 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4520720950.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 154,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1791497781.1386318,
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
         "migrator_version": 0,
