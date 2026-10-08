@@ -1244,7 +1244,13 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4773254303.json"
+        "labels": [
+          {
+            "name": "automerge"
+          }
+        ],
+        "number": 82,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1255,10 +1261,16 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4779140769.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 83,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1791471942.2724354,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "1.7.0"
