@@ -111,8 +111,21 @@
   ],
   "bad": false,
   "pinning_version": "2026.03.20.10.43.27",
-  "pre_pr_migrator_attempt_ts": {},
-  "pre_pr_migrator_attempts": {},
-  "pre_pr_migrator_status": {},
+  "pre_pr_migrator_attempt_ts": {
+    "python315": 1791490684
+  },
+  "pre_pr_migrator_attempts": {
+    "python315": 1
+  },
+  "pre_pr_migrator_status": {
+    "python315": {
+      "base_branch": "main",
+      "kind": "not-solvable",
+      "messages": [
+        "osx_64_python3.15.____cp315: Cannot solve the request because of: dipy * cannot be installed because there are no viable options:\n└─ dipy 0.11.0 | 0.12.0 | ... | 1.12.1 would require\n   └─ python 3.5.*, for which no candidates were found.\n"
+      ],
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37833825541'>bot CI job</a>)"
+    }
+  },
   "smithy_version": "3.57.0"
 }
