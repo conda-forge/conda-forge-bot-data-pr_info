@@ -433,10 +433,10 @@
   "bad": false,
   "pinning_version": "2026.09.29.05.28.35",
   "pre_pr_migrator_attempt_ts": {
-    "azure_core_cpp1164": 1791449875
+    "azure_core_cpp1164": 1791451330
   },
   "pre_pr_migrator_attempts": {
-    "azure_core_cpp1164": 1
+    "azure_core_cpp1164": 2
   },
   "pre_pr_migrator_status": {
     "azure_core_cpp1164": {
@@ -450,7 +450,7 @@
         "osx_arm64_: Cannot solve the request because of: No candidates were found for azure-storage-common-cpp 12.15.0.*.\n",
         "win_64_: Cannot solve the request because of: No candidates were found for azure-storage-common-cpp 12.15.0.*.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37750895558'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37754051534'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.9.23"
