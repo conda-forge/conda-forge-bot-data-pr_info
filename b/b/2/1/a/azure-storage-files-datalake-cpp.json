@@ -425,10 +425,10 @@
   "bad": false,
   "pinning_version": "2026.09.29.05.28.35",
   "pre_pr_migrator_attempt_ts": {
-    "azure_core_cpp1164": 1791472844
+    "azure_core_cpp1164": 1791474285
   },
   "pre_pr_migrator_attempts": {
-    "azure_core_cpp1164": 8
+    "azure_core_cpp1164": 9
   },
   "pre_pr_migrator_status": {
     "azure_core_cpp1164": {
@@ -442,7 +442,7 @@
         "osx_arm64_: Cannot solve the request because of: No candidates were found for azure-storage-blobs-cpp 12.19.0.*.\n",
         "win_64_: Cannot solve the request because of: No candidates were found for azure-storage-blobs-cpp 12.19.0.*.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37797217167'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37800322843'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.9.23"
