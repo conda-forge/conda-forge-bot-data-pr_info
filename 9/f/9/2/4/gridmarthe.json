@@ -178,10 +178,10 @@
   "bad": false,
   "pinning_version": "2026.10.08.03.25.21",
   "pre_pr_migrator_attempt_ts": {
-    "python314t": 1791546022
+    "python314t": 1791547923
   },
   "pre_pr_migrator_attempts": {
-    "python314t": 4
+    "python314t": 5
   },
   "pre_pr_migrator_status": {
     "python314t": {
@@ -190,7 +190,7 @@
       "messages": [
         "osx_64_python3.14.____cp314t: Cannot solve the request because of: pandas <3.0 cannot be installed because there are no viable options:\n└─ pandas 0.17.0 | 0.17.1 | ... | 2.3.3 would require\n   └─ numpy 1.11.*, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37922452578'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37925901459'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.9.23"
