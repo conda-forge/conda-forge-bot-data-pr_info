@@ -216,10 +216,10 @@
   "bad": false,
   "pinning_version": "2025.10.02.18.29.51",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1791574222
+    "python315": 1791576640
   },
   "pre_pr_migrator_attempts": {
-    "python315": 2
+    "python315": 3
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -230,7 +230,7 @@
         "osx_64_python3.15.____cp315: Cannot solve the request because of: photutils * cannot be installed because there are no viable options:\n├─ photutils 3.0.0 would require\n│  └─ scikit-image >=0.23, which cannot be installed because there are no viable options:\n│     └─ scikit-image 0.23.2 | 0.24.0 | ... | 0.26.0 would require\n│        └─ python >=3.10,<3.11.0a0, for which no candidates were found.\n└─ photutils 0.3.2 | 0.4 | ... | 3.0.0 would require\n   └─ python 3.6.*, for which no candidates were found.\n",
         "win_64_python3.15.____cp315: Cannot solve the request because of: photutils * cannot be installed because there are no viable options:\n├─ photutils 3.0.0 would require\n│  └─ scikit-image >=0.23, which cannot be installed because there are no viable options:\n│     └─ scikit-image 0.23.2 | 0.24.0 | ... | 0.26.0 would require\n│        └─ python >=3.10,<3.11.0a0, for which no candidates were found.\n└─ photutils 0.3.2 | 0.4 | ... | 3.0.0 would require\n   └─ python 3.6.*, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37976925862'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/37981095181'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.52.3"
