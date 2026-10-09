@@ -15,10 +15,16 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3955405808.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 1,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1791504793.6869156,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "1.0.0"
@@ -26,10 +32,16 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4212914666.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 2,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1791504793.687071,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "1.1.0"
@@ -37,10 +49,16 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4616382566.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 3,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1791504793.6871128,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "1.1.1"
@@ -48,10 +66,16 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4692263397.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 4,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1791504793.6871367,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "1.2.0"
