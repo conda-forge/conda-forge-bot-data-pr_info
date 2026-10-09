@@ -482,6 +482,17 @@
         "migrator_version": 0,
         "name": "python315"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4796455446.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "OSXArm",
+        "migrator_version": 1,
+        "name": "arm osx addition"
+      }
     }
   ],
   "bad": false,
