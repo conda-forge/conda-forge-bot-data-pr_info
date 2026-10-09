@@ -601,10 +601,21 @@
         "migrator_version": 0,
         "version": "20261001-0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4795356549.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "20261008-0"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.09.30.20.16.17",
+  "pinning_version": "2026.10.08.16.59.00",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
