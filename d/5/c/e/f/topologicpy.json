@@ -1978,6 +1978,17 @@
         "migrator_version": 0,
         "version": "0.9.82"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4799337743.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "0.9.83"
+      }
     }
   ],
   "bad": false,
