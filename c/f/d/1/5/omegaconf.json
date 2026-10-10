@@ -371,6 +371,18 @@
         "migrator_version": 1,
         "name": "noarch_python_min"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4808811261.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "2.4_branch",
+        "migrator_name": "NoarchPythonMinMigrator",
+        "migrator_version": 1,
+        "name": "noarch_python_min"
+      }
     }
   ],
   "bad": false,
