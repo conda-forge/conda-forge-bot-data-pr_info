@@ -187,7 +187,13 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4806052924.json"
+        "labels": [
+          {
+            "name": "automerge"
+          }
+        ],
+        "number": 26,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
