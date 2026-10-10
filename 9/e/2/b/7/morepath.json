@@ -80,12 +80,23 @@
         "migrator_version": 0,
         "version": "0.20"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4812683624.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "1.0.0"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2025.11.16.22.08.15",
+  "pinning_version": "2026.10.09.13.11.31",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
-  "smithy_version": "3.53.1"
+  "smithy_version": "2026.9.23"
 }
