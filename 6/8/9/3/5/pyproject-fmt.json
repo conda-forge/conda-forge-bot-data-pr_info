@@ -1326,7 +1326,9 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4806909960.json"
+        "labels": [],
+        "number": 97,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1337,7 +1339,13 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4809023800.json"
+        "labels": [
+          {
+            "name": "automerge"
+          }
+        ],
+        "number": 98,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
