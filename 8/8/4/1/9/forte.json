@@ -168,26 +168,24 @@
         "migrator_version": 0,
         "name": "libboost190"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4833952992.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.09.13.11.31",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1791829232
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 3
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_64_python3.15.____cp315: Cannot solve the request because of: psi4 >=1.9.1 cannot be installed because there are no viable options:\n└─ psi4 1.9.1 | 1.10 | ... | 1.11 would require\n   └─ pybind11-abi ==4, for which no candidates were found.\n",
-        "osx_64_python3.15.____cp315: Cannot solve the request because of: psi4 >=1.9.1 cannot be installed because there are no viable options:\n└─ psi4 1.9.1 | 1.10 | ... | 1.11 would require\n   └─ pybind11-abi ==4, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/38287513010'>bot CI job</a>)"
-    }
-  },
+  "pinning_version": "2026.10.12.05.56.53",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
   "smithy_version": "2026.9.23"
 }
