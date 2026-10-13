@@ -479,10 +479,21 @@
         "migrator_version": 0,
         "name": "editline2"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4847597258.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "2.35.3"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.09.22.19.29.34",
+  "pinning_version": "2026.10.13.16.22.34",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
