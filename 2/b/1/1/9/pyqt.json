@@ -762,10 +762,10 @@
   "bad": false,
   "pinning_version": "2026.10.06.17.21.00",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1791880776
+    "python315": 1791882270
   },
   "pre_pr_migrator_attempts": {
-    "python315": 3
+    "python315": 4
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -778,7 +778,7 @@
         "osx_arm64_python3.15.____cp315: Cannot solve the request because of: sip 6.15.3.* cannot be installed because there are no viable options:\n└─ sip 6.15.3 would require\n   └─ python >=3.14,<3.15.0a0, for which no candidates were found.\n",
         "win_64_python3.15.____cp315: Cannot solve the request because of: sip 6.15.3.* cannot be installed because there are no viable options:\n└─ sip 6.15.3 would require\n   └─ python >=3.14,<3.15.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/38369346667'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/38371339361'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.9.23"
