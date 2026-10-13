@@ -2,7 +2,9 @@
   "PRed": [
     {
       "PR": {
-        "__lazy_json__": "pr_json/4836648700.json"
+        "labels": [],
+        "number": 1,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -14,7 +16,13 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4836656334.json"
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "number": 2,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": 1791932775.7138531,
