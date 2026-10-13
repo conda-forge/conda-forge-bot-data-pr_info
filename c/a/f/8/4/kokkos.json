@@ -654,10 +654,23 @@
         "migrator_version": 0,
         "name": "libhwloc2150"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/9c1ee1ef-5067-478a-a556-bc0f36c424cc.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "v4.x",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "flang21"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.13.13.09.16",
+  "pinning_version": "2026.10.13.16.22.34",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
