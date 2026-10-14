@@ -3770,7 +3770,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3794000466.json"
+        "closed_by": "aviruthen",
+        "labels": [],
+        "merged": false,
+        "number": 370,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -3781,7 +3785,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3809171535.json"
+        "closed_by": "aviruthen",
+        "labels": [],
+        "merged": false,
+        "number": 371,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -3803,10 +3811,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3946684639.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 374,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792017532.810507,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "3.15.0"
