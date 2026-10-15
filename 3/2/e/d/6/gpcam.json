@@ -222,7 +222,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4866239292.json"
+        "closed_by": "jan-janssen",
+        "labels": [],
+        "merged": false,
+        "number": 22,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -233,7 +237,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4866793084.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 23,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
