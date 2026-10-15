@@ -240,7 +240,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4609753181.json"
+        "closed_by": "owenlamont",
+        "labels": [],
+        "merged": false,
+        "number": 20,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -251,7 +255,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4694809067.json"
+        "closed_by": "owenlamont",
+        "labels": [],
+        "merged": false,
+        "number": 21,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -262,7 +270,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4751432116.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 22,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
