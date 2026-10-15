@@ -932,7 +932,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4277061988.json"
+        "closed_by": "fbriol",
+        "labels": [],
+        "merged": false,
+        "number": 130,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
