@@ -15,7 +15,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4870156425.json"
+        "closed_by": "jwlodek",
+        "labels": [],
+        "merged": false,
+        "number": 1,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -26,7 +30,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4877043106.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 2,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
