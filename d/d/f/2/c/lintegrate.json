@@ -325,7 +325,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4233506890.json"
+        "closed_by": "mattpitkin",
+        "labels": [],
+        "merged": false,
+        "number": 47,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
