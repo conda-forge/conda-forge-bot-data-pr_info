@@ -4785,6 +4785,19 @@
         "migrator_version": 0,
         "name": "qt6_main611"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/729270f6-36bb-4534-acdb-c5f52316a419.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "LTR",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "qt6_main611"
+      }
     }
   ],
   "bad": false,
