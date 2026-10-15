@@ -164,7 +164,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3064307359.json"
+        "closed_by": "liZe",
+        "labels": [],
+        "merged": false,
+        "number": 18,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -175,7 +179,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4860910089.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 19,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
