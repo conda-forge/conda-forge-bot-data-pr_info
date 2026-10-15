@@ -28,7 +28,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2297667780.json"
+        "closed_by": "gbernardino",
+        "labels": [],
+        "merged": false,
+        "number": 2,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -39,7 +43,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3190420296.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 3,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
