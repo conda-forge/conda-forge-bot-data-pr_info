@@ -5,7 +5,7 @@
         "__lazy_json__": "pr_json/3268677096.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792071123.877176,
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
         "migrator_version": 0,
@@ -70,7 +70,7 @@
         "__lazy_json__": "pr_json/3512582120.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792071123.8774242,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "1.3.12"
@@ -236,7 +236,7 @@
         "__lazy_json__": "pr_json/4213411447.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792071123.8776057,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "1.3.14"
@@ -247,7 +247,7 @@
         "__lazy_json__": "pr_json/4325251069.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792071123.877749,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "1.4.0"
@@ -258,7 +258,7 @@
         "__lazy_json__": "pr_json/4442342907.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792071123.8778832,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "1.4.1"
@@ -269,7 +269,7 @@
         "__lazy_json__": "pr_json/4517224324.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792071123.8780172,
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
         "migrator_version": 0,
