@@ -178,7 +178,9 @@
     },
     {
       "PR": {
+        "closed_by": "regro-cf-autotick-bot",
         "labels": [],
+        "merged": false,
         "number": 17,
         "state": "closed"
       },
