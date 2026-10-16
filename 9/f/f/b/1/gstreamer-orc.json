@@ -233,12 +233,23 @@
         "migrator_version": 0,
         "version": "0.4.44"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4884664702.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "WinArm64",
+        "migrator_version": 1,
+        "name": "support windows arm64 platform"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.09.09.05.43.13",
+  "pinning_version": "2026.10.15.13.54.19",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
-  "smithy_version": "2026.9.1"
+  "smithy_version": "2026.9.23"
 }
