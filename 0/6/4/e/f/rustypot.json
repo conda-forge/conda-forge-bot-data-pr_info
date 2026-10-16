@@ -95,7 +95,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4756893068.json"
+        "closed_by": "ruben-arts",
+        "labels": [],
+        "merged": false,
+        "number": 10,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -106,7 +110,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4846216434.json"
+        "closed_by": "ruben-arts",
+        "labels": [],
+        "merged": false,
+        "number": 11,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -117,7 +125,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4861320484.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 12,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
