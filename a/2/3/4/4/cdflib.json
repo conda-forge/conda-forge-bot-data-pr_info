@@ -559,7 +559,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4641861179.json"
+        "closed_by": "Cadair",
+        "labels": [],
+        "merged": false,
+        "number": 54,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -570,7 +574,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4645607319.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 55,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
