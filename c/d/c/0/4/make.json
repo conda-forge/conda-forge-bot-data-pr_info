@@ -86,10 +86,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4751806952.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 37,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792194895.566588,
         "migrator_name": "WinArm64",
         "migrator_version": 1,
         "name": "support windows arm64 platform"
