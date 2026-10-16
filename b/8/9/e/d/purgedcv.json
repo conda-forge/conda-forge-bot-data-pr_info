@@ -106,7 +106,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4888204454.json"
+        "closed_by": "eslazarev",
+        "labels": [],
+        "merged": false,
+        "number": 10,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
