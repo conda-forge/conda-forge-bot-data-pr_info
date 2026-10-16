@@ -129,7 +129,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4882151957.json"
+        "closed_by": "hmaarrfk",
+        "labels": [],
+        "merged": false,
+        "number": 23,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
