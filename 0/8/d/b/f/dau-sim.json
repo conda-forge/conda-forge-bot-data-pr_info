@@ -2,7 +2,15 @@
   "PRed": [
     {
       "PR": {
-        "__lazy_json__": "pr_json/4883932330.json"
+        "closed_by": null,
+        "labels": [
+          {
+            "name": "automerge"
+          }
+        ],
+        "merged": true,
+        "number": 1,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
