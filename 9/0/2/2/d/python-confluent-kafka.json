@@ -1448,7 +1448,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4766493097.json"
+        "closed_by": "lpsinger",
+        "labels": [],
+        "merged": false,
+        "number": 132,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
