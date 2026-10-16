@@ -508,36 +508,24 @@
         "migrator_version": 0,
         "name": "python315"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4888257352.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "qt6_main611"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.09.07.21.55.55",
-  "pre_pr_migrator_attempt_ts": {
-    "qt6_main611": 1792151242
-  },
-  "pre_pr_migrator_attempts": {
-    "qt6_main611": 9
-  },
-  "pre_pr_migrator_status": {
-    "qt6_main611": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_64_python3.11.____cpythonqt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
-        "linux_64_python3.12.____cpythonqt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
-        "linux_64_python3.13.____cp313qt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
-        "linux_64_python3.14.____cp314qt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
-        "osx_64_python3.11.____cpythonqt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
-        "osx_64_python3.12.____cpythonqt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
-        "osx_64_python3.13.____cp313qt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
-        "osx_64_python3.14.____cp314qt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
-        "win_64_python3.11.____cpythonqt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
-        "win_64_python3.12.____cpythonqt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
-        "win_64_python3.13.____cp313qt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
-        "win_64_python3.14.____cp314qt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/38893905080'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "2026.9.1"
+  "pinning_version": "2026.10.15.13.54.19",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.9.23"
 }
