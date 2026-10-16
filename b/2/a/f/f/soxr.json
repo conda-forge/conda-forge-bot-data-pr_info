@@ -50,7 +50,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4325501565.json"
+        "closed_by": null,
+        "labels": [
+          {
+            "name": "automerge"
+          }
+        ],
+        "merged": true,
+        "number": 9,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -64,7 +72,7 @@
         "__lazy_json__": "pr_json/4884688408.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792142739.7360787,
         "migrator_name": "WinArm64",
         "migrator_version": 1,
         "name": "support windows arm64 platform"
