@@ -2371,10 +2371,23 @@
         "migrator_version": 0,
         "version": "1.27.2"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/7e9bb040-7399-495d-ac10-1567efc63822.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "1.24.x",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "flang21"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.08.03.25.21",
+  "pinning_version": "2026.10.15.13.54.19",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
