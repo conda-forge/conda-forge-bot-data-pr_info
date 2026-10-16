@@ -2374,7 +2374,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/7e9bb040-7399-495d-ac10-1567efc63822.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": null,
+        "number": null,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -2387,7 +2391,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5483387a-4573-48d3-9bc0-ca145c6ff8d7.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": null,
+        "number": null,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
