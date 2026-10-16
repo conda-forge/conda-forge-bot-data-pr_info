@@ -65,7 +65,7 @@
         "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792109612.250857,
         "migrator_name": "WinArm64",
         "migrator_version": 1,
         "name": "support windows arm64 platform"
