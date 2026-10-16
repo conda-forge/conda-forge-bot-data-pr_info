@@ -435,7 +435,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4883175225.json"
+        "closed_by": "ehfd",
+        "labels": [],
+        "merged": false,
+        "number": 49,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
