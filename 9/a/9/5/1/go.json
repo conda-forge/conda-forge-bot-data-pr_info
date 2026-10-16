@@ -2321,7 +2321,7 @@
         "__lazy_json__": "pr_json/4434013742.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792187184.4814436,
         "branch": "1.23.x",
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
