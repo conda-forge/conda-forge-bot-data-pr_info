@@ -388,7 +388,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4815028239.json"
+        "closed_by": "swainn",
+        "labels": [],
+        "merged": false,
+        "number": 32,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -399,7 +403,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4877869734.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 33,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
