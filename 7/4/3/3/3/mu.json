@@ -72,10 +72,21 @@
         "migrator_version": 0,
         "version": "1.14.4"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4889636116.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "ArchRebuild",
+        "migrator_version": 1,
+        "name": "aarch64 and ppc64le addition"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.14.09.43.56",
+  "pinning_version": "2026.10.15.13.54.19",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
