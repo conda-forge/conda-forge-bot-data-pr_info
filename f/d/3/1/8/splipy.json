@@ -111,7 +111,7 @@
         "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792109621.9381363,
         "migrator_name": "OSXArm",
         "migrator_version": 1,
         "name": "arm osx addition"
