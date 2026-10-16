@@ -543,7 +543,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4697095306.json"
+        "closed_by": "nick-harmening",
+        "labels": [],
+        "merged": false,
+        "number": 47,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -554,7 +558,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4710265948.json"
+        "closed_by": null,
+        "labels": [
+          {
+            "name": "automerge"
+          }
+        ],
+        "merged": true,
+        "number": 48,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
