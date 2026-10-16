@@ -512,8 +512,32 @@
   ],
   "bad": false,
   "pinning_version": "2026.09.07.21.55.55",
-  "pre_pr_migrator_attempt_ts": {},
-  "pre_pr_migrator_attempts": {},
-  "pre_pr_migrator_status": {},
+  "pre_pr_migrator_attempt_ts": {
+    "qt6_main611": 1792136907
+  },
+  "pre_pr_migrator_attempts": {
+    "qt6_main611": 1
+  },
+  "pre_pr_migrator_status": {
+    "qt6_main611": {
+      "base_branch": "main",
+      "kind": "not-solvable",
+      "messages": [
+        "linux_64_python3.11.____cpythonqt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
+        "linux_64_python3.12.____cpythonqt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
+        "linux_64_python3.13.____cp313qt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
+        "linux_64_python3.14.____cp314qt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
+        "osx_64_python3.11.____cpythonqt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
+        "osx_64_python3.12.____cpythonqt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
+        "osx_64_python3.13.____cp313qt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
+        "osx_64_python3.14.____cp314qt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
+        "win_64_python3.11.____cpythonqt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
+        "win_64_python3.12.____cpythonqt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
+        "win_64_python3.13.____cp313qt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n",
+        "win_64_python3.14.____cp314qt6: Cannot solve the request because of: qt6-advanced-docking-system 4.4.1.* cannot be installed because there are no viable options:\n└─ qt6-advanced-docking-system 4.4.1 would require\n   └─ qt6-main >=6.9.2,<6.10.0a0, for which no candidates were found.\n"
+      ],
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/38866101326'>bot CI job</a>)"
+    }
+  },
   "smithy_version": "2026.9.1"
 }
