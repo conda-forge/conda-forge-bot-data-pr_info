@@ -342,7 +342,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4130358676.json"
+        "closed_by": "dhirschfeld",
+        "labels": [],
+        "merged": false,
+        "number": 36,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -353,7 +357,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4174221057.json"
+        "closed_by": "dhirschfeld",
+        "labels": [],
+        "merged": false,
+        "number": 37,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -364,7 +372,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4546045136.json"
+        "closed_by": "dhirschfeld",
+        "labels": [],
+        "merged": false,
+        "number": 38,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -375,7 +387,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4832970766.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 39,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
