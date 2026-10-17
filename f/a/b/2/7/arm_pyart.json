@@ -820,25 +820,24 @@
         "migrator_version": 0,
         "version": "2.3.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4901104428.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.09.17.09.37.29",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1792231674
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 1
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "osx_64_python3.15.____cp315: Cannot solve the request because of: The following packages are incompatible\n├─ xradar >=0.8.0 can be installed with any of the following options:\n│  └─ xradar 0.8.0 | 0.9.0 | ... | 0.12.0 would require\n│     └─ dask *, which can be installed with any of the following options:\n│        ├─ dask 2023.3.0 would require\n│        │  ├─ dask-core >=2023.3.0,<2023.3.1.0a0, which can be installed with any of the following options:\n│        │  │  └─ dask-core 2023.3.0\n│        │  └─ distributed >=2023.3.0,<2023.3.1.0a0, which can be installed with any of the following options:\n│        │     └─ distributed 2023.3.0\n│        ├─ dask 2023.2.1 would require\n│        │  ├─ dask-core >=2023.2.1,<2023.2.2.0a0, which can be installed with any of the following options:\n│        │  │  └─ dask-core 2023.2.1\n│        │  └─ distributed >=2023.2.1,<2023.2.2.0a0, which can be installed with any of the following options:\n│        │     └─ distributed 2023.2.1\n│        └─ dask 2023.2.0 would require\n│           ├─ dask-core >=2023.2.0,<2023.2.1.0a0, which can be installed with any of the following options:\n│           │  └─ dask-core 2023.2.0\n│           └─ distributed >=2023.2.0,<2023.2.1.0a0, which can be installed with any of the following options:\n│              └─ distributed 2023.2.0\n└─ xarray >=2024.10.0 cannot be installed because there are no viable options:\n   ├─ xarray 2024.11.0 | 2025.1.1 | ... | 2026.9.0 would constrain\n   │  └─ distributed >=2023.11, which conflicts with any installable versions previously reported\n   └─ xarray 2024.10.0 | 2025.1.0 | ... | 2025.7.1 would constrain\n      └─ dask-core >=2023.9, which conflicts with any installable versions previously reported\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39021426549'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "2026.9.10"
+  "pinning_version": "2026.10.16.16.32.47",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.9.23"
 }
