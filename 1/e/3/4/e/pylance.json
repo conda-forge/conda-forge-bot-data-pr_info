@@ -1756,10 +1756,10 @@
   "bad": false,
   "pinning_version": "2026.10.06.17.21.00",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1792245881
+    "python315": 1792254132
   },
   "pre_pr_migrator_attempts": {
-    "python315": 1
+    "python315": 2
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -1792,7 +1792,7 @@
         "win_64_python3.14.____cp314: error determining content size from frame header",
         "win_64_python3.15.____cp315: error determining content size from frame header"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39037722534'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39043865477'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.9.23"
