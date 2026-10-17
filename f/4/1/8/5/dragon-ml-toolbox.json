@@ -3371,7 +3371,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4889885699.json"
+        "closed_by": "DrAg0n-BoRn",
+        "labels": [],
+        "merged": false,
+        "number": 269,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -3382,7 +3386,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4900648189.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 272,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
