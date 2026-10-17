@@ -352,8 +352,21 @@
   ],
   "bad": false,
   "pinning_version": "2026.08.13.08.26.46",
-  "pre_pr_migrator_attempt_ts": {},
-  "pre_pr_migrator_attempts": {},
-  "pre_pr_migrator_status": {},
+  "pre_pr_migrator_attempt_ts": {
+    "python315": 1792235452
+  },
+  "pre_pr_migrator_attempts": {
+    "python315": 1
+  },
+  "pre_pr_migrator_status": {
+    "python315": {
+      "base_branch": "main",
+      "kind": "not-solvable",
+      "messages": [
+        "osx_64_python3.15.____cp315: Cannot solve the request because of: pyspark * cannot be installed because there are no viable options:\n├─ pyspark 4.2.0 would require\n│  └─ pyarrow >=18.0.0, which cannot be installed because there are no viable options:\n│     └─ pyarrow 18.0.0 | 18.1.0 | ... | 25.0.0 would require\n│        └─ python >=3.10,<3.11.0a0, for which no candidates were found.\n├─ pyspark 4.1.2 would require\n│  └─ pyarrow >=15.0.0, which cannot be installed because there are no viable options:\n│     └─ pyarrow 15.0.0 | 15.0.1 | ... | 17.0.0 would require\n│        └─ python >=3.10,<3.11.0a0, for which no candidates were found.\n├─ pyspark 4.0.0 | 4.0.1 | 4.1.0 | 4.1.1 would require\n│  └─ pyarrow >=11.0.0, which cannot be installed because there are no viable options:\n│     └─ pyarrow 11.0.0 | 12.0.0 | ... | 14.0.2 would require\n│        └─ python >=3.8,<3.9.0a0, for which no candidates were found.\n├─ pyspark 3.3.0 | 3.3.1 | ... | 3.5.5 would require\n│  └─ numpy >=1.15,<2.0a0, which cannot be installed because there are no viable options:\n│     └─ numpy 1.15.0 | 1.15.1 | ... | 1.26.4 would require\n│        └─ python >=3.5,<3.6.0a0, for which no candidates were found.\n├─ pyspark 3.2.0 | 3.2.1 | 3.2.2 | 3.2.3 would require\n│  └─ numpy >=1.14,<2.0a0, which cannot be installed because there are no viable options:\n│     └─ numpy 1.14.0 | 1.14.1 | ... | 1.14.6 would require\n│        └─ python 3.6.*, for which no candidates were found.\n├─ pyspark 2.4.1 | 2.4.2 | ... | 3.1.3 would require\n│  └─ numpy >=1.7,<2.0a0, which cannot be installed because there are no viable options:\n│     └─ numpy 1.8.2 | 1.9.3 | ... | 1.13.3 would require\n│        └─ python 3.6.*, for which no candidates were found.\n└─ pyspark 2.1.0 | 2.1.1 | ... | 2.4.8 would require\n   └─ python 3.5.*, for which no candidates were found.\n"
+      ],
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39025242720'>bot CI job</a>)"
+    }
+  },
   "smithy_version": "2026.8.9"
 }
