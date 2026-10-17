@@ -56,7 +56,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4133704420.json"
+        "closed_by": "danyeaw",
+        "labels": [],
+        "merged": false,
+        "number": 6,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -119,7 +123,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4595934371.json"
+        "closed_by": "danyeaw",
+        "labels": [],
+        "merged": false,
+        "number": 13,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -130,7 +138,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4672334890.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 14,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
