@@ -105,7 +105,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4896067739.json"
+        "closed_by": "h-vetinari",
+        "labels": [],
+        "merged": false,
+        "number": 39,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
