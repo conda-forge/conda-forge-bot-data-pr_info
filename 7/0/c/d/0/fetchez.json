@@ -487,7 +487,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4894016437.json"
+        "closed_by": "matth-love",
+        "labels": [],
+        "merged": false,
+        "number": 41,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -498,7 +502,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4895495825.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 42,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
