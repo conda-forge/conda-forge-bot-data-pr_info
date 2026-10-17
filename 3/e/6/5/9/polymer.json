@@ -30,10 +30,10 @@
   "bad": false,
   "pinning_version": "2026.03.10.04.02.21",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1792252119
+    "python315": 1792258402
   },
   "pre_pr_migrator_attempts": {
-    "python315": 2
+    "python315": 3
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -49,7 +49,7 @@
         "win_64_python3.14.____cp314: Cannot solve the request because of: hygeos-core <1.3.0 cannot be installed because there are no viable options:\n└─ hygeos-core 1.2.0 would require\n   └─ python >=3.11,<3.14, for which no candidates were found.\n",
         "win_64_python3.15.____cp315: Cannot solve the request because of: hygeos-core <1.3.0 cannot be installed because there are no viable options:\n└─ hygeos-core 1.2.0 would require\n   └─ python >=3.11,<3.14, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39043865477'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39050128583'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.56.2"
