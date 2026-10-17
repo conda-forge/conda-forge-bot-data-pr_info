@@ -267,10 +267,10 @@
   "bad": false,
   "pinning_version": "2025.10.03.07.51.02",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1792243034
+    "python315": 1792254306
   },
   "pre_pr_migrator_attempts": {
-    "python315": 1
+    "python315": 2
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -284,7 +284,7 @@
         "osx_64_python3.14.____cp314: Cannot solve the request because of: boost * cannot be installed because there are no viable options:\n└─ boost 1.60.0 | 1.61.0 | ... | 1.85.0 would require\n   └─ python 3.5.*, for which no candidates were found.\n",
         "osx_64_python3.15.____cp315: Cannot solve the request because of: boost * cannot be installed because there are no viable options:\n└─ boost 1.60.0 | 1.61.0 | ... | 1.85.0 would require\n   └─ python 3.5.*, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39034539908'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39043865477'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.52.3"
