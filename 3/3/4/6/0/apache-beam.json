@@ -1137,10 +1137,22 @@
         "migrator_version": 0,
         "version": "2.77.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/bf6dbd90-25ce-4bed-9c3c-36132dce109e.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.06.17.21.00",
+  "pinning_version": "2026.10.16.16.32.47",
   "pre_pr_migrator_attempt_ts": {
     "python314": 1786474408
   },
