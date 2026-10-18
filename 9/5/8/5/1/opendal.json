@@ -41,7 +41,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4611152622.json"
+        "closed_by": "Xuanwo",
+        "labels": [],
+        "merged": false,
+        "number": 6,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -64,7 +68,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4908734384.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 8,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
