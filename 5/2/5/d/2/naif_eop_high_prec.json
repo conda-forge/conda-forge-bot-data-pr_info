@@ -2813,6 +2813,17 @@
         "migrator_version": 0,
         "version": "2026.10.17"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4906803385.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "2026.10.18"
+      }
     }
   ],
   "bad": false,
