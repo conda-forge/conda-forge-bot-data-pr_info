@@ -226,7 +226,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3098887002.json"
+        "closed_by": "jan-janssen",
+        "labels": [],
+        "merged": false,
+        "number": 22,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -237,7 +241,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3298706771.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 23,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -248,7 +256,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3332543671.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 24,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -259,7 +271,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3362681473.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 25,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -273,7 +289,7 @@
         "__lazy_json__": "pr_json/4909968588.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792335130.7950754,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "2.23.0"
