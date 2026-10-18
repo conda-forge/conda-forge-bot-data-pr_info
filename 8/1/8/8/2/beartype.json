@@ -680,7 +680,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4810451329.json"
+        "closed_by": "leycec",
+        "labels": [],
+        "merged": false,
+        "number": 63,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -691,7 +695,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4817357221.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 64,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
