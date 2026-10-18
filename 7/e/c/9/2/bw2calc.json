@@ -185,7 +185,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3693841097.json"
+        "closed_by": "m-rossi",
+        "labels": [],
+        "merged": false,
+        "number": 35,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -210,7 +214,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4863979129.json"
+        "closed_by": "m-rossi",
+        "labels": [],
+        "merged": false,
+        "number": 37,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -221,7 +229,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4912368843.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 38,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
