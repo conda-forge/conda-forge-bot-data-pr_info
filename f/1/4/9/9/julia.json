@@ -1596,7 +1596,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4650553650.json"
+        "closed_by": "mkitti",
+        "labels": [],
+        "merged": false,
+        "number": 314,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1607,7 +1611,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4874395921.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 315,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
