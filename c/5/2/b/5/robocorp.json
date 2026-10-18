@@ -428,7 +428,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4343303988.json"
+        "closed_by": "conda-forge-admin",
+        "labels": [],
+        "merged": false,
+        "number": 39,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -439,7 +443,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4410464203.json"
+        "closed_by": "conda-forge-admin",
+        "labels": [],
+        "merged": false,
+        "number": 40,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -450,7 +458,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4660847034.json"
+        "closed_by": "conda-forge-admin",
+        "labels": [],
+        "merged": false,
+        "number": 41,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -461,7 +473,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4912002168.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 42,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
