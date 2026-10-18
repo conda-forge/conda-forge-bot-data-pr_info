@@ -125,39 +125,24 @@
         "migrator_version": 0,
         "name": "python314"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4908580232.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2025.10.18.16.08.03",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1792319761
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 9
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_64_python3.11.____cpython: error determining content size from frame header",
-        "linux_64_python3.12.____cpython: error determining content size from frame header",
-        "linux_64_python3.13.____cp313: error determining content size from frame header",
-        "linux_64_python3.14.____cp314: error determining content size from frame header",
-        "linux_64_python3.15.____cp315: error determining content size from frame header",
-        "osx_64_python3.11.____cpython: error determining content size from frame header",
-        "osx_64_python3.12.____cpython: error determining content size from frame header",
-        "osx_64_python3.13.____cp313: error determining content size from frame header",
-        "osx_64_python3.14.____cp314: error determining content size from frame header",
-        "osx_64_python3.15.____cp315: error determining content size from frame header",
-        "win_64_python3.11.____cpython: error determining content size from frame header",
-        "win_64_python3.12.____cpython: error determining content size from frame header",
-        "win_64_python3.13.____cp313: error determining content size from frame header",
-        "win_64_python3.14.____cp314: error determining content size from frame header",
-        "win_64_python3.15.____cp315: error determining content size from frame header"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39117267162'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "3.52.3"
+  "pinning_version": "2026.10.16.16.32.47",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.10.19"
 }
