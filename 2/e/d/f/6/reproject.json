@@ -532,25 +532,24 @@
         "migrator_version": 0,
         "version": "0.21.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4907885866.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.06.24.02.34.15",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1792310533
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 9
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_ppc64le_python3.15.____cp315: Cannot solve the request because of: astropy-healpix >=1.0 cannot be installed because there are no viable options:\n└─ astropy-healpix 1.0.2 | 1.0.3 | ... | 2.0.1 would require\n   └─ python >=3.10,<3.11.0a0, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39107785440'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "2026.6.14"
+  "pinning_version": "2026.10.16.16.32.47",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.10.19"
 }
