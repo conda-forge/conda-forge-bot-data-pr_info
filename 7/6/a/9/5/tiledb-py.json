@@ -2689,30 +2689,24 @@
         "migrator_version": 0,
         "version": "0.36.1"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4908785322.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.02.25.16.03.10",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1792321992
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 9
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_64_python3.15.____cp315: Cannot solve the request because of: numpy >=1.25,<3 cannot be installed because there are no viable options:\n└─ numpy 1.25.0 | 1.25.1 | ... | 2.5.4 would require\n   └─ python >=3.10,<3.11.0a0, for which no candidates were found.\nThe following packages are incompatible\n└─ numpy >=1.25,<3 can be installed with any of the following options:\n   └─ numpy 2.5.2 | 2.5.3 | 2.5.4\n├─ the constraint numpy <2.5 cannot be fulfilled\n├─ the constraint numpy <2.5 cannot be fulfilled\n├─ the constraint numpy <2.5 cannot be fulfilled\n",
-        "linux_aarch64_python3.15.____cp315: Cannot solve the request because of: numpy >=1.25,<3 cannot be installed because there are no viable options:\n└─ numpy 1.25.0 | 1.25.1 | ... | 2.5.4 would require\n   └─ python >=3.10,<3.11.0a0, for which no candidates were found.\nThe following packages are incompatible\n└─ numpy >=1.25,<3 can be installed with any of the following options:\n   └─ numpy 2.5.2 | 2.5.3 | 2.5.4\n├─ the constraint numpy <2.5 cannot be fulfilled\n├─ the constraint numpy <2.5 cannot be fulfilled\n├─ the constraint numpy <2.5 cannot be fulfilled\n",
-        "linux_ppc64le_python3.15.____cp315: Cannot solve the request because of: numpy >=1.25,<3 cannot be installed because there are no viable options:\n└─ numpy 1.25.0 | 1.25.1 | ... | 2.5.4 would require\n   └─ python >=3.10,<3.11.0a0, for which no candidates were found.\nThe following packages are incompatible\n└─ numpy >=1.25,<3 can be installed with any of the following options:\n   └─ numpy 2.5.2 | 2.5.3 | 2.5.4\n├─ the constraint numpy <2.5 cannot be fulfilled\n├─ the constraint numpy <2.5 cannot be fulfilled\n├─ the constraint numpy <2.5 cannot be fulfilled\n",
-        "osx_64_python3.15.____cp315: Cannot solve the request because of: numpy >=1.25,<3 cannot be installed because there are no viable options:\n└─ numpy 1.25.0 | 1.25.1 | ... | 2.5.4 would require\n   └─ python >=3.10,<3.11.0a0, for which no candidates were found.\nThe following packages are incompatible\n└─ numpy >=1.25,<3 can be installed with any of the following options:\n   └─ numpy 2.5.2 | 2.5.3 | 2.5.4\n├─ the constraint numpy <2.5 cannot be fulfilled\n├─ the constraint numpy <2.5 cannot be fulfilled\n├─ the constraint numpy <2.5 cannot be fulfilled\n",
-        "osx_arm64_python3.15.____cp315: Cannot solve the request because of: numpy >=1.25,<3 cannot be installed because there are no viable options:\n└─ numpy 1.25.0 | 1.25.1 | ... | 2.5.4 would require\n   └─ python >=3.9,<3.10.0a0, for which no candidates were found.\nThe following packages are incompatible\n└─ numpy >=1.25,<3 can be installed with any of the following options:\n   └─ numpy 2.5.2 | 2.5.3 | 2.5.4\n├─ the constraint numpy <2.5 cannot be fulfilled\n├─ the constraint numpy <2.5 cannot be fulfilled\n├─ the constraint numpy <2.5 cannot be fulfilled\n",
-        "win_64_python3.15.____cp315: Cannot solve the request because of: numpy >=1.25,<3 cannot be installed because there are no viable options:\n└─ numpy 1.25.0 | 1.25.1 | ... | 2.5.4 would require\n   └─ python >=3.10,<3.11.0a0, for which no candidates were found.\nThe following packages are incompatible\n└─ numpy >=1.25,<3 can be installed with any of the following options:\n   └─ numpy 2.5.2 | 2.5.3 | 2.5.4\n├─ the constraint numpy <2.5 cannot be fulfilled\n├─ the constraint numpy <2.5 cannot be fulfilled\n├─ the constraint numpy <2.5 cannot be fulfilled\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39120567945'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "3.55.1"
+  "pinning_version": "2026.10.16.16.32.47",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.10.19"
 }
