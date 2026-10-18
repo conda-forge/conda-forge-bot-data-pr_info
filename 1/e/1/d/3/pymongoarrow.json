@@ -1015,33 +1015,24 @@
         "migrator_version": 0,
         "version": "1.15.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4908670867.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.07.16.22.35.44",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1792319284
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 9
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_64_is_freethreadingfalselibarrow22.0python3.15.____cp315: Cannot solve the request because of: pyarrow * cannot be installed because there are no viable options:\n├─ pyarrow 25.0.0 would require\n│  └─ libarrow-acero 25.0.0.*, which cannot be installed because there are no viable options:\n│     └─ libarrow-acero 25.0.0 would require\n│        └─ libarrow ==25.0.0 h21bf602_0_cuda, for which no candidates were found.\n└─ pyarrow 0.1.post | 0.2.post | ... | 25.0.0 would require\n   └─ numpy >=1.16,<1.20.0a0, for which no candidates were found.\n",
-        "linux_64_is_freethreadingfalselibarrow23.0python3.15.____cp315: Cannot solve the request because of: pyarrow * cannot be installed because there are no viable options:\n├─ pyarrow 25.0.0 would require\n│  └─ libarrow-acero 25.0.0.*, which cannot be installed because there are no viable options:\n│     └─ libarrow-acero 25.0.0 would require\n│        └─ libarrow ==25.0.0 h21bf602_0_cuda, for which no candidates were found.\n└─ pyarrow 0.1.post | 0.2.post | ... | 25.0.0 would require\n   └─ numpy >=1.16,<1.20.0a0, for which no candidates were found.\n",
-        "linux_64_is_freethreadingfalselibarrow24.0python3.15.____cp315: Cannot solve the request because of: pyarrow * cannot be installed because there are no viable options:\n├─ pyarrow 25.0.0 would require\n│  └─ libarrow-acero 25.0.0.*, which cannot be installed because there are no viable options:\n│     └─ libarrow-acero 25.0.0 would require\n│        └─ libarrow ==25.0.0 h21bf602_0_cuda, for which no candidates were found.\n└─ pyarrow 0.1.post | 0.2.post | ... | 25.0.0 would require\n   └─ numpy >=1.16,<1.20.0a0, for which no candidates were found.\n",
-        "osx_64_is_freethreadingfalselibarrow22.0python3.15.____cp315: Cannot solve the request because of: pyarrow * cannot be installed because there are no viable options:\n├─ pyarrow 25.0.0 would require\n│  └─ libarrow-acero 25.0.0.*, which cannot be installed because there are no viable options:\n│     └─ libarrow-acero 25.0.0 would require\n│        └─ libarrow ==25.0.0 h38bdf2e_0_cpu, for which no candidates were found.\n└─ pyarrow 0.1.post | 0.2.post | ... | 25.0.0 would require\n   └─ numpy 1.11.*, for which no candidates were found.\n",
-        "osx_64_is_freethreadingfalselibarrow23.0python3.15.____cp315: Cannot solve the request because of: pyarrow * cannot be installed because there are no viable options:\n├─ pyarrow 25.0.0 would require\n│  └─ libarrow-acero 25.0.0.*, which cannot be installed because there are no viable options:\n│     └─ libarrow-acero 25.0.0 would require\n│        └─ libarrow ==25.0.0 h38bdf2e_0_cpu, for which no candidates were found.\n└─ pyarrow 0.1.post | 0.2.post | ... | 25.0.0 would require\n   └─ numpy 1.11.*, for which no candidates were found.\n",
-        "osx_64_is_freethreadingfalselibarrow24.0python3.15.____cp315: Cannot solve the request because of: pyarrow * cannot be installed because there are no viable options:\n├─ pyarrow 25.0.0 would require\n│  └─ libarrow-acero 25.0.0.*, which cannot be installed because there are no viable options:\n│     └─ libarrow-acero 25.0.0 would require\n│        └─ libarrow ==25.0.0 h38bdf2e_0_cpu, for which no candidates were found.\n└─ pyarrow 0.1.post | 0.2.post | ... | 25.0.0 would require\n   └─ numpy 1.11.*, for which no candidates were found.\n",
-        "win_64_is_freethreadingfalselibarrow22.0python3.15.____cp315: Cannot solve the request because of: pyarrow * cannot be installed because there are no viable options:\n├─ pyarrow 25.0.0 would require\n│  └─ libarrow-acero 25.0.0.*, which cannot be installed because there are no viable options:\n│     └─ libarrow-acero 25.0.0 would require\n│        └─ libarrow ==25.0.0 h8a713b3_0_cuda, for which no candidates were found.\n└─ pyarrow 0.3.0 | 0.3.0.post | ... | 25.0.0 would require\n   └─ numpy >=1.16,<2.0a0, for which no candidates were found.\n",
-        "win_64_is_freethreadingfalselibarrow23.0python3.15.____cp315: Cannot solve the request because of: pyarrow * cannot be installed because there are no viable options:\n├─ pyarrow 25.0.0 would require\n│  └─ libarrow-acero 25.0.0.*, which cannot be installed because there are no viable options:\n│     └─ libarrow-acero 25.0.0 would require\n│        └─ libarrow ==25.0.0 h8a713b3_0_cuda, for which no candidates were found.\n└─ pyarrow 0.3.0 | 0.3.0.post | ... | 25.0.0 would require\n   └─ numpy >=1.16,<2.0a0, for which no candidates were found.\n",
-        "win_64_is_freethreadingfalselibarrow24.0python3.15.____cp315: Cannot solve the request because of: pyarrow * cannot be installed because there are no viable options:\n├─ pyarrow 25.0.0 would require\n│  └─ libarrow-acero 25.0.0.*, which cannot be installed because there are no viable options:\n│     └─ libarrow-acero 25.0.0 would require\n│        └─ libarrow ==25.0.0 h8a713b3_0_cuda, for which no candidates were found.\n└─ pyarrow 0.3.0 | 0.3.0.post | ... | 25.0.0 would require\n   └─ numpy >=1.16,<2.0a0, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39117267162'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "2026.6.14"
+  "pinning_version": "2026.10.16.16.32.47",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.10.19"
 }
