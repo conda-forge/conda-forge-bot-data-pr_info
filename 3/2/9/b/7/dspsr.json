@@ -325,10 +325,10 @@
   "bad": false,
   "pinning_version": "2026.08.11.09.47.50",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1792309947
+    "python315": 1792316062
   },
   "pre_pr_migrator_attempts": {
-    "python315": 7
+    "python315": 8
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -337,7 +337,7 @@
       "messages": [
         "osx_64_: Cannot solve the request because of: psrchive * cannot be installed because there are no viable options:\n└─ psrchive 2021.1.18 | 2021.2.13 | ... | 2025.4.24 would require\n   └─ cfitsio >=3.470,<3.471.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39107785440'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39114801888'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.8.9"
