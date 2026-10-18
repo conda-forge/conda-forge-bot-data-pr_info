@@ -234,12 +234,23 @@
         "migrator_version": 0,
         "version": "1.3.17"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4913504411.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "NoarchPythonMinMigrator",
+        "migrator_version": 1,
+        "name": "noarch_python_min"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.13.16.22.34",
+  "pinning_version": "2026.10.16.16.32.47",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
-  "smithy_version": "2026.9.23"
+  "smithy_version": "2026.10.19"
 }
