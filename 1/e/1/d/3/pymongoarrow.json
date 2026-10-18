@@ -1020,10 +1020,10 @@
   "bad": false,
   "pinning_version": "2026.07.16.22.35.44",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1792301637
+    "python315": 1792303848
   },
   "pre_pr_migrator_attempts": {
-    "python315": 5
+    "python315": 6
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -1040,7 +1040,7 @@
         "win_64_is_freethreadingfalselibarrow23.0python3.15.____cp315: Cannot solve the request because of: pyarrow * cannot be installed because there are no viable options:\n├─ pyarrow 25.0.0 would require\n│  └─ libarrow-acero 25.0.0.*, which cannot be installed because there are no viable options:\n│     └─ libarrow-acero 25.0.0 would require\n│        └─ libarrow ==25.0.0 h8a713b3_0_cuda, for which no candidates were found.\n└─ pyarrow 0.3.0 | 0.3.0.post | ... | 25.0.0 would require\n   └─ numpy >=1.16,<2.0a0, for which no candidates were found.\n",
         "win_64_is_freethreadingfalselibarrow24.0python3.15.____cp315: Cannot solve the request because of: pyarrow * cannot be installed because there are no viable options:\n├─ pyarrow 25.0.0 would require\n│  └─ libarrow-acero 25.0.0.*, which cannot be installed because there are no viable options:\n│     └─ libarrow-acero 25.0.0 would require\n│        └─ libarrow ==25.0.0 h8a713b3_0_cuda, for which no candidates were found.\n└─ pyarrow 0.3.0 | 0.3.0.post | ... | 25.0.0 would require\n   └─ numpy >=1.16,<2.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39098322922'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39101463005'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.6.14"
