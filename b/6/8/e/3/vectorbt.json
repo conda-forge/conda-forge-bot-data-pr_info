@@ -254,6 +254,17 @@
         "migrator_version": 0,
         "version": "1.2.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4d800316-34ce-4b16-b77c-f2fc7bcf513a.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "NoarchPythonMinMigrator",
+        "migrator_version": 1,
+        "name": "noarch_python_min"
+      }
     }
   ],
   "bad": false,
