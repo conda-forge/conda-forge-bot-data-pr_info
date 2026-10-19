@@ -70,7 +70,7 @@
         "__lazy_json__": "pr_json/4121336143.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792450315.3722765,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "0.15.0"
