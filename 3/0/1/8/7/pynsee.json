@@ -132,7 +132,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3476132652.json"
+        "closed_by": "hadrilec",
+        "labels": [],
+        "merged": false,
+        "number": 13,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -143,7 +147,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4913361823.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 14,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
