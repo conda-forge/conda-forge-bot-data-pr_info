@@ -714,7 +714,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4310445605.json"
+        "closed_by": "marcoesters",
+        "labels": [],
+        "merged": false,
+        "number": 99,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -736,7 +740,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4764400405.json"
+        "closed_by": "marcoesters",
+        "labels": [],
+        "merged": false,
+        "number": 105,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -747,7 +755,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4835164629.json"
+        "closed_by": "marcoesters",
+        "labels": [],
+        "merged": false,
+        "number": 106,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -758,7 +770,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4850749416.json"
+        "closed_by": "marcoesters",
+        "labels": [],
+        "merged": false,
+        "number": 107,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
