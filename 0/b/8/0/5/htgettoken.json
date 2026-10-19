@@ -439,6 +439,17 @@
         "migrator_version": 0,
         "name": "python315"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/492fb557-78b9-4dc6-abb7-b040746bebcb.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "NoarchPythonMinMigrator",
+        "migrator_version": 1,
+        "name": "noarch_python_min"
+      }
     }
   ],
   "bad": false,
@@ -446,5 +457,5 @@
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
-  "smithy_version": "2026.9.23"
+  "smithy_version": "2026.10.19"
 }
