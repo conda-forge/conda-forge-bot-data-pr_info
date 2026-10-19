@@ -67,7 +67,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2803959281.json"
+        "closed_by": "ocefpaf",
+        "labels": [],
+        "merged": false,
+        "number": 5,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
