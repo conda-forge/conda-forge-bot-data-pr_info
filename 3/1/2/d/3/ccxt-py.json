@@ -1445,7 +1445,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4842827016.json"
+        "closed_by": "MementoRC",
+        "labels": [],
+        "merged": false,
+        "number": 114,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1456,7 +1460,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4860311662.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 115,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
