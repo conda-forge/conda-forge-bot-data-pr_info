@@ -896,7 +896,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4313507024.json"
+        "closed_by": "benmoss",
+        "labels": [],
+        "merged": false,
+        "number": 102,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -907,7 +911,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4369808647.json"
+        "closed_by": "benmoss",
+        "labels": [],
+        "merged": false,
+        "number": 103,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -953,7 +961,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4638324624.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 106,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
