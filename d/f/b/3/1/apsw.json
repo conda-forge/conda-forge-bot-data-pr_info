@@ -979,7 +979,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4837611366.json"
+        "closed_by": "stuertz",
+        "labels": [],
+        "merged": false,
+        "number": 88,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
