@@ -398,8 +398,21 @@
   ],
   "bad": false,
   "pinning_version": "2026.02.09.23.12.11",
-  "pre_pr_migrator_attempt_ts": {},
-  "pre_pr_migrator_attempts": {},
-  "pre_pr_migrator_status": {},
+  "pre_pr_migrator_attempt_ts": {
+    "python315": 1792446848
+  },
+  "pre_pr_migrator_attempts": {
+    "python315": 1
+  },
+  "pre_pr_migrator_status": {
+    "python315": {
+      "base_branch": "main",
+      "kind": "not-solvable",
+      "messages": [
+        "osx_64_python3.15.____cp315: Cannot solve the request because of: cysignals * cannot be installed because there are no viable options:\n└─ cysignals 1.4.0 | 1.6.4 | ... | 1.12.6 would require\n   └─ python 3.5.*, for which no candidates were found.\n"
+      ],
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39327641993'>bot CI job</a>)"
+    }
+  },
   "smithy_version": "3.54.2"
 }
