@@ -93,27 +93,24 @@
         "migrator_version": 0,
         "name": "python314"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4927645898.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2025.09.01.18.08.58",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1792442751
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 2
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_64_python3.15.____cp315: Cannot solve the request because of: sparsearray * cannot be installed because there are no viable options:\n└─ sparsearray 0.8.16 would require\n   └─ python >=3.7,<3.8.0a0, for which no candidates were found.\n",
-        "osx_64_python3.15.____cp315: Cannot solve the request because of: sparsearray * cannot be installed because there are no viable options:\n└─ sparsearray 0.8.16 would require\n   └─ python >=3.7,<3.8.0a0, for which no candidates were found.\n",
-        "win_64_python3.15.____cp315: Cannot solve the request because of: sparsearray * cannot be installed because there are no viable options:\n└─ sparsearray 0.8.16 would require\n   └─ python >=3.7,<3.8.0a0, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39319066167'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "3.52.0"
+  "pinning_version": "2026.10.16.16.32.47",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.10.19"
 }
