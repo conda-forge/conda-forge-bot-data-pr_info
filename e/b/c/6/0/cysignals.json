@@ -573,7 +573,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4447076673.json"
+        "closed_by": null,
+        "labels": [
+          {
+            "name": "automerge"
+          }
+        ],
+        "merged": true,
+        "number": 67,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -585,7 +593,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4672523847.json"
+        "closed_by": "saraedum",
+        "labels": [],
+        "merged": false,
+        "number": 68,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -596,10 +608,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4720786894.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 69,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792443244.4347591,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "1.13.1"
