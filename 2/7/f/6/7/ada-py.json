@@ -773,7 +773,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4891333408.json"
+        "closed_by": "Krande",
+        "labels": [],
+        "merged": false,
+        "number": 271,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -784,7 +788,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4918518955.json"
+        "closed_by": "Krande",
+        "labels": [],
+        "merged": false,
+        "number": 272,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -795,7 +803,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4923134543.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 273,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
