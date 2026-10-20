@@ -105,7 +105,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4465723964.json"
+        "closed_by": "tjtg",
+        "labels": [],
+        "merged": false,
+        "number": 9,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -116,7 +120,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4703422198.json"
+        "closed_by": "tjtg",
+        "labels": [],
+        "merged": false,
+        "number": 10,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
