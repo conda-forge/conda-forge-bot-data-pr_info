@@ -96,7 +96,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3629175037.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 14,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -110,7 +114,7 @@
         "__lazy_json__": "pr_json/4655559325.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792511067.3402715,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "1.7.4"
@@ -121,7 +125,7 @@
         "__lazy_json__": "pr_json/4742945865.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792511067.3404632,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "1.7.5"
