@@ -311,7 +311,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4616234115.json"
+        "closed_by": "carterbox",
+        "labels": [
+          {
+            "name": "automerge"
+          }
+        ],
+        "merged": false,
+        "number": 41,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -342,7 +350,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4901014789.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 44,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
