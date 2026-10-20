@@ -66247,6 +66247,18 @@
         "name": "libiio",
         "pin_version": "1"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4935040825.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "libopenvino",
+        "pin_version": "2026.4.1"
+      }
     }
   ],
   "bad": false,
