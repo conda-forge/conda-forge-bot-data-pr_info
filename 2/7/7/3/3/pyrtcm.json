@@ -67,7 +67,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4917989744.json"
+        "closed_by": "semuadmin",
+        "labels": [],
+        "merged": false,
+        "number": 26,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
