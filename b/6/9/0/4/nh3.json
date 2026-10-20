@@ -491,10 +491,21 @@
         "migrator_version": 1,
         "name": "support windows arm64 platform"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4943747255.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "LinuxRISCV64",
+        "migrator_version": 1,
+        "name": "support linux riscv64 platform"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.20.20.11.50",
+  "pinning_version": "2026.10.20.20.12.39",
   "pre_pr_migrator_attempt_ts": {
     "python315": 1789924411
   },
