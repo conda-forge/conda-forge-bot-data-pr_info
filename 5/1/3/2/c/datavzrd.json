@@ -3198,6 +3198,17 @@
         "migrator_version": 0,
         "version": "2.75.4"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4941346509.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "2.75.5"
+      }
     }
   ],
   "bad": false,
