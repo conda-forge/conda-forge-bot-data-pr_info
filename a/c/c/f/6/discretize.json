@@ -621,7 +621,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4600241729.json"
+        "closed_by": "jcapriot",
+        "labels": [],
+        "merged": false,
+        "number": 58,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -633,7 +637,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4941790413.json"
+        "closed_by": "jcapriot",
+        "labels": [],
+        "merged": false,
+        "number": 60,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
