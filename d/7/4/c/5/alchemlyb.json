@@ -158,10 +158,10 @@
   "bad": false,
   "pinning_version": "2025.10.20.16.06.25",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1792481197
+    "python315": 1792482427
   },
   "pre_pr_migrator_attempts": {
-    "python315": 8
+    "python315": 9
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -170,7 +170,7 @@
       "messages": [
         "win_64_acceleratorjaxpython3.15.____cp315: Cannot solve the request because of: pymbar >=4 cannot be installed because there are no viable options:\n├─ pymbar 4.2.0 would require\n│  └─ jax *, which cannot be installed because there are no viable options:\n│     └─ jax 0.1.39 | 0.1.40 | ... | 0.11.2 would require\n│        └─ jaxlib *, for which no candidates were found.\n└─ pymbar 4.0.1 | 4.0.2 | ... | 4.2.0 would require\n   └─ python >=3.8,<3.9.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39384942789'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39387346288'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.52.3"
