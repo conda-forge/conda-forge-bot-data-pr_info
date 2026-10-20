@@ -2,7 +2,11 @@
   "PRed": [
     {
       "PR": {
-        "__lazy_json__": "pr_json/4927126888.json"
+        "closed_by": "mironleon",
+        "labels": [],
+        "merged": false,
+        "number": 9,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
