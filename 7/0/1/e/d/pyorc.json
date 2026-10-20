@@ -807,7 +807,7 @@
         "__lazy_json__": "pr_json/4124483595.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792522612.8058147,
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
         "migrator_version": 0,
@@ -819,7 +819,7 @@
         "__lazy_json__": "pr_json/4462354573.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792522612.806043,
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
         "migrator_version": 0,
