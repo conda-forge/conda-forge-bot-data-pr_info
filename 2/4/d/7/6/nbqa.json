@@ -608,7 +608,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2171553661.json"
+        "closed_by": "MarcoGorelli",
+        "labels": [],
+        "merged": false,
+        "number": 57,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -619,7 +623,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2267651582.json"
+        "closed_by": "MarcoGorelli",
+        "labels": [],
+        "merged": false,
+        "number": 58,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
