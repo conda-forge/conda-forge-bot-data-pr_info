@@ -779,10 +779,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4574834489.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 74,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792507044.8531554,
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
         "migrator_version": 0,
@@ -791,7 +799,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4920025925.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 75,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
