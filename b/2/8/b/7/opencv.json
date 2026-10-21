@@ -2210,10 +2210,10 @@
   "bad": false,
   "pinning_version": "2026.10.20.11.59.43",
   "pre_pr_migrator_attempt_ts": {
-    "libopenvino202641": 1792540388
+    "libopenvino202641": 1792542752
   },
   "pre_pr_migrator_attempts": {
-    "libopenvino202641": 3
+    "libopenvino202641": 4
   },
   "pre_pr_migrator_status": {
     "libopenvino202641": {
@@ -2231,7 +2231,7 @@
         "win_64_hdf51.14.6is_python_mintruepython3.11.____cpythonqt_version6: Cannot solve the request because of: python 3.13.* cannot be installed because there are no viable options:\n└─ python 3.13.0 | 3.13.1 | ... | 3.13.16 would require\n   └─ python_abi 3.13.* *_cp313t, for which no candidates were found.\n",
         "win_64_hdf52is_python_mintruepython3.11.____cpythonqt_version6: Cannot solve the request because of: python 3.13.* cannot be installed because there are no viable options:\n└─ python 3.13.0 | 3.13.1 | ... | 3.13.16 would require\n   └─ python_abi 3.13.* *_cp313t, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39514028717'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39519113099'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.10.20"
