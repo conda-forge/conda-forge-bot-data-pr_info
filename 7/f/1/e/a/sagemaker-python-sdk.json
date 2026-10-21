@@ -3800,7 +3800,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3900853487.json"
+        "closed_by": "aviruthen",
+        "labels": [],
+        "merged": false,
+        "number": 372,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
