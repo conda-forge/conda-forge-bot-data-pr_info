@@ -638,7 +638,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4815023113.json"
+        "closed_by": "rxm7706",
+        "labels": [],
+        "merged": false,
+        "number": 50,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
