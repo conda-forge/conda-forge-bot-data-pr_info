@@ -364,10 +364,21 @@
         "migrator_version": 0,
         "name": "python315"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4944444123.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "0.12.1"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.15.13.54.19",
+  "pinning_version": "2026.10.20.20.12.39",
   "pre_pr_migrator_attempt_ts": {
     "python314t": 1786474287
   },
@@ -389,5 +400,5 @@
       "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/31514791198'>bot CI job</a>)"
     }
   },
-  "smithy_version": "2026.9.23"
+  "smithy_version": "2026.10.20"
 }
