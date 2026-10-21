@@ -523,8 +523,23 @@
   ],
   "bad": false,
   "pinning_version": "2026.09.13.13.29.48",
-  "pre_pr_migrator_attempt_ts": {},
-  "pre_pr_migrator_attempts": {},
-  "pre_pr_migrator_status": {},
+  "pre_pr_migrator_attempt_ts": {
+    "python315": 1792604928
+  },
+  "pre_pr_migrator_attempts": {
+    "python315": 1
+  },
+  "pre_pr_migrator_status": {
+    "python315": {
+      "base_branch": "main",
+      "kind": "not-solvable",
+      "messages": [
+        "linux_64_python3.15.____cp315: Cannot solve the request because of: httpstan >=4.6,<4.7 cannot be installed because there are no viable options:\n└─ httpstan 4.6.1 would require\n   └─ python >=3.8,<3.9.0a0, for which no candidates were found.\n",
+        "osx_64_python3.15.____cp315: Cannot solve the request because of: httpstan >=4.6,<4.7 cannot be installed because there are no viable options:\n└─ httpstan 4.6.1 would require\n   └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n",
+        "osx_arm64_python3.15.____cp315: Cannot solve the request because of: httpstan >=4.6,<4.7 cannot be installed because there are no viable options:\n└─ httpstan 4.6.1 would require\n   └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n"
+      ],
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/39640293536'>bot CI job</a>)"
+    }
+  },
   "smithy_version": "2026.9.10"
 }
