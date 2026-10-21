@@ -45,10 +45,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4259046602.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 5,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792572621.2016625,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "0.2.54"
@@ -56,10 +64,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4268181668.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 6,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792572621.2018263,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "0.2.55"
@@ -67,10 +83,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4304595631.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 7,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792572621.2019074,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "0.2.56"
@@ -78,10 +102,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4307960387.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 8,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792572621.2019632,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "0.2.57"
