@@ -2,7 +2,11 @@
   "PRed": [
     {
       "PR": {
-        "__lazy_json__": "pr_json/3994429537.json"
+        "closed_by": "Hofer-Julian",
+        "labels": [],
+        "merged": false,
+        "number": 1,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -13,7 +17,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4008162683.json"
+        "closed_by": "Hofer-Julian",
+        "labels": [],
+        "merged": false,
+        "number": 2,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -24,7 +32,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4759095896.json"
+        "closed_by": "Hofer-Julian",
+        "labels": [],
+        "merged": false,
+        "number": 3,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -35,7 +47,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4858470047.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 4,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
