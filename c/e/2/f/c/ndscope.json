@@ -485,7 +485,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4872308384.json"
+        "closed_by": "evonreis",
+        "labels": [],
+        "merged": false,
+        "number": 53,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
