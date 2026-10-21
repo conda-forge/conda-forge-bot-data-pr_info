@@ -54,7 +54,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4569049974.json"
+        "closed_by": "rxm7706",
+        "labels": [],
+        "merged": false,
+        "number": 5,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -65,7 +69,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4684160359.json"
+        "closed_by": "rxm7706",
+        "labels": [],
+        "merged": false,
+        "number": 6,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -76,7 +84,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4779804277.json"
+        "closed_by": "rxm7706",
+        "labels": [],
+        "merged": false,
+        "number": 7,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -87,7 +99,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4944038697.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 8,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
