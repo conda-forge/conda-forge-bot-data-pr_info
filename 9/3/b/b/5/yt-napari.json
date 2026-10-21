@@ -80,7 +80,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2207257157.json"
+        "closed_by": "chrishavlin",
+        "labels": [],
+        "merged": false,
+        "number": 7,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -91,7 +95,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4955611097.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 10,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
