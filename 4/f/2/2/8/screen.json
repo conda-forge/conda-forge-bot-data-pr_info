@@ -34,7 +34,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2978491833.json"
+        "closed_by": "fhoehle",
+        "labels": [],
+        "merged": false,
+        "number": 5,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -45,7 +49,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4037663860.json"
+        "closed_by": "fhoehle",
+        "labels": [],
+        "merged": false,
+        "number": 6,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
