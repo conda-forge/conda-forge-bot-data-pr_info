@@ -28,7 +28,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4958359162.json"
+        "closed_by": "j-atkins",
+        "labels": [],
+        "merged": false,
+        "number": 41,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
