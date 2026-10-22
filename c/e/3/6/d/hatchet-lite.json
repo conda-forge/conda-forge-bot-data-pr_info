@@ -968,7 +968,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4955804909.json"
+        "closed_by": "conda-forge-admin",
+        "labels": [],
+        "merged": false,
+        "number": 76,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -979,7 +983,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4970419941.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 77,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
