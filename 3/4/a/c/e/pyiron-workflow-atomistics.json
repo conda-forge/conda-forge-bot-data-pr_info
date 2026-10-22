@@ -67,7 +67,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4764521577.json"
+        "closed_by": "ligerzero-ai",
+        "labels": [],
+        "merged": false,
+        "number": 8,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
