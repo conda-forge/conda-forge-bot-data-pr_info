@@ -244,7 +244,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4914971515.json"
+        "closed_by": "wolfv",
+        "labels": [],
+        "merged": false,
+        "number": 21,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -255,7 +259,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4961718646.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 22,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
