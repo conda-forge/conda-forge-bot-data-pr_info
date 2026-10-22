@@ -25172,7 +25172,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4244789262.json"
+        "closed_by": "raulcd",
+        "labels": [],
+        "merged": false,
+        "number": 2050,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -25295,7 +25299,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4798201549.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 2061,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
