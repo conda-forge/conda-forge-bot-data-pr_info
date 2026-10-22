@@ -116,7 +116,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4889859515.json"
+        "closed_by": "Andy-Jost",
+        "labels": [],
+        "merged": false,
+        "number": 32,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
