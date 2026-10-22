@@ -80,7 +80,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4334769866.json"
+        "closed_by": "MridulS",
+        "labels": [],
+        "merged": false,
+        "number": 7,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -91,7 +95,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4957084632.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 8,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
