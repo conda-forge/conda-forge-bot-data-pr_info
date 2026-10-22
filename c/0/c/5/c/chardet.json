@@ -419,6 +419,17 @@
         "migrator_version": 0,
         "name": "python315"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4962874563.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "LinuxRISCV64",
+        "migrator_version": 1,
+        "name": "support linux riscv64 platform"
+      }
     }
   ],
   "bad": false,
