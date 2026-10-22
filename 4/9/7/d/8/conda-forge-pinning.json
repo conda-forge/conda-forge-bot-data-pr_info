@@ -66315,6 +66315,18 @@
         "migrator_version": 0,
         "name": "ocaml551"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4973290365.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "icu",
+        "pin_version": "79"
+      }
     }
   ],
   "bad": false,
