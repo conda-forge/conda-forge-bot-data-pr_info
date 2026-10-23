@@ -2,7 +2,11 @@
   "PRed": [
     {
       "PR": {
-        "__lazy_json__": "pr_json/4364749805.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 1,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -13,10 +17,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4371130630.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 2,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1792725742.8316185,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "0.8.0"
