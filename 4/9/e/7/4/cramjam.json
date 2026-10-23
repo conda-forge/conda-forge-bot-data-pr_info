@@ -569,7 +569,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4339175721.json"
+        "closed_by": "milesgranger",
+        "labels": [],
+        "merged": false,
+        "number": 52,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -580,7 +584,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4360244786.json"
+        "closed_by": "milesgranger",
+        "labels": [],
+        "merged": false,
+        "number": 53,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -603,7 +611,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4687359348.json"
+        "closed_by": "milesgranger",
+        "labels": [],
+        "merged": false,
+        "number": 55,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -614,7 +626,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4846657757.json"
+        "closed_by": "milesgranger",
+        "labels": [],
+        "merged": false,
+        "number": 56,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
