@@ -126,7 +126,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4913113589.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 22,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -137,7 +141,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4971267271.json"
+        "closed_by": "syedhamidali",
+        "labels": [],
+        "merged": false,
+        "number": 23,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
