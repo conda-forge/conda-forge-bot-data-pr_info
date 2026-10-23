@@ -273,7 +273,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4407867802.json"
+        "closed_by": "killua156",
+        "labels": [],
+        "merged": false,
+        "number": 25,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -284,7 +288,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4904734139.json"
+        "closed_by": "killua156",
+        "labels": [],
+        "merged": false,
+        "number": 26,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
