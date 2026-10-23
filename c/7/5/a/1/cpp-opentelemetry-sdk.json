@@ -1028,7 +1028,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4074426356.json"
+        "closed_by": "lidavidm",
+        "labels": [],
+        "merged": false,
+        "number": 89,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1039,7 +1043,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4611608860.json"
+        "closed_by": "lidavidm",
+        "labels": [],
+        "merged": false,
+        "number": 92,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1050,7 +1058,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4975998326.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 93,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
