@@ -1283,12 +1283,24 @@
         "migrator_version": 0,
         "version": "4.17.1"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/4984933857.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "proj99"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.15.13.54.19",
+  "pinning_version": "2026.10.23.11.47.31",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
-  "smithy_version": "2026.9.23"
+  "smithy_version": "2026.10.21"
 }
