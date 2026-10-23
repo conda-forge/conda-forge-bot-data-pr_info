@@ -579,7 +579,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4954316308.json"
+        "closed_by": "IAlibay",
+        "labels": [],
+        "merged": false,
+        "number": 79,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
