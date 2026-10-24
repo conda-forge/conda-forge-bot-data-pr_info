@@ -63982,7 +63982,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4074530911.json"
+        "closed_by": "xhochy",
+        "labels": [],
+        "merged": false,
+        "number": 8739,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -64270,7 +64274,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4131099605.json"
+        "closed_by": "xhochy",
+        "labels": [],
+        "merged": false,
+        "number": 8773,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -64310,7 +64318,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4132233784.json"
+        "closed_by": "xhochy",
+        "labels": [],
+        "merged": false,
+        "number": 8776,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -64448,7 +64460,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4162500234.json"
+        "closed_by": "xhochy",
+        "labels": [],
+        "merged": false,
+        "number": 8791,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -64598,7 +64614,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4180396450.json"
+        "closed_by": "xhochy",
+        "labels": [],
+        "merged": false,
+        "number": 8804,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -64652,7 +64672,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4208371899.json"
+        "closed_by": "xhochy",
+        "labels": [],
+        "merged": false,
+        "number": 8811,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -64968,7 +64992,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4250401334.json"
+        "closed_by": "xhochy",
+        "labels": [],
+        "merged": false,
+        "number": 8846,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
