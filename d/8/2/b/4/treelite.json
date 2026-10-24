@@ -627,7 +627,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4993340931.json"
+        "closed_by": "chyunsu3",
+        "labels": [],
+        "merged": false,
+        "number": 108,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
