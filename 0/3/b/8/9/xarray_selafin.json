@@ -52,7 +52,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3825918746.json"
+        "closed_by": "tomsail",
+        "labels": [],
+        "merged": false,
+        "number": 6,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -63,7 +67,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4996532177.json"
+        "closed_by": "tomsail",
+        "labels": [],
+        "merged": false,
+        "number": 7,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
