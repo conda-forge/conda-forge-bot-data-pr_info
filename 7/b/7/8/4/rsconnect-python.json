@@ -395,7 +395,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4895370974.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 59,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": 1792812988.9700673,
