@@ -652,7 +652,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4667160502.json"
+        "closed_by": "ofajardo",
+        "labels": [],
+        "merged": false,
+        "number": 63,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -663,7 +667,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4998663142.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 66,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
