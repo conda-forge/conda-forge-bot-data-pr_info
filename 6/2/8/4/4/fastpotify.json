@@ -229,7 +229,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4942206081.json"
+        "closed_by": "lucascolley",
+        "labels": [],
+        "merged": false,
+        "number": 28,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -240,7 +244,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4945609531.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 29,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
