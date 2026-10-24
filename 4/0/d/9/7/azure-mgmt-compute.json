@@ -408,7 +408,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3092486862.json"
+        "closed_by": "xylar",
+        "labels": [],
+        "merged": false,
+        "number": 41,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -419,7 +423,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3216978280.json"
+        "closed_by": "xylar",
+        "labels": [],
+        "merged": false,
+        "number": 42,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -430,7 +438,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3598715061.json"
+        "closed_by": "xylar",
+        "labels": [],
+        "merged": false,
+        "number": 43,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -441,7 +453,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3911418888.json"
+        "closed_by": "xylar",
+        "labels": [],
+        "merged": false,
+        "number": 44,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
