@@ -494,10 +494,10 @@
   "bad": false,
   "pinning_version": "2026.08.01.09.47.35",
   "pre_pr_migrator_attempt_ts": {
-    "pytorch214": 1792898104
+    "pytorch214": 1792902344
   },
   "pre_pr_migrator_attempts": {
-    "pytorch214": 2
+    "pytorch214": 3
   },
   "pre_pr_migrator_status": {
     "pytorch214": {
@@ -509,7 +509,7 @@
         "linux_64_cuda_compiler_version12.9python3.13.____cp313: Cannot solve the request because of: torchvision * cannot be installed because there are no viable options:\n├─ torchvision 0.29.1 would require\n│  └─ libcudnn >=9.27.0.42,<10.0a0, which cannot be installed because there are no viable options:\n│     ├─ libcudnn 9.27.0.42 would require\n│     │  └─ cuda-arch >=7.5, which cannot be installed because there are no viable options:\n│     │     └─ cuda-arch 7.5 | 8.0 | ... | 12.1 would require\n│     │        └─ __cuda_arch >=7.5, for which no candidates were found.\n│     └─ libcudnn 9.27.0.42 would require\n│        └─ cuda-version >=13,<14.0a0, for which no candidates were found.\n└─ torchvision 0.8.2 | 0.9.0 | ... | 0.29.1 would require\n   └─ python >=3.7,<3.8.0a0, for which no candidates were found.\nThe following packages are incompatible\n└─ torchvision * can be installed with any of the following options:\n   └─ torchvision 0.29.1 would require\n      └─ pytorch * cpu*, which can be installed with any of the following options:\n         └─ pytorch 2.14.1\n├─ the constraint pytorch * cuda* cannot be fulfilled\n├─ the constraint pytorch * cuda* cannot be fulfilled\n",
         "linux_64_cuda_compiler_version12.9python3.14.____cp314: Cannot solve the request because of: torchvision * cannot be installed because there are no viable options:\n├─ torchvision 0.29.1 would require\n│  └─ libcudnn >=9.27.0.42,<10.0a0, which cannot be installed because there are no viable options:\n│     ├─ libcudnn 9.27.0.42 would require\n│     │  └─ cuda-arch >=7.5, which cannot be installed because there are no viable options:\n│     │     └─ cuda-arch 7.5 | 8.0 | ... | 12.1 would require\n│     │        └─ __cuda_arch >=7.5, for which no candidates were found.\n│     └─ libcudnn 9.27.0.42 would require\n│        └─ cuda-version >=13,<14.0a0, for which no candidates were found.\n└─ torchvision 0.8.2 | 0.9.0 | ... | 0.29.1 would require\n   └─ python >=3.7,<3.8.0a0, for which no candidates were found.\nThe following packages are incompatible\n└─ torchvision * can be installed with any of the following options:\n   └─ torchvision 0.29.1 would require\n      └─ pytorch * cpu*, which can be installed with any of the following options:\n         └─ pytorch 2.14.1\n├─ the constraint pytorch * cuda* cannot be fulfilled\n├─ the constraint pytorch * cuda* cannot be fulfilled\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/40155817915'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/40158826488'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.6.14"
