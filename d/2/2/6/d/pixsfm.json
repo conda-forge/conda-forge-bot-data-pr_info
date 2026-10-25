@@ -590,10 +590,10 @@
   "bad": false,
   "pinning_version": "2026.08.01.09.47.35",
   "pre_pr_migrator_attempt_ts": {
-    "pytorch214": 1792940608
+    "pytorch214": 1792947632
   },
   "pre_pr_migrator_attempts": {
-    "pytorch214": 7
+    "pytorch214": 8
   },
   "pre_pr_migrator_status": {
     "pytorch214": {
@@ -617,7 +617,7 @@
         "linux_aarch64_c_stdlib_version2.28cuda_compiler_version13.4cxx_compiler_version15hdf52python3.13.____cp313: Cannot solve the request because of: colmap 3.8.* gpu* cannot be installed because there are no viable options:\n└─ colmap 3.8 would require\n   └─ cuda-version >=12.0,<13, for which no candidates were found.\n",
         "linux_aarch64_c_stdlib_version2.28cuda_compiler_version13.4cxx_compiler_version15hdf52python3.14.____cp314: Cannot solve the request because of: colmap 3.8.* gpu* cannot be installed because there are no viable options:\n└─ colmap 3.8 would require\n   └─ cuda-version >=12.0,<13, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/40203136914'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/40212987926'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.6.14"
