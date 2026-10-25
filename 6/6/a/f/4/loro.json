@@ -250,12 +250,24 @@
         "migrator_version": 0,
         "version": "1.17.1"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5006138309.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.22.17.11.22",
+  "pinning_version": "2026.10.25.07.44.23",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
-  "smithy_version": "2026.10.21"
+  "smithy_version": "2026.10.24"
 }
