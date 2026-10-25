@@ -635,23 +635,19 @@
   "bad": false,
   "pinning_version": "2026.09.25.21.46.02",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1792929399
+    "python315": 1792931275
   },
   "pre_pr_migrator_attempts": {
-    "python315": 1
+    "python315": 2
   },
   "pre_pr_migrator_status": {
     "python315": {
       "base_branch": "main",
       "kind": "not-solvable",
       "messages": [
-        "linux_64_python3.15.____cp315: Cannot solve the request because of: cramjam >=2.3 cannot be installed because there are no viable options:\n└─ cramjam 2.3.0 | 2.3.1 | ... | 2.14.0 would require\n   └─ python >=3.6,<3.7.0a0, for which no candidates were found.\n",
-        "linux_ppc64le_python3.15.____cp315: Cannot solve the request because of: cramjam >=2.3 cannot be installed because there are no viable options:\n└─ cramjam 2.3.0 | 2.3.1 | ... | 2.14.0 would require\n   └─ python >=3.8,<3.9.0a0, for which no candidates were found.\n",
-        "osx_64_python3.15.____cp315: Cannot solve the request because of: cramjam >=2.3 cannot be installed because there are no viable options:\n└─ cramjam 2.3.0 | 2.3.1 | ... | 2.14.0 would require\n   └─ python >=3.6,<3.7.0a0, for which no candidates were found.\n",
-        "osx_arm64_python3.15.____cp315: Cannot solve the request because of: cramjam >=2.3 cannot be installed because there are no viable options:\n└─ cramjam 2.5.0 | 2.6.0 | ... | 2.14.0 would require\n   └─ python >=3.8,<3.9.0a0, for which no candidates were found.\n",
         "win_64_python3.15.____cp315: Cannot solve the request because of: cramjam >=2.3 cannot be installed because there are no viable options:\n└─ cramjam 2.3.0 | 2.3.1 | ... | 2.14.0 would require\n   └─ python >=3.8,<3.9.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/40189002809'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/40191278902'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.9.23"
