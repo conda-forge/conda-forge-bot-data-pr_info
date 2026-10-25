@@ -2,7 +2,11 @@
   "PRed": [
     {
       "PR": {
-        "__lazy_json__": "pr_json/4667110403.json"
+        "closed_by": "ilgrad",
+        "labels": [],
+        "merged": false,
+        "number": 1,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -13,7 +17,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4689168341.json"
+        "closed_by": "ilgrad",
+        "labels": [],
+        "merged": false,
+        "number": 2,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -24,7 +32,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4690765854.json"
+        "closed_by": "ilgrad",
+        "labels": [],
+        "merged": false,
+        "number": 3,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -35,7 +47,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4723891583.json"
+        "closed_by": "ilgrad",
+        "labels": [],
+        "merged": false,
+        "number": 4,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
