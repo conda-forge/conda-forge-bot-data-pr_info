@@ -179,13 +179,39 @@
       }
     }
   ],
-  "bad": false,
+  "bad": {
+    "exception": "Error running 'conda-forge-tick-container migrate-feedstock --feedstock-name ocamlbuild --default-branch main --existing-feedstock-node-attrs - --log-level info --kwargs {\n  \"hash_type\": \"sha256\"\n}' in container - error AttributeError raised:\ntraceback: Traceback (most recent call last):\n  File \"/opt/conda-forge-bot/conda_forge_tick/container_cli.py\", line 115, in _run_bot_task\n    data = func(attrs=attrs, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/conda-forge-bot/conda_forge_tick/container_cli.py\", line 230, in _migrate_feedstock\n    data = run_migration_local(\n           ^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/conda-forge-bot/conda_forge_tick/migration_runner.py\", line 271, in run_migration_local\n    migrator.run_post_piggyback_migrations(recipe_dir, feedstock_ctx.attrs, **kwargs)\n  File \"/opt/conda-forge-bot/conda_forge_tick/migrators/core.py\", line 663, in run_post_piggyback_migrations\n    mini_migrator.migrate(recipe_dir, attrs, **kwargs)\n  File \"/opt/conda-forge-bot/conda_forge_tick/migrators/recipe_v1.py\", line 213, in migrate\n    yaml = combine_conditions(yaml)\n           ^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/conda-forge-bot/conda_forge_tick/migrators/recipe_v1.py\", line 194, in combine_conditions\n    node[k] = combine_conditions(v)\n              ^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/conda-forge-bot/conda_forge_tick/migrators/recipe_v1.py\", line 161, in combine_conditions\n    node[i - 1][\"then\"].append(node[i])\n    ^^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'CommentedMap' object has no attribute 'append'\n",
+    "traceback": [
+      "Traceback (most recent call last):",
+      "  File \"/opt/conda-forge-bot/conda_forge_tick/container_cli.py\", line 115, in _run_bot_task",
+      "    data = func(attrs=attrs, **kwargs)",
+      "           ^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+      "  File \"/opt/conda-forge-bot/conda_forge_tick/container_cli.py\", line 230, in _migrate_feedstock",
+      "    data = run_migration_local(",
+      "           ^^^^^^^^^^^^^^^^^^^^",
+      "  File \"/opt/conda-forge-bot/conda_forge_tick/migration_runner.py\", line 271, in run_migration_local",
+      "    migrator.run_post_piggyback_migrations(recipe_dir, feedstock_ctx.attrs, **kwargs)",
+      "  File \"/opt/conda-forge-bot/conda_forge_tick/migrators/core.py\", line 663, in run_post_piggyback_migrations",
+      "    mini_migrator.migrate(recipe_dir, attrs, **kwargs)",
+      "  File \"/opt/conda-forge-bot/conda_forge_tick/migrators/recipe_v1.py\", line 213, in migrate",
+      "    yaml = combine_conditions(yaml)",
+      "           ^^^^^^^^^^^^^^^^^^^^^^^^",
+      "  File \"/opt/conda-forge-bot/conda_forge_tick/migrators/recipe_v1.py\", line 194, in combine_conditions",
+      "    node[k] = combine_conditions(v)",
+      "              ^^^^^^^^^^^^^^^^^^^^^",
+      "  File \"/opt/conda-forge-bot/conda_forge_tick/migrators/recipe_v1.py\", line 161, in combine_conditions",
+      "    node[i - 1][\"then\"].append(node[i])",
+      "    ^^^^^^^^^^^^^^^^^^^^^^^^^^",
+      "AttributeError: 'CommentedMap' object has no attribute 'append'",
+      ""
+    ]
+  },
   "pinning_version": "2025.12.10.16.41.21",
   "pre_pr_migrator_attempt_ts": {
-    "ocaml551": 1792942699
+    "ocaml551": 1792943663
   },
   "pre_pr_migrator_attempts": {
-    "ocaml551": 68
+    "ocaml551": 69
   },
   "pre_pr_migrator_status": {
     "ocaml551": {
@@ -194,7 +220,7 @@
       "messages": [
         "Traceback (most recent call last):\n  File \"/opt/conda-forge-bot/conda_forge_tick/container_cli.py\", line 115, in _run_bot_task\n    data = func(attrs=attrs, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/conda-forge-bot/conda_forge_tick/container_cli.py\", line 230, in _migrate_feedstock\n    data = run_migration_local(\n           ^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/conda-forge-bot/conda_forge_tick/migration_runner.py\", line 271, in run_migration_local\n    migrator.run_post_piggyback_migrations(recipe_dir, feedstock_ctx.attrs, **kwargs)\n  File \"/opt/conda-forge-bot/conda_forge_tick/migrators/core.py\", line 663, in run_post_piggyback_migrations\n    mini_migrator.migrate(recipe_dir, attrs, **kwargs)\n  File \"/opt/conda-forge-bot/conda_forge_tick/migrators/recipe_v1.py\", line 213, in migrate\n    yaml = combine_conditions(yaml)\n           ^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/conda-forge-bot/conda_forge_tick/migrators/recipe_v1.py\", line 194, in combine_conditions\n    node[k] = combine_conditions(v)\n              ^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/conda-forge-bot/conda_forge_tick/migrators/recipe_v1.py\", line 161, in combine_conditions\n    node[i - 1][\"then\"].append(node[i])\n    ^^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'CommentedMap' object has no attribute 'append'\n"
       ],
-      "url": "https://github.com/conda-forge/conda-forge-bot/actions/runs/40206561689"
+      "url": "https://github.com/conda-forge/conda-forge-bot/actions/runs/40208098559"
     }
   },
   "smithy_version": "3.53.3"
