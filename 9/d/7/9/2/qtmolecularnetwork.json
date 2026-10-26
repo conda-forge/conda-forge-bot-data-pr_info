@@ -304,10 +304,10 @@
   "bad": false,
   "pinning_version": "2026.04.25.10.12.57",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1793022060
+    "python315": 1793025802
   },
   "pre_pr_migrator_attempts": {
-    "python315": 1
+    "python315": 2
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -318,7 +318,7 @@
         "osx_64_: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
         "win_64_: Cannot solve the request because of: No candidates were found for pin_compatible *.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/40328185359'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/40336798055'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.61.2"
