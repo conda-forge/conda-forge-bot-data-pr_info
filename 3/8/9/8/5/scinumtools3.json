@@ -360,7 +360,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5004619614.json"
+        "closed_by": "vrtulka23",
+        "labels": [],
+        "merged": false,
+        "number": 29,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -371,7 +375,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5023206160.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 30,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
