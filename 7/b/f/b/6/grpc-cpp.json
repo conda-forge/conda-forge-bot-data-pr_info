@@ -4467,7 +4467,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4576960281.json"
+        "closed_by": "h-vetinari",
+        "labels": [],
+        "merged": false,
+        "number": 437,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -4478,7 +4482,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4971977387.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 439,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
