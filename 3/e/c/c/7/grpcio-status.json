@@ -1012,7 +1012,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4576591595.json"
+        "closed_by": "xylar",
+        "labels": [],
+        "merged": false,
+        "number": 83,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1023,7 +1027,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4970362788.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 84,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1034,10 +1042,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5016746253.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 85,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1793032229.0233228,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "1.85.0"
