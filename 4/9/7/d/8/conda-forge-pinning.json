@@ -66387,12 +66387,24 @@
         "migrator_version": 0,
         "name": "ocaml551"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5017551641.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "proj99"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.23.11.47.31",
+  "pinning_version": "2026.10.25.07.44.23",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
-  "smithy_version": "2026.10.21"
+  "smithy_version": "2026.10.24"
 }
