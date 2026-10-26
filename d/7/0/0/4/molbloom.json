@@ -83,25 +83,24 @@
         "migrator_version": 0,
         "version": "3.2.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5023745989.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.04.25.10.12.57",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1793030237
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 3
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "osx_64_python3.15.____cp315: Cannot solve the request because of: rdkit * cannot be installed because there are no viable options:\n└─ rdkit 2017.9.3 | 2018.3.1 | ... | 2026.9.1 would require\n   └─ python 3.6.*, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/40348727380'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "3.61.2"
+  "pinning_version": "2026.10.26.16.27.54",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.10.24"
 }
