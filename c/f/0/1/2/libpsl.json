@@ -304,12 +304,24 @@
         "migrator_version": 0,
         "version": "0.23.3"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5023310014.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "icu79"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.08.20.20.38.26",
+  "pinning_version": "2026.10.26.16.27.54",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
-  "smithy_version": "2026.8.9"
+  "smithy_version": "2026.10.24"
 }
