@@ -599,7 +599,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5023142723.json"
+        "closed_by": "wshanks",
+        "labels": [],
+        "merged": false,
+        "number": 73,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
