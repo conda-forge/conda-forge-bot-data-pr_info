@@ -804,12 +804,23 @@
         "migrator_version": 0,
         "name": "libvpx117"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5021537176.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "6.11.3"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.02.19.10.32",
+  "pinning_version": "2026.10.26.14.32.39",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
-  "smithy_version": "2026.9.23"
+  "smithy_version": "2026.10.24"
 }
