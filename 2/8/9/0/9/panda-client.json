@@ -888,7 +888,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4935653970.json"
+        "closed_by": "tmaeno",
+        "labels": [],
+        "merged": false,
+        "number": 131,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -899,7 +903,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4950226187.json"
+        "closed_by": "tmaeno",
+        "labels": [],
+        "merged": false,
+        "number": 132,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -910,7 +918,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5017427423.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 133,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
