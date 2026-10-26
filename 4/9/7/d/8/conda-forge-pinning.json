@@ -66403,6 +66403,18 @@
         "migrator_version": 0,
         "name": "proj99"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5018191623.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "libgrpc",
+        "pin_version": "1.84"
+      }
     }
   ],
   "bad": false,
