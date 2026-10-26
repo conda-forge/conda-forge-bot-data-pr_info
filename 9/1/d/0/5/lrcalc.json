@@ -174,7 +174,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4448956133.json"
+        "closed_by": "saraedum",
+        "labels": [],
+        "merged": false,
+        "number": 22,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
