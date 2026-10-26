@@ -142,7 +142,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5004385335.json"
+        "closed_by": "xhochy",
+        "labels": [],
+        "merged": false,
+        "number": 11,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
