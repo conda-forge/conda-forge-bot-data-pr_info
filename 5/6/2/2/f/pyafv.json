@@ -224,7 +224,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5028503779.json"
+        "closed_by": null,
+        "labels": [
+          {
+            "name": "enhancement"
+          }
+        ],
+        "merged": true,
+        "number": 17,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
