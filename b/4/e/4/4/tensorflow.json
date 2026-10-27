@@ -1499,7 +1499,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2247502967.json"
+        "closed_by": "isuruf",
+        "labels": [],
+        "merged": false,
+        "number": 409,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
