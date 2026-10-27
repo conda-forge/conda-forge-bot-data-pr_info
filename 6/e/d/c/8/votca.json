@@ -317,10 +317,10 @@
   "bad": false,
   "pinning_version": "2026.08.11.09.47.50",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1793111022
+    "python315": 1793114192
   },
   "pre_pr_migrator_attempts": {
-    "python315": 8
+    "python315": 9
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -329,7 +329,7 @@
       "messages": [
         "linux_64_python3.15.____cp315: Cannot solve the request because of: rdkit * cannot be installed because there are no viable options:\n└─ rdkit 2017.9.3 | 2018.3.1 | ... | 2026.9.1 would require\n   └─ python 3.6.*, for which no candidates were found.\nThe following packages are incompatible\n├─ libboost-devel 1.88.* cannot be installed because there are no viable options:\n│  ├─ libboost-devel 1.88.0 would require\n│  │  └─ libboost ==1.88.0 hd24cca6_7, which cannot be installed because there are no viable options:\n│  │     └─ libboost 1.88.0, which conflicts with the versions reported above.\n│  ├─ libboost-devel 1.88.0 would require\n│  │  └─ libboost ==1.88.0 hed09d94_6, which cannot be installed because there are no viable options:\n│  │     └─ libboost 1.88.0, which conflicts with the versions reported above.\n│  ├─ libboost-devel 1.88.0 would require\n│  │  └─ libboost ==1.88.0 hed09d94_5, which cannot be installed because there are no viable options:\n│  │     └─ libboost 1.88.0, which conflicts with the versions reported above.\n│  ├─ libboost-devel 1.88.0 would require\n│  │  └─ libboost ==1.88.0 hed09d94_4, which cannot be installed because there are no viable options:\n│  │     └─ libboost 1.88.0, which conflicts with the versions reported above.\n│  ├─ libboost-devel 1.88.0 would require\n│  │  └─ libboost ==1.88.0 hed09d94_3, which cannot be installed because there are no viable options:\n│  │     └─ libboost 1.88.0, which conflicts with the versions reported above.\n│  ├─ libboost-devel 1.88.0 would require\n│  │  └─ libboost ==1.88.0 hed09d94_2, which cannot be installed because there are no viable options:\n│  │     └─ libboost 1.88.0, which conflicts with the versions reported above.\n│  ├─ libboost-devel 1.88.0 would require\n│  │  └─ libboost ==1.88.0 hed09d94_1, which cannot be installed because there are no viable options:\n│  │     └─ libboost 1.88.0, which conflicts with the versions reported above.\n│  └─ libboost-devel 1.88.0 would require\n│     └─ libboost ==1.88.0 h6c02f8c_0, which cannot be installed because there are no viable options:\n│        └─ libboost 1.88.0, which conflicts with the versions reported above.\n└─ rdkit * cannot be installed because there are no viable options:\n   └─ rdkit 2026.9.1 would require\n      └─ libboost-python >=1.90.0,<1.91.0a0, which cannot be installed because there are no viable options:\n         ├─ libboost-python 1.90.0 would require\n         │  └─ libboost ==1.90.0 h1101c1b_3, which cannot be installed because there are no viable options:\n         │     └─ libboost 1.90.0, which conflicts with the versions reported above.\n         └─ libboost-python 1.90.0 would require\n            └─ python >=3.10,<3.11.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/40514181339'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/40521588714'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.8.9"
