@@ -158,7 +158,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4395826601.json"
+        "closed_by": "gschramm",
+        "labels": [],
+        "merged": false,
+        "number": 17,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -169,7 +173,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5026300381.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 18,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
