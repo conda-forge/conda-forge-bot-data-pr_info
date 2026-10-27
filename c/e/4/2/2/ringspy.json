@@ -31,7 +31,7 @@
         "__lazy_json__": "pr_json/2272016132.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1793079143.6692345,
         "migrator_name": "NoarchPythonMinMigrator",
         "migrator_version": 1,
         "name": "noarch_python_min"
