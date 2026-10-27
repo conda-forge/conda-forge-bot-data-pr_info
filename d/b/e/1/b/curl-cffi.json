@@ -165,7 +165,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4184984497.json"
+        "closed_by": "jan-janssen",
+        "labels": [],
+        "merged": false,
+        "number": 23,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -245,7 +249,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4637879724.json"
+        "closed_by": "jan-janssen",
+        "labels": [],
+        "merged": false,
+        "number": 28,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -256,7 +264,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5015581004.json"
+        "closed_by": "jan-janssen",
+        "labels": [],
+        "merged": false,
+        "number": 29,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
