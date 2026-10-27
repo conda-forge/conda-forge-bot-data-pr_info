@@ -213,7 +213,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4891395276.json"
+        "closed_by": "ccordoba12",
+        "labels": [],
+        "merged": false,
+        "number": 29,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -224,7 +228,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5023271738.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 30,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
