@@ -302,7 +302,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4962262839.json"
+        "closed_by": "ytausch",
+        "labels": [],
+        "merged": false,
+        "number": 37,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -313,7 +317,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5010170890.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 40,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
