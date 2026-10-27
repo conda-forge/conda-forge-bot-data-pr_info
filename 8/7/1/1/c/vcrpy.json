@@ -387,7 +387,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5006575450.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 45,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -401,7 +405,7 @@
         "__lazy_json__": "pr_json/5010310533.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1793120433.4063613,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "9.2.0"
