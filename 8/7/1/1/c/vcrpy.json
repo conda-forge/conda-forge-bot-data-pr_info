@@ -402,7 +402,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5010310533.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 46,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": 1793120433.4063613,
@@ -413,7 +421,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5038565923.json"
+        "closed_by": null,
+        "labels": [
+          {
+            "name": "automerge"
+          }
+        ],
+        "merged": true,
+        "number": 47,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
