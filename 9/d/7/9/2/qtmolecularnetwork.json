@@ -299,27 +299,24 @@
         "migrator_version": 0,
         "name": "libboost190"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5030924205.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.04.25.10.12.57",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1793087102
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 9
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_64_: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "osx_64_: Cannot solve the request because of: No candidates were found for pin_compatible *.\n",
-        "win_64_: Cannot solve the request because of: No candidates were found for pin_compatible *.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/40460185076'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "3.61.2"
+  "pinning_version": "2026.10.27.04.39.15",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.10.24"
 }
