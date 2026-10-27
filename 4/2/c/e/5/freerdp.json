@@ -88,6 +88,17 @@
         "migrator_version": 0,
         "name": "icu79"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5026890381.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "3.32.2"
+      }
     }
   ],
   "bad": false,
