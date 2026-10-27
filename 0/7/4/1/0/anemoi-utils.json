@@ -157,7 +157,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4152095211.json"
+        "closed_by": "conda-forge-admin",
+        "labels": [],
+        "merged": false,
+        "number": 13,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -168,7 +172,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4153564110.json"
+        "closed_by": "conda-forge-admin",
+        "labels": [],
+        "merged": false,
+        "number": 14,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -179,7 +187,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4706690877.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 15,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -190,10 +202,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4856423446.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 16,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1793071321.4067643,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "0.5.14"
