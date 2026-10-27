@@ -12,12 +12,23 @@
         "migrator_version": 1,
         "name": "aarch64 and ppc64le addition"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5028419122.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "LinuxRISCV64",
+        "migrator_version": 1,
+        "name": "support linux riscv64 platform"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.03.03.16.40.12",
+  "pinning_version": "2026.10.26.20.26.51",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
-  "smithy_version": "3.55.1"
+  "smithy_version": "2026.10.24"
 }
