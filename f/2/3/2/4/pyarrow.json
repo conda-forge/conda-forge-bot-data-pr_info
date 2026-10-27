@@ -958,10 +958,22 @@
         "migrator_version": 0,
         "version": "26.0.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5030046824.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libarrow260"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.09.13.11.31",
+  "pinning_version": "2026.10.27.04.39.15",
   "pre_pr_migrator_attempt_ts": {
     "cuda130": 1784256640,
     "libarrow250": 1784232952
@@ -988,5 +1000,5 @@
       "url": "https://github.com/conda-forge/conda-forge-bot/actions/runs/29528481058"
     }
   },
-  "smithy_version": "2026.9.23"
+  "smithy_version": "2026.10.24"
 }
