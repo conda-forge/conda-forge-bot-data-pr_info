@@ -15,7 +15,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/1970719991.json"
+        "closed_by": "SylvainCorlay",
+        "labels": [],
+        "merged": false,
+        "number": 6,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -26,7 +30,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2791693625.json"
+        "closed_by": "SylvainCorlay",
+        "labels": [],
+        "merged": false,
+        "number": 7,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
