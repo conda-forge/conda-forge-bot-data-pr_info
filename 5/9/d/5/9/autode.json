@@ -223,10 +223,10 @@
   "bad": false,
   "pinning_version": "2025.10.15.11.56.55",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1793110811
+    "python315": 1793115216
   },
   "pre_pr_migrator_attempts": {
-    "python315": 8
+    "python315": 9
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -235,7 +235,7 @@
       "messages": [
         "osx_arm64_python3.15.____cp315: Cannot solve the request because of: rdkit * cannot be installed because there are no viable options:\n└─ rdkit 2021.3.1 | 2021.3.2 | ... | 2026.9.1 would require\n   └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/40514181339'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/40521588714'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.52.3"
