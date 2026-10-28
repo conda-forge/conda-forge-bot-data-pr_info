@@ -355,7 +355,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4987385486.json"
+        "closed_by": "soapy1",
+        "labels": [],
+        "merged": false,
+        "number": 31,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -366,7 +370,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4992096913.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 32,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -377,10 +385,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5043433303.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 33,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1793150539.538226,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "1.15.32"
