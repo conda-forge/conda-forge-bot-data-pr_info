@@ -3178,7 +3178,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5044702172.json"
+        "closed_by": "bollwyvl",
+        "labels": [],
+        "merged": false,
+        "number": 274,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -3189,7 +3193,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5046742594.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 275,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
