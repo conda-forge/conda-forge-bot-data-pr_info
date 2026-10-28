@@ -28,7 +28,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2248309298.json"
+        "closed_by": "mgorny",
+        "labels": [],
+        "merged": false,
+        "number": 6,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
