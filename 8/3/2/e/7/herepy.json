@@ -122,7 +122,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5041524206.json"
+        "closed_by": "abdullahselek",
+        "labels": [],
+        "merged": false,
+        "number": 19,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -133,7 +137,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5043495533.json"
+        "closed_by": "abdullahselek",
+        "labels": [],
+        "merged": false,
+        "number": 20,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
