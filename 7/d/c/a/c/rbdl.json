@@ -124,7 +124,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3411058409.json"
+        "closed_by": "pariterre",
+        "labels": [],
+        "merged": false,
+        "number": 42,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
