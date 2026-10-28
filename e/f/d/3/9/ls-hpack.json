@@ -31,6 +31,17 @@
         "migrator_version": 1,
         "name": "support windows arm64 platform"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5053453401.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "WinArm64",
+        "migrator_version": 1,
+        "name": "support windows arm64 platform"
+      }
     }
   ],
   "bad": false,
