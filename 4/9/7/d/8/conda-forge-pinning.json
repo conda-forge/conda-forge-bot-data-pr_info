@@ -66523,6 +66523,18 @@
         "migrator_version": 0,
         "name": "libarrow260"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5063885453.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "pytorch",
+        "pin_version": "2.14"
+      }
     }
   ],
   "bad": false,
