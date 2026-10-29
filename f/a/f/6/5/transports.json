@@ -118,7 +118,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5075519623.json"
+        "closed_by": "timkpaine",
+        "labels": [],
+        "merged": false,
+        "number": 11,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
