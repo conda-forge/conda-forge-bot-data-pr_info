@@ -153,7 +153,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5041622406.json"
+        "closed_by": "alexreinking",
+        "labels": [],
+        "merged": false,
+        "number": 20,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -164,7 +168,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5048710906.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 21,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
