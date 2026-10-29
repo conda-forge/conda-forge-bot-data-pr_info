@@ -363,7 +363,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4961566221.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 61,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -375,7 +379,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4962605054.json"
+        "closed_by": "hmaarrfk",
+        "labels": [],
+        "merged": false,
+        "number": 62,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -386,7 +394,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4962849174.json"
+        "closed_by": "hmaarrfk",
+        "labels": [],
+        "merged": false,
+        "number": 63,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
