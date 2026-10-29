@@ -224,7 +224,7 @@
         "__lazy_json__": "pr_json/4966322108.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1793283312.063074,
         "migrator_name": "LinuxRISCV64",
         "migrator_version": 1,
         "name": "support linux riscv64 platform"
