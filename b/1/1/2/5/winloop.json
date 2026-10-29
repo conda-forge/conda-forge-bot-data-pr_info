@@ -300,7 +300,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4880415498.json"
+        "closed_by": "owenlamont",
+        "labels": [],
+        "merged": false,
+        "number": 24,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -311,7 +315,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5001330485.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 25,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
