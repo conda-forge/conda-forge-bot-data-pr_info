@@ -1145,7 +1145,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4876427940.json"
+        "closed_by": "iainrussell",
+        "labels": [],
+        "merged": false,
+        "number": 96,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1156,7 +1160,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5055909610.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 97,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
