@@ -814,10 +814,22 @@
         "migrator_version": 0,
         "version": "3.12.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5082316194.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libopentelemetry_cpp130"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.12.05.56.53",
+  "pinning_version": "2026.10.30.04.30.47",
   "pre_pr_migrator_attempt_ts": {
     "absl_grpc_proto_26q4": 1793341909
   },
@@ -839,5 +851,5 @@
       "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/41000938625'>bot CI job</a>)"
     }
   },
-  "smithy_version": "2026.9.23"
+  "smithy_version": "2026.10.24"
 }
