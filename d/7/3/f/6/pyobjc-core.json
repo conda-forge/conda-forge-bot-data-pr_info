@@ -885,7 +885,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5085701784.json"
+        "closed_by": "larsoner",
+        "labels": [],
+        "merged": false,
+        "number": 94,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
