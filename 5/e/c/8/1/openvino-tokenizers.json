@@ -740,10 +740,10 @@
   "bad": false,
   "pinning_version": "2026.10.26.20.26.51",
   "pre_pr_migrator_attempt_ts": {
-    "absl_grpc_proto_26q4": 1793388655
+    "absl_grpc_proto_26q4": 1793394611
   },
   "pre_pr_migrator_attempts": {
-    "absl_grpc_proto_26q4": 1
+    "absl_grpc_proto_26q4": 2
   },
   "pre_pr_migrator_status": {
     "absl_grpc_proto_26q4": {
@@ -756,7 +756,7 @@
         "osx_arm64_: Cannot solve the request because of: libopenvino-dev 2026.2.1.0.* cannot be installed because there are no viable options:\n├─ libopenvino-dev 2026.2.1 would require\n│  └─ libopenvino-onnx-frontend ==2026.2.1 he3901d5_1, which cannot be installed because there are no viable options:\n│     └─ libopenvino-onnx-frontend 2026.2.1 would require\n│        └─ libabseil >=20260526.0,<20260527.0a0, for which no candidates were found.\n└─ libopenvino-dev 2026.2.1 would require\n   └─ libopenvino-onnx-frontend ==2026.2.1 h41365f2_0, which cannot be installed because there are no viable options:\n      └─ libopenvino-onnx-frontend 2026.2.1 would require\n         └─ libabseil >=20260107.1,<20260108.0a0, for which no candidates were found.\n",
         "win_64_: Cannot solve the request because of: libopenvino-dev 2026.2.1.0.* cannot be installed because there are no viable options:\n├─ libopenvino-dev 2026.2.1 would require\n│  └─ libopenvino-onnx-frontend ==2026.2.1 hb13cd65_1, which cannot be installed because there are no viable options:\n│     └─ libopenvino-onnx-frontend 2026.2.1 would require\n│        └─ libabseil >=20260526.0,<20260527.0a0, for which no candidates were found.\n└─ libopenvino-dev 2026.2.1 would require\n   └─ libopenvino-onnx-frontend ==2026.2.1 h6c1d531_0, which cannot be installed because there are no viable options:\n      └─ libopenvino-onnx-frontend 2026.2.1 would require\n         └─ libabseil >=20260107.1,<20260108.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/41105524189'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/41118103006'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.10.24"
