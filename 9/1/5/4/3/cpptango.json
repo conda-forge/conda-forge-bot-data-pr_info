@@ -270,12 +270,24 @@
         "migrator_version": 0,
         "version": "10.3.3"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5083475590.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libopentelemetry_cpp130"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.07.13.10.00.16",
+  "pinning_version": "2026.10.30.04.30.47",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
-  "smithy_version": "2026.6.14"
+  "smithy_version": "2026.10.24"
 }
