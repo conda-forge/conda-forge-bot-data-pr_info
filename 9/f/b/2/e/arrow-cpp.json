@@ -25406,10 +25406,12 @@
   "bad": false,
   "pinning_version": "2026.10.30.04.30.47",
   "pre_pr_migrator_attempt_ts": {
-    "aws_c_endofjuly27": 1786473437
+    "aws_c_endofjuly27": 1786473437,
+    "libopentelemetry_cpp130": 1793381944
   },
   "pre_pr_migrator_attempts": {
-    "aws_c_endofjuly27": 3
+    "aws_c_endofjuly27": 3,
+    "libopentelemetry_cpp130": 1
   },
   "pre_pr_migrator_status": {
     "aws_c_endofjuly27": {
@@ -25427,6 +25429,29 @@
         "win_64_cuda_compiler_versionNone: Cannot solve the request because of: aws-sdk-cpp 1.11.833.* cannot be installed because there are no viable options:\n└─ aws-sdk-cpp 1.11.833 would require\n   └─ aws-crt-cpp >=0.40.1,<0.40.2.0a0, for which no candidates were found.\n"
       ],
       "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/31514791198'>bot CI job</a>)"
+    },
+    "libopentelemetry_cpp130": {
+      "base_branch": "main",
+      "kind": "not-solvable",
+      "messages": [
+        "linux_64_c_compiler_version14c_stdlib_version2.17cuda_compiler_version12.9cxx_compiler_version14: Cannot solve the request because of: aws-sdk-cpp 1.11.833.* cannot be installed because there are no viable options:\n├─ aws-sdk-cpp 1.11.833 would require\n│  └─ aws-crt-cpp >=0.43.6,<0.43.7.0a0, for which no candidates were found.\n└─ aws-sdk-cpp 1.11.833 would require\n   └─ aws-crt-cpp >=0.40.1,<0.40.2.0a0, for which no candidates were found.\n",
+        "linux_64_c_compiler_version14c_stdlib_version2.17cuda_compiler_version12.9cxx_compiler_version14: Cannot solve the request because of: libgoogle-cloud-devel 3.8.* cannot be installed because there are no viable options:\n└─ libgoogle-cloud-devel 3.8.0 would require\n   └─ libopentelemetry-cpp >=1.27.0,<1.28.0a0, for which no candidates were found.\n",
+        "linux_64_c_compiler_version15c_stdlib_version2.17cuda_compiler_versionNonecxx_compiler_version15: Cannot solve the request because of: aws-sdk-cpp 1.11.833.* cannot be installed because there are no viable options:\n├─ aws-sdk-cpp 1.11.833 would require\n│  └─ aws-crt-cpp >=0.43.6,<0.43.7.0a0, for which no candidates were found.\n└─ aws-sdk-cpp 1.11.833 would require\n   └─ aws-crt-cpp >=0.40.1,<0.40.2.0a0, for which no candidates were found.\n",
+        "linux_64_c_compiler_version15c_stdlib_version2.17cuda_compiler_versionNonecxx_compiler_version15: Cannot solve the request because of: libgoogle-cloud-devel 3.8.* cannot be installed because there are no viable options:\n└─ libgoogle-cloud-devel 3.8.0 would require\n   └─ libopentelemetry-cpp >=1.27.0,<1.28.0a0, for which no candidates were found.\n",
+        "linux_aarch64_c_compiler_version14c_stdlib_version2.17cuda_compiler_version12.9cxx_compiler_version14: Cannot solve the request because of: aws-sdk-cpp 1.11.833.* cannot be installed because there are no viable options:\n├─ aws-sdk-cpp 1.11.833 would require\n│  └─ aws-crt-cpp >=0.43.6,<0.43.7.0a0, for which no candidates were found.\n└─ aws-sdk-cpp 1.11.833 would require\n   └─ aws-crt-cpp >=0.40.1,<0.40.2.0a0, for which no candidates were found.\n",
+        "linux_aarch64_c_compiler_version14c_stdlib_version2.17cuda_compiler_version12.9cxx_compiler_version14: Cannot solve the request because of: libgoogle-cloud-devel 3.8.* cannot be installed because there are no viable options:\n└─ libgoogle-cloud-devel 3.8.0 would require\n   └─ libopentelemetry-cpp >=1.27.0,<1.28.0a0, for which no candidates were found.\n",
+        "linux_aarch64_c_compiler_version15c_stdlib_version2.17cuda_compiler_versionNonecxx_compiler_version15: Cannot solve the request because of: aws-sdk-cpp 1.11.833.* cannot be installed because there are no viable options:\n├─ aws-sdk-cpp 1.11.833 would require\n│  └─ aws-crt-cpp >=0.43.6,<0.43.7.0a0, for which no candidates were found.\n└─ aws-sdk-cpp 1.11.833 would require\n   └─ aws-crt-cpp >=0.40.1,<0.40.2.0a0, for which no candidates were found.\n",
+        "linux_aarch64_c_compiler_version15c_stdlib_version2.17cuda_compiler_versionNonecxx_compiler_version15: Cannot solve the request because of: libgoogle-cloud-devel 3.8.* cannot be installed because there are no viable options:\n└─ libgoogle-cloud-devel 3.8.0 would require\n   └─ libopentelemetry-cpp >=1.27.0,<1.28.0a0, for which no candidates were found.\n",
+        "linux_ppc64le_: Cannot solve the request because of: aws-sdk-cpp 1.11.833.* cannot be installed because there are no viable options:\n├─ aws-sdk-cpp 1.11.833 would require\n│  └─ aws-crt-cpp >=0.43.6,<0.43.7.0a0, for which no candidates were found.\n└─ aws-sdk-cpp 1.11.833 would require\n   └─ aws-crt-cpp >=0.40.1,<0.40.2.0a0, for which no candidates were found.\n",
+        "linux_ppc64le_: Cannot solve the request because of: libgoogle-cloud-devel 3.8.* cannot be installed because there are no viable options:\n└─ libgoogle-cloud-devel 3.8.0 would require\n   └─ libopentelemetry-cpp >=1.27.0,<1.28.0a0, for which no candidates were found.\n",
+        "osx_64_: Cannot solve the request because of: aws-sdk-cpp 1.11.833.* cannot be installed because there are no viable options:\n├─ aws-sdk-cpp 1.11.833 would require\n│  └─ aws-crt-cpp >=0.43.6,<0.43.7.0a0, for which no candidates were found.\n└─ aws-sdk-cpp 1.11.833 would require\n   └─ aws-crt-cpp >=0.40.1,<0.40.2.0a0, for which no candidates were found.\n",
+        "osx_64_: Cannot solve the request because of: libgoogle-cloud-devel 3.8.* cannot be installed because there are no viable options:\n└─ libgoogle-cloud-devel 3.8.0 would require\n   └─ libopentelemetry-cpp >=1.27.0,<1.28.0a0, for which no candidates were found.\n",
+        "osx_arm64_: Cannot solve the request because of: aws-sdk-cpp 1.11.833.* cannot be installed because there are no viable options:\n├─ aws-sdk-cpp 1.11.833 would require\n│  └─ aws-crt-cpp >=0.43.6,<0.43.7.0a0, for which no candidates were found.\n└─ aws-sdk-cpp 1.11.833 would require\n   └─ aws-crt-cpp >=0.40.1,<0.40.2.0a0, for which no candidates were found.\n",
+        "osx_arm64_: Cannot solve the request because of: libgoogle-cloud-devel 3.8.* cannot be installed because there are no viable options:\n└─ libgoogle-cloud-devel 3.8.0 would require\n   └─ libopentelemetry-cpp >=1.27.0,<1.28.0a0, for which no candidates were found.\n",
+        "win_64_cuda_compiler_version12.9: Cannot solve the request because of: aws-sdk-cpp 1.11.833.* cannot be installed because there are no viable options:\n├─ aws-sdk-cpp 1.11.833 would require\n│  └─ aws-crt-cpp >=0.43.6,<0.43.7.0a0, for which no candidates were found.\n└─ aws-sdk-cpp 1.11.833 would require\n   └─ aws-crt-cpp >=0.40.1,<0.40.2.0a0, for which no candidates were found.\n",
+        "win_64_cuda_compiler_versionNone: Cannot solve the request because of: aws-sdk-cpp 1.11.833.* cannot be installed because there are no viable options:\n├─ aws-sdk-cpp 1.11.833 would require\n│  └─ aws-crt-cpp >=0.43.6,<0.43.7.0a0, for which no candidates were found.\n└─ aws-sdk-cpp 1.11.833 would require\n   └─ aws-crt-cpp >=0.40.1,<0.40.2.0a0, for which no candidates were found.\n"
+      ],
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/41087426049'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.10.24"
