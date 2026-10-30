@@ -131,7 +131,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3905001123.json"
+        "closed_by": "HugoMVale",
+        "labels": [],
+        "merged": false,
+        "number": 10,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -221,7 +225,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5089863068.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 16,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
