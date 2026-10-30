@@ -257,7 +257,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3363750821.json"
+        "closed_by": "traversaro",
+        "labels": [],
+        "merged": false,
+        "number": 24,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -268,7 +272,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4004325736.json"
+        "closed_by": "traversaro",
+        "labels": [],
+        "merged": false,
+        "number": 25,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -279,7 +287,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4084905371.json"
+        "closed_by": "traversaro",
+        "labels": [],
+        "merged": false,
+        "number": 26,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
