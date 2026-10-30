@@ -834,30 +834,24 @@
         "migrator_version": 0,
         "name": "libopentelemetry_cpp130"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5087026724.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "absl_grpc_proto_26Q4"
+      }
     }
   ],
   "bad": false,
   "pinning_version": "2026.10.30.04.30.47",
-  "pre_pr_migrator_attempt_ts": {
-    "absl_grpc_proto_26q4": 1793341909
-  },
-  "pre_pr_migrator_attempts": {
-    "absl_grpc_proto_26q4": 2
-  },
-  "pre_pr_migrator_status": {
-    "absl_grpc_proto_26q4": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_64_: Cannot solve the request because of: libopentelemetry-cpp 1.27.* cannot be installed because there are no viable options:\n├─ libopentelemetry-cpp 1.27.0 would require\n│  └─ libabseil >=20260526.0,<20260527.0a0, for which no candidates were found.\n└─ libopentelemetry-cpp 1.27.0 would require\n   └─ libabseil >=20260107.1,<20260108.0a0, for which no candidates were found.\n",
-        "linux_aarch64_: Cannot solve the request because of: libopentelemetry-cpp 1.27.* cannot be installed because there are no viable options:\n├─ libopentelemetry-cpp 1.27.0 would require\n│  └─ libabseil >=20260526.0,<20260527.0a0, for which no candidates were found.\n└─ libopentelemetry-cpp 1.27.0 would require\n   └─ libabseil >=20260107.1,<20260108.0a0, for which no candidates were found.\n",
-        "linux_ppc64le_: Cannot solve the request because of: libopentelemetry-cpp 1.27.* cannot be installed because there are no viable options:\n├─ libopentelemetry-cpp 1.27.0 would require\n│  └─ libabseil >=20260526.0,<20260527.0a0, for which no candidates were found.\n└─ libopentelemetry-cpp 1.27.0 would require\n   └─ libabseil >=20260107.1,<20260108.0a0, for which no candidates were found.\n",
-        "osx_64_: Cannot solve the request because of: libopentelemetry-cpp 1.27.* cannot be installed because there are no viable options:\n├─ libopentelemetry-cpp 1.27.0 would require\n│  └─ libabseil >=20260526.0,<20260527.0a0, for which no candidates were found.\n└─ libopentelemetry-cpp 1.27.0 would require\n   └─ libabseil >=20260107.1,<20260108.0a0, for which no candidates were found.\n",
-        "osx_arm64_: Cannot solve the request because of: libopentelemetry-cpp 1.27.* cannot be installed because there are no viable options:\n├─ libopentelemetry-cpp 1.27.0 would require\n│  └─ libabseil >=20260526.0,<20260527.0a0, for which no candidates were found.\n└─ libopentelemetry-cpp 1.27.0 would require\n   └─ libabseil >=20260107.1,<20260108.0a0, for which no candidates were found.\n",
-        "win_64_: Cannot solve the request because of: libopentelemetry-cpp 1.27.* cannot be installed because there are no viable options:\n├─ libopentelemetry-cpp 1.27.0 would require\n│  └─ libabseil >=20260526.0,<20260527.0a0, for which no candidates were found.\n└─ libopentelemetry-cpp 1.27.0 would require\n   └─ libabseil >=20260107.1,<20260108.0a0, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/41000938625'>bot CI job</a>)"
-    }
-  },
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
   "smithy_version": "2026.10.24"
 }
