@@ -763,8 +763,22 @@
   ],
   "bad": false,
   "pinning_version": "2026.10.12.05.56.53",
-  "pre_pr_migrator_attempt_ts": {},
-  "pre_pr_migrator_attempts": {},
-  "pre_pr_migrator_status": {},
+  "pre_pr_migrator_attempt_ts": {
+    "absl_grpc_proto_26q4": 1793399748
+  },
+  "pre_pr_migrator_attempts": {
+    "absl_grpc_proto_26q4": 1
+  },
+  "pre_pr_migrator_status": {
+    "absl_grpc_proto_26q4": {
+      "base_branch": "main",
+      "kind": "not-solvable",
+      "messages": [
+        "osx_64_: Cannot solve the request because of: libgoogle-cloud-devel 3.12.0.* cannot be installed because there are no viable options:\n└─ libgoogle-cloud-devel 3.12.0 would require\n   └─ libabseil >=20260526.0,<20260527.0a0, for which no candidates were found.\n",
+        "win_64_: Cannot solve the request because of: libgoogle-cloud-devel 3.12.0.* cannot be installed because there are no viable options:\n└─ libgoogle-cloud-devel 3.12.0 would require\n   └─ libabseil >=20260526.0,<20260527.0a0, for which no candidates were found.\n"
+      ],
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/41131019011'>bot CI job</a>)"
+    }
+  },
   "smithy_version": "2026.9.23"
 }
