@@ -331,7 +331,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4808178704.json"
+        "closed_by": "matthiasdiener",
+        "labels": [],
+        "merged": false,
+        "number": 34,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -342,7 +346,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5094448205.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 35,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
