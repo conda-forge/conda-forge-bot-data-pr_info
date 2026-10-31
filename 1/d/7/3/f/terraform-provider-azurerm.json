@@ -2691,7 +2691,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4989718726.json"
+        "closed_by": "dhirschfeld",
+        "labels": [],
+        "merged": false,
+        "number": 248,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -2702,7 +2706,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5087916107.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 249,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
