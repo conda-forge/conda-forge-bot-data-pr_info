@@ -71,7 +71,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4697622964.json"
+        "closed_by": "HaoZeke",
+        "labels": [],
+        "merged": false,
+        "number": 6,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -82,7 +86,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5093277766.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 7,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
