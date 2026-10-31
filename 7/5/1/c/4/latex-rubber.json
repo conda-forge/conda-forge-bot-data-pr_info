@@ -2,7 +2,11 @@
   "PRed": [
     {
       "PR": {
-        "__lazy_json__": "pr_json/1803593623.json"
+        "closed_by": "HaoZeke",
+        "labels": [],
+        "merged": false,
+        "number": 1,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -13,7 +17,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/1813315653.json"
+        "closed_by": "HaoZeke",
+        "labels": [],
+        "merged": false,
+        "number": 2,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -24,7 +32,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/1816536732.json"
+        "closed_by": "HaoZeke",
+        "labels": [],
+        "merged": false,
+        "number": 3,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
