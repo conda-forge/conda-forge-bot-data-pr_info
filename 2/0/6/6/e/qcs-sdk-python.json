@@ -29,7 +29,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4702793080.json"
+        "closed_by": "MementoRC",
+        "labels": [],
+        "merged": false,
+        "number": 18,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
