@@ -2,7 +2,11 @@
   "PRed": [
     {
       "PR": {
-        "__lazy_json__": "pr_json/4845585088.json"
+        "closed_by": "cpoli",
+        "labels": [],
+        "merged": false,
+        "number": 1,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -13,7 +17,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4869264939.json"
+        "closed_by": "cpoli",
+        "labels": [],
+        "merged": false,
+        "number": 2,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -24,7 +32,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5063695150.json"
+        "closed_by": "cpoli",
+        "labels": [],
+        "merged": false,
+        "number": 5,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -35,7 +47,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5090802558.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 6,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
