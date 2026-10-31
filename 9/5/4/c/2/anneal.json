@@ -84,7 +84,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4801832646.json"
+        "closed_by": "HaoZeke",
+        "labels": [],
+        "merged": false,
+        "number": 7,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
