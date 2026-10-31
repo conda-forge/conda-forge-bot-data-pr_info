@@ -340,10 +340,10 @@
   "bad": false,
   "pinning_version": "2026.10.01.13.16.10",
   "pre_pr_migrator_attempt_ts": {
-    "pytorch214": 1793464889
+    "pytorch214": 1793466522
   },
   "pre_pr_migrator_attempts": {
-    "pytorch214": 3
+    "pytorch214": 4
   },
   "pre_pr_migrator_status": {
     "pytorch214": {
@@ -352,7 +352,7 @@
       "messages": [
         "linux_aarch64_: Cannot solve the request because of: The following packages are incompatible\n├─ libmetatensor-torch >=0.10.0,<0.11 cannot be installed because there are no viable options:\n│  ├─ libmetatensor-torch 0.10.1 | 0.10.2 | ... | 0.10.8 would require\n│  │  └─ libtorch >=2.13.0,<2.14.0a0, which cannot be installed because there are no viable options:\n│  │     ├─ libtorch 2.13.0, which conflicts with the versions reported above.\n│  │     ├─ libtorch 2.13.0, which conflicts with the versions reported above.\n│  │     ├─ libtorch 2.13.0, which conflicts with the versions reported above.\n│  │     ├─ libtorch 2.13.0, which conflicts with the versions reported above.\n│  │     ├─ libtorch 2.13.0, which conflicts with the versions reported above.\n│  │     └─ libtorch 2.13.0, which conflicts with the versions reported above.\n│  └─ libmetatensor-torch 0.10.0 | 0.10.1 would require\n│     └─ libtorch >=2.12.1,<2.13.0a0, which cannot be installed because there are no viable options:\n│        └─ libtorch 2.12.1, which conflicts with the versions reported above.\n└─ libtorch 2.14.* cannot be installed because there are no viable options:\n   ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n   ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n   ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n   ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n   ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n   ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n   ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n   ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n   ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n   ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n   ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n   └─ libtorch 2.14.1, which conflicts with the versions reported above.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/41219056593'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/41221393698'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.9.23"
