@@ -5505,32 +5505,29 @@
         "migrator_version": 0,
         "name": "aws_sdk_cpp111905"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5099316141.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "absl_grpc_proto_26Q4"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.25.07.44.23",
+  "pinning_version": "2026.10.31.11.31.05",
   "pre_pr_migrator_attempt_ts": {
-    "absl_grpc_proto_26q4": 1793460956,
     "aws_c_endofjuly27": 1786473359
   },
   "pre_pr_migrator_attempts": {
-    "absl_grpc_proto_26q4": 9,
     "aws_c_endofjuly27": 2
   },
   "pre_pr_migrator_status": {
-    "absl_grpc_proto_26q4": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_64_: Cannot solve the request because of: libgoogle-cloud-storage-devel 3.8.* cannot be installed because there are no viable options:\n└─ libgoogle-cloud-storage-devel 3.8.0 would require\n   └─ libabseil >=20260526.0,<20260527.0a0, for which no candidates were found.\n",
-        "linux_aarch64_: Cannot solve the request because of: libgoogle-cloud-storage-devel 3.8.* cannot be installed because there are no viable options:\n└─ libgoogle-cloud-storage-devel 3.8.0 would require\n   └─ libabseil >=20260526.0,<20260527.0a0, for which no candidates were found.\n",
-        "linux_ppc64le_: Cannot solve the request because of: libgoogle-cloud-storage-devel 3.8.* cannot be installed because there are no viable options:\n└─ libgoogle-cloud-storage-devel 3.8.0 would require\n   └─ libabseil >=20260526.0,<20260527.0a0, for which no candidates were found.\n",
-        "osx_64_: Cannot solve the request because of: libgoogle-cloud-storage-devel 3.8.* cannot be installed because there are no viable options:\n└─ libgoogle-cloud-storage-devel 3.8.0 would require\n   └─ libabseil >=20260526.0,<20260527.0a0, for which no candidates were found.\n",
-        "osx_arm64_: Cannot solve the request because of: libgoogle-cloud-storage-devel 3.8.* cannot be installed because there are no viable options:\n└─ libgoogle-cloud-storage-devel 3.8.0 would require\n   └─ libabseil >=20260526.0,<20260527.0a0, for which no candidates were found.\n",
-        "win_64_: Cannot solve the request because of: libgoogle-cloud-storage-devel 3.8.* cannot be installed because there are no viable options:\n└─ libgoogle-cloud-storage-devel 3.8.0 would require\n   └─ libabseil >=20260526.0,<20260527.0a0, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/41212434860'>bot CI job</a>)"
-    },
     "aws_c_endofjuly27": {
       "base_branch": "main",
       "kind": "not-solvable",
