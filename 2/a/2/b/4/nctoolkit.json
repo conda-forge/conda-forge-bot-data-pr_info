@@ -1035,7 +1035,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4982560232.json"
+        "closed_by": "robertjwilson",
+        "labels": [],
+        "merged": false,
+        "number": 95,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1046,7 +1050,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5109999775.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 96,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
