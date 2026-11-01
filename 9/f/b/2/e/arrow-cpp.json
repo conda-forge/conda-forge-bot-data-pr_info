@@ -25579,6 +25579,18 @@
         "migrator_version": 0,
         "name": "libthrift0250"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5105734207.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libgoogle_cloud312"
+      }
     }
   ],
   "bad": false,
