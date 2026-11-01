@@ -66675,10 +66675,22 @@
         "migrator_version": 0,
         "name": "libthrift0250"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5106098801.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "simdjson51"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.01.00.03.40",
+  "pinning_version": "2026.11.01.05.17.13",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
