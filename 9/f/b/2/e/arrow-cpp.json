@@ -25413,10 +25413,22 @@
         "migrator_version": 0,
         "name": "libopentelemetry_cpp130"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5103471824.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libthrift0250"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.31.00.36.37",
+  "pinning_version": "2026.11.01.00.03.40",
   "pre_pr_migrator_attempt_ts": {
     "aws_c_endofjuly27": 1786473437
   },
