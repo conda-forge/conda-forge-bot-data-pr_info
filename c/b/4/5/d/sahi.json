@@ -1045,7 +1045,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5102258961.json"
+        "closed_by": "onuralpszr",
+        "labels": [],
+        "merged": false,
+        "number": 97,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1056,7 +1060,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5103661954.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 98,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
