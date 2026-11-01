@@ -99,7 +99,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2261131618.json"
+        "closed_by": "fdosani",
+        "labels": [],
+        "merged": false,
+        "number": 18,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -110,7 +114,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5040778208.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 19,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
