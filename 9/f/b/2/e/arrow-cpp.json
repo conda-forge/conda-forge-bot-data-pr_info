@@ -25464,10 +25464,23 @@
         "migrator_version": 0,
         "name": "libthrift0250"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5105343211.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "25.x",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "aws_sdk_cpp111905"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.01.00.03.40",
+  "pinning_version": "2026.11.01.05.17.13",
   "pre_pr_migrator_attempt_ts": {
     "aws_c_endofjuly27": 1786473437
   },
