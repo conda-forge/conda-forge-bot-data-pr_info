@@ -3224,10 +3224,21 @@
         "migrator_version": 0,
         "version": "4.67.5"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5125332416.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "4.67.6"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.31.00.36.37",
+  "pinning_version": "2026.11.02.15.51.50",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
