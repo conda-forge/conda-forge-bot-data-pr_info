@@ -369,10 +369,10 @@
   "bad": false,
   "pinning_version": "2026.09.30.20.16.17",
   "pre_pr_migrator_attempt_ts": {
-    "pytorch214": 1793636431
+    "pytorch214": 1793638462
   },
   "pre_pr_migrator_attempts": {
-    "pytorch214": 2
+    "pytorch214": 3
   },
   "pre_pr_migrator_status": {
     "pytorch214": {
@@ -384,7 +384,7 @@
         "linux_aarch64_python3.13.____cp313: Cannot solve the request because of: The following packages are incompatible\n├─ libtorch 2.14.* cannot be installed because there are no viable options:\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  └─ libtorch 2.14.1, which conflicts with the versions reported above.\n└─ libmetatomic-torch >=0.1.19,<0.2 cannot be installed because there are no viable options:\n   └─ libmetatomic-torch 0.1.19 would require\n      └─ libtorch >=2.13.0,<2.14.0a0, which cannot be installed because there are no viable options:\n         ├─ libtorch 2.13.0, which conflicts with the versions reported above.\n         ├─ libtorch 2.13.0, which conflicts with the versions reported above.\n         ├─ libtorch 2.13.0, which conflicts with the versions reported above.\n         ├─ libtorch 2.13.0, which conflicts with the versions reported above.\n         ├─ libtorch 2.13.0, which conflicts with the versions reported above.\n         └─ libtorch 2.13.0, which conflicts with the versions reported above.\n",
         "linux_aarch64_python3.14.____cp314: Cannot solve the request because of: The following packages are incompatible\n├─ libtorch 2.14.* cannot be installed because there are no viable options:\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  ├─ libtorch 2.14.1, which conflicts with the versions reported above.\n│  └─ libtorch 2.14.1, which conflicts with the versions reported above.\n└─ libmetatomic-torch >=0.1.19,<0.2 cannot be installed because there are no viable options:\n   └─ libmetatomic-torch 0.1.19 would require\n      └─ libtorch >=2.13.0,<2.14.0a0, which cannot be installed because there are no viable options:\n         ├─ libtorch 2.13.0, which conflicts with the versions reported above.\n         ├─ libtorch 2.13.0, which conflicts with the versions reported above.\n         ├─ libtorch 2.13.0, which conflicts with the versions reported above.\n         ├─ libtorch 2.13.0, which conflicts with the versions reported above.\n         ├─ libtorch 2.13.0, which conflicts with the versions reported above.\n         └─ libtorch 2.13.0, which conflicts with the versions reported above.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/41475987776'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/41481482437'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.9.23"
