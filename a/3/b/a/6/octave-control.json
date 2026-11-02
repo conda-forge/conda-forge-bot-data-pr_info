@@ -41,7 +41,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4182298604.json"
+        "closed_by": "arjxn-py",
+        "labels": [],
+        "merged": false,
+        "number": 5,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -52,7 +56,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5112203747.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 6,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
