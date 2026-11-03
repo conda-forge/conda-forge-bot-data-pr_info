@@ -1,6 +1,22 @@
 {
+  "PRed": [
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/bdf8035f-2c90-4468-a737-49d07fa38474.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "flang21"
+      }
+    }
+  ],
   "bad": false,
+  "pinning_version": "2026.11.02.15.51.50",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
-  "pre_pr_migrator_status": {}
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.10.24"
 }
