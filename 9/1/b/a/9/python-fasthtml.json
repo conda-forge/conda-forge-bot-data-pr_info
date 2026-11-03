@@ -1193,7 +1193,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5082630538.json"
+        "closed_by": "synapticarbors",
+        "labels": [],
+        "merged": false,
+        "number": 90,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1204,7 +1208,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5133851583.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 91,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
