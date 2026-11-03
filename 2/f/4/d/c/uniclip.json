@@ -131,7 +131,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5122209550.json"
+        "closed_by": "XhstormR",
+        "labels": [],
+        "merged": false,
+        "number": 11,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
