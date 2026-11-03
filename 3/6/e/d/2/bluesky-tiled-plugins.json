@@ -353,7 +353,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5131310715.json"
+        "closed_by": "nmaytan",
+        "labels": [],
+        "merged": false,
+        "number": 34,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
