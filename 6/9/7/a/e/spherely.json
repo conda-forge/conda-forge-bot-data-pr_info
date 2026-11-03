@@ -198,10 +198,10 @@
   "bad": false,
   "pinning_version": "2026.08.11.09.47.50",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1793716813
+    "python315": 1793720907
   },
   "pre_pr_migrator_attempts": {
-    "python315": 8
+    "python315": 9
   },
   "pre_pr_migrator_status": {
     "python315": {
@@ -229,7 +229,7 @@
         "win_64_python3.14.____cp314: Cannot solve the request because of: s2geography >=0.2.0,<0.3 cannot be installed because there are no viable options:\n├─ s2geography 0.2.0 would require\n│  └─ libabseil >=20250512.1,<20250513.0a0, for which no candidates were found.\n├─ s2geography 0.2.0 would require\n│  └─ libabseil >=20250127.1,<20250128.0a0, for which no candidates were found.\n└─ s2geography 0.2.0 would require\n   └─ libabseil >=20240722.0,<20240723.0a0, for which no candidates were found.\n",
         "win_64_python3.15.____cp315: Cannot solve the request because of: s2geography >=0.2.0,<0.3 cannot be installed because there are no viable options:\n├─ s2geography 0.2.0 would require\n│  └─ libabseil >=20250512.1,<20250513.0a0, for which no candidates were found.\n├─ s2geography 0.2.0 would require\n│  └─ libabseil >=20250127.1,<20250128.0a0, for which no candidates were found.\n└─ s2geography 0.2.0 would require\n   └─ libabseil >=20240722.0,<20240723.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/41647397886'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/41656575635'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.8.9"
