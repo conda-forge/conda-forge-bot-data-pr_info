@@ -94,7 +94,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5136195047.json"
+        "closed_by": "wvreeven",
+        "labels": [],
+        "merged": false,
+        "number": 20,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
