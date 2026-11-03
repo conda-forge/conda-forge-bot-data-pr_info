@@ -1040,6 +1040,17 @@
         "migrator_version": 0,
         "version": "0.116.8"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5144625274.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "0.116.9"
+      }
     }
   ],
   "bad": false,
