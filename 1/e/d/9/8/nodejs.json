@@ -3817,10 +3817,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5027443653.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 516,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1793724708.918829,
         "branch": "20.x",
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
@@ -3830,10 +3838,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5027449589.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 517,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1793724708.9190037,
         "branch": "22.x",
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
@@ -3843,10 +3859,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5027456728.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 518,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1793724708.9190779,
         "branch": "24.x",
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
@@ -3867,7 +3891,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5079214954.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 520,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -3879,7 +3907,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5079225543.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 521,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -3892,7 +3924,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5079231959.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 522,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -3905,7 +3941,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5079239048.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 523,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
