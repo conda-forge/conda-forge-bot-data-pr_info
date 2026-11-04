@@ -306,7 +306,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4616037334.json"
+        "closed_by": "h-vetinari",
+        "labels": [],
+        "merged": false,
+        "number": 45,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -317,7 +321,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4749233036.json"
+        "closed_by": "soapy1",
+        "labels": [],
+        "merged": false,
+        "number": 46,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -328,7 +336,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5132107424.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 48,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
