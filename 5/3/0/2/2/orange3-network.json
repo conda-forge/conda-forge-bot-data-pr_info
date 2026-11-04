@@ -245,10 +245,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3311407233.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 32,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1793751303.5763476,
         "migrator_name": "ArchRebuild",
         "migrator_version": 1,
         "name": "aarch64 and ppc64le addition"
