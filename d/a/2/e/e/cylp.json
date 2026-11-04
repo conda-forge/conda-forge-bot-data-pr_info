@@ -73,7 +73,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2806375621.json"
+        "closed_by": "nilchia",
+        "labels": [],
+        "merged": false,
+        "number": 8,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -100,7 +104,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4735399875.json"
+        "closed_by": "nilchia",
+        "labels": [],
+        "merged": false,
+        "number": 10,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -127,7 +135,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5138103931.json"
+        "closed_by": "nilchia",
+        "labels": [],
+        "merged": false,
+        "number": 14,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
