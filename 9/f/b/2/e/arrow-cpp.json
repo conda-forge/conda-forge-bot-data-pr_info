@@ -25894,6 +25894,19 @@
         "migrator_version": 0,
         "name": "azure_core_cpp1164"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5157022529.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "25.x",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "azure_core_cpp1164"
+      }
     }
   ],
   "bad": false,
