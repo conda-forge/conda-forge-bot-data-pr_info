@@ -404,7 +404,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5044003167.json"
+        "closed_by": "soapy1",
+        "labels": [],
+        "merged": false,
+        "number": 34,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -415,7 +419,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5059359567.json"
+        "closed_by": "soapy1",
+        "labels": [],
+        "merged": false,
+        "number": 35,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -426,7 +434,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5118218581.json"
+        "closed_by": "soapy1",
+        "labels": [],
+        "merged": false,
+        "number": 36,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -437,7 +449,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5144952616.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 37,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
