@@ -8679,7 +8679,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5179036117.json"
+        "closed_by": "ken-lauer",
+        "labels": [],
+        "merged": false,
+        "number": 760,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
