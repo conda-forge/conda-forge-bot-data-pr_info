@@ -2984,6 +2984,17 @@
         "migrator_version": 0,
         "version": "12.17.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5164491791.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "12.18.0"
+      }
     }
   ],
   "bad": false,
