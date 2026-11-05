@@ -108,7 +108,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5114497869.json"
+        "closed_by": "EHxuban11",
+        "labels": [],
+        "merged": false,
+        "number": 8,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -119,7 +123,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5144243012.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 9,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
