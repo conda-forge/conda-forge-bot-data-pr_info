@@ -982,10 +982,22 @@
         "migrator_version": 0,
         "name": "absl_grpc_proto_26Q4"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5176806745.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "hdf52"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.02.15.51.50",
+  "pinning_version": "2026.11.05.10.09.12",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
