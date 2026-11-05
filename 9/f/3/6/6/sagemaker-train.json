@@ -270,7 +270,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5080173463.json"
+        "closed_by": "aviruthen",
+        "labels": [],
+        "merged": false,
+        "number": 25,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -281,7 +285,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5167579489.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 26,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
