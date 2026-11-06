@@ -66803,6 +66803,18 @@
         "migrator_version": 0,
         "name": "dawn20261105"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5196119144.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "libutf8proc",
+        "pin_version": "2.12"
+      }
     }
   ],
   "bad": false,
