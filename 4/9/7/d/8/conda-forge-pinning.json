@@ -66899,6 +66899,18 @@
         "name": "libhwloc",
         "pin_version": "2.15.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5196158020.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "petsc",
+        "pin_version": "3.26"
+      }
     }
   ],
   "bad": false,
