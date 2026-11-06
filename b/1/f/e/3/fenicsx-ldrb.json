@@ -132,7 +132,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5016409111.json"
+        "closed_by": "finsberg",
+        "labels": [],
+        "merged": false,
+        "number": 10,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -143,7 +147,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5049170770.json"
+        "closed_by": "finsberg",
+        "labels": [],
+        "merged": false,
+        "number": 11,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -154,7 +162,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5187238540.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 12,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
