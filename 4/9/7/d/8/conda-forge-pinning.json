@@ -67307,6 +67307,18 @@
         "name": "json_c",
         "pin_version": "0.19"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5196342791.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "liburing",
+        "pin_version": "2.15"
+      }
     }
   ],
   "bad": false,
