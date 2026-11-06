@@ -67427,6 +67427,18 @@
         "name": "poco",
         "pin_version": "1.15.4"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5196408938.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "aom",
+        "pin_version": "3.15"
+      }
     }
   ],
   "bad": false,
