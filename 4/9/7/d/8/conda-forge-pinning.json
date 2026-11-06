@@ -66995,6 +66995,18 @@
         "name": "ipopt",
         "pin_version": "3.14.20"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5196215774.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "snappy",
+        "pin_version": "1.3"
+      }
     }
   ],
   "bad": false,
