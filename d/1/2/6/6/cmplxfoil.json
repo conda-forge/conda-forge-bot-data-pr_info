@@ -261,7 +261,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3593175054.json"
+        "closed_by": "A-CGray",
+        "labels": [],
+        "merged": false,
+        "number": 21,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
