@@ -214,7 +214,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5188550927.json"
+        "closed_by": "maartenbreddels",
+        "labels": [],
+        "merged": false,
+        "number": 27,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
