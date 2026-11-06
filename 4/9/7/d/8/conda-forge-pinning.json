@@ -67067,6 +67067,18 @@
         "name": "cfitsio",
         "pin_version": "4.7.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5196247045.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "s2geography",
+        "pin_version": "0.4"
+      }
     }
   ],
   "bad": false,
