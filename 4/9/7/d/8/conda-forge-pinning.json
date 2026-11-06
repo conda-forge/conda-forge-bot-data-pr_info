@@ -67019,6 +67019,18 @@
         "name": "calchep",
         "pin_version": "3.9"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5196229289.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "starlink_ast",
+        "pin_version": "9.5.0"
+      }
     }
   ],
   "bad": false,
