@@ -66827,6 +66827,18 @@
         "name": "bxdecay0",
         "pin_version": "1.2.1"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5196128869.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "soapysdr",
+        "pin_version": "0.9"
+      }
     }
   ],
   "bad": false,
