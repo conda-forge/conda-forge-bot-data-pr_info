@@ -108,7 +108,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4802088966.json"
+        "closed_by": "beenje",
+        "labels": [],
+        "merged": false,
+        "number": 22,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -119,7 +123,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4814790474.json"
+        "closed_by": "beenje",
+        "labels": [],
+        "merged": false,
+        "number": 23,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -130,7 +138,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4920830504.json"
+        "closed_by": "beenje",
+        "labels": [],
+        "merged": false,
+        "number": 24,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -141,7 +153,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5001569481.json"
+        "closed_by": "beenje",
+        "labels": [],
+        "merged": false,
+        "number": 25,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
