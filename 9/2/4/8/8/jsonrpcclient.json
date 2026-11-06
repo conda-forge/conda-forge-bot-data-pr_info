@@ -75,7 +75,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5183750358.json"
+        "closed_by": "beenje",
+        "labels": [],
+        "merged": false,
+        "number": 9,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
