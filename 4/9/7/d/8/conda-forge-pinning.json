@@ -67079,6 +67079,18 @@
         "name": "s2geography",
         "pin_version": "0.4"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5196251826.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "spirv_tools",
+        "pin_version": "2026.4"
+      }
     }
   ],
   "bad": false,
