@@ -66971,6 +66971,18 @@
         "name": "libplacebo",
         "pin_version": "7.387"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5196206113.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "aws_checksums",
+        "pin_version": "1.0.1"
+      }
     }
   ],
   "bad": false,
