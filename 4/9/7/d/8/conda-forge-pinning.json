@@ -66911,6 +66911,18 @@
         "name": "petsc",
         "pin_version": "3.26"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5196163141.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "vgm",
+        "pin_version": "5.5"
+      }
     }
   ],
   "bad": false,
