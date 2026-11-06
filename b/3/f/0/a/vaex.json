@@ -2,7 +2,11 @@
   "PRed": [
     {
       "PR": {
-        "__lazy_json__": "pr_json/2271642874.json"
+        "closed_by": "maartenbreddels",
+        "labels": [],
+        "merged": false,
+        "number": 48,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
