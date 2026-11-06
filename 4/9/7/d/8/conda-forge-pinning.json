@@ -67127,6 +67127,18 @@
         "name": "pcre2",
         "pin_version": "10.49"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5196271111.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "fastbdt",
+        "pin_version": "6.0"
+      }
     }
   ],
   "bad": false,
