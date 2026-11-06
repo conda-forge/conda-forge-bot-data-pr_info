@@ -66851,6 +66851,18 @@
         "name": "gaudi",
         "pin_version": "40.6"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5196138552.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "hdrhistogram_c",
+        "pin_version": "0.12.1"
+      }
     }
   ],
   "bad": false,
