@@ -132,7 +132,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5185949105.json"
+        "closed_by": "konstntokas",
+        "labels": [],
+        "merged": false,
+        "number": 19,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
