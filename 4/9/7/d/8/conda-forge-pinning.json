@@ -67103,6 +67103,18 @@
         "name": "azure_storage_blobs_cpp",
         "pin_version": "12.19.1"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5196261177.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "wxwidgets",
+        "pin_version": "3.3.4"
+      }
     }
   ],
   "bad": false,
