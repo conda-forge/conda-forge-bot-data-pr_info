@@ -3318,6 +3318,17 @@
         "migrator_version": 0,
         "version": "4.67.12"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5192880502.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "4.67.13"
+      }
     }
   ],
   "bad": false,
@@ -3325,5 +3336,5 @@
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
-  "smithy_version": "2026.10.24"
+  "smithy_version": "2026.11.6"
 }
