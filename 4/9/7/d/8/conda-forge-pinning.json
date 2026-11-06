@@ -66839,6 +66839,18 @@
         "name": "soapysdr",
         "pin_version": "0.9"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5196133796.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "gaudi",
+        "pin_version": "40.6"
+      }
     }
   ],
   "bad": false,
