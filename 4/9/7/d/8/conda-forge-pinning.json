@@ -67091,6 +67091,18 @@
         "name": "spirv_tools",
         "pin_version": "2026.4"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5196256453.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "azure_storage_blobs_cpp",
+        "pin_version": "12.19.1"
+      }
     }
   ],
   "bad": false,
