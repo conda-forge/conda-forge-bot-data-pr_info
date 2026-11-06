@@ -41,7 +41,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5168740009.json"
+        "closed_by": "shenwei356",
+        "labels": [],
+        "merged": false,
+        "number": 23,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
