@@ -352,7 +352,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3663762361.json"
+        "closed_by": "saraedum",
+        "labels": [
+          {
+            "name": "automerge"
+          }
+        ],
+        "merged": false,
+        "number": 33,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -363,7 +371,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4077394448.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 34,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
