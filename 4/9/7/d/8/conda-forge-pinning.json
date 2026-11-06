@@ -67031,6 +67031,18 @@
         "name": "starlink_ast",
         "pin_version": "9.5.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5196233825.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "dawn",
+        "pin_version": "20261105.214757"
+      }
     }
   ],
   "bad": false,
