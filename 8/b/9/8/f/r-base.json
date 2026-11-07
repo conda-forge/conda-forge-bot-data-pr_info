@@ -2759,6 +2759,19 @@
         "migrator_version": 0,
         "name": "libdeflate126"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5201114324.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "4.4.x",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libdeflate126"
+      }
     }
   ],
   "bad": false,
