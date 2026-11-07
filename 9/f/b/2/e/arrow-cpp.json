@@ -26037,10 +26037,22 @@
         "migrator_version": 0,
         "name": "libutf8proc212"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5206630429.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "snappy13"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.07.00.59.59",
+  "pinning_version": "2026.11.07.18.57.49",
   "pre_pr_migrator_attempt_ts": {
     "aws_c_endofjuly27": 1786473437
   },
