@@ -176,7 +176,7 @@
         "__lazy_json__": "pr_json/2205958398.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1794015865.4370792,
         "migrator_name": "Replacement",
         "migrator_version": 0,
         "name": "astropy-to-astropy-base"
