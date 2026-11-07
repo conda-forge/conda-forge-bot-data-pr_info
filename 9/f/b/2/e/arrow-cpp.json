@@ -25986,10 +25986,22 @@
         "migrator_version": 0,
         "name": "azure_core_cpp1164"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5197716101.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libutf8proc212"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.02.15.51.50",
+  "pinning_version": "2026.11.07.00.59.59",
   "pre_pr_migrator_attempt_ts": {
     "aws_c_endofjuly27": 1786473437
   },
@@ -26014,5 +26026,5 @@
       "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/31514791198'>bot CI job</a>)"
     }
   },
-  "smithy_version": "2026.10.24"
+  "smithy_version": "2026.11.6"
 }
