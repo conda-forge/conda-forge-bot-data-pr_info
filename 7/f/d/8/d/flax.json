@@ -615,7 +615,7 @@
         "__lazy_json__": "pr_json/4309843851.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1794072769.3654883,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "0.12.9"
@@ -626,7 +626,7 @@
         "__lazy_json__": "pr_json/4632839785.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1794072769.3656745,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "0.12.10"
@@ -637,7 +637,7 @@
         "__lazy_json__": "pr_json/5027272364.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1794072769.3657758,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "0.12.11"
@@ -648,7 +648,7 @@
         "__lazy_json__": "pr_json/5028172242.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1794072769.3658597,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "0.12.12"
