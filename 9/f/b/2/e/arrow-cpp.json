@@ -26011,6 +26011,19 @@
         "migrator_version": 0,
         "name": "libutf8proc212"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5197795775.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "24.x",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libutf8proc212"
+      }
     }
   ],
   "bad": false,
