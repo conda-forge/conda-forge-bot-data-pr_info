@@ -145,29 +145,24 @@
         "migrator_version": 0,
         "version": "0.7.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5203581012.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libdeflate126"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.09.30.16.41.47",
-  "pre_pr_migrator_attempt_ts": {
-    "libdeflate126": 1794064353
-  },
-  "pre_pr_migrator_attempts": {
-    "libdeflate126": 4
-  },
-  "pre_pr_migrator_status": {
-    "libdeflate126": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_64_r_base4.5: Cannot solve the request because of: r-base 4.5.* cannot be installed because there are no viable options:\n├─ r-base 4.5.2 | 4.5.3 would require\n│  └─ libdeflate >=1.25,<1.26.0a0, for which no candidates were found.\n└─ r-base 4.5.1 | 4.5.2 would require\n   └─ libdeflate >=1.24,<1.26.0a0, for which no candidates were found.\n",
-        "linux_aarch64_r_base4.5: Cannot solve the request because of: r-base 4.5.* cannot be installed because there are no viable options:\n├─ r-base 4.5.2 | 4.5.3 would require\n│  └─ libdeflate >=1.25,<1.26.0a0, for which no candidates were found.\n└─ r-base 4.5.1 | 4.5.2 would require\n   └─ libdeflate >=1.24,<1.26.0a0, for which no candidates were found.\n",
-        "osx_64_r_base4.5: Cannot solve the request because of: r-base 4.5.* cannot be installed because there are no viable options:\n├─ r-base 4.5.2 | 4.5.3 would require\n│  └─ libdeflate >=1.25,<1.26.0a0, for which no candidates were found.\n└─ r-base 4.5.1 | 4.5.2 would require\n   └─ libdeflate >=1.24,<1.26.0a0, for which no candidates were found.\n",
-        "osx_arm64_r_base4.5: Cannot solve the request because of: r-base 4.5.* cannot be installed because there are no viable options:\n├─ r-base 4.5.2 | 4.5.3 would require\n│  └─ libdeflate >=1.25,<1.26.0a0, for which no candidates were found.\n└─ r-base 4.5.1 | 4.5.2 would require\n   └─ libdeflate >=1.24,<1.26.0a0, for which no candidates were found.\n",
-        "win_64_r_base4.5: Cannot solve the request because of: r-base 4.5.* cannot be installed because there are no viable options:\n├─ r-base 4.5.2 | 4.5.3 would require\n│  └─ libdeflate >=1.25,<1.26.0a0, for which no candidates were found.\n└─ r-base 4.5.1 | 4.5.2 would require\n   └─ libdeflate >=1.24,<1.26.0a0, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/42382865374'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "2026.9.23"
+  "pinning_version": "2026.11.07.13.32.19",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.11.6"
 }
