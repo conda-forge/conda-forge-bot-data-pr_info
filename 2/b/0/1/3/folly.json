@@ -4048,6 +4048,19 @@
         "migrator_version": 0,
         "name": "libevent2113"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5199128388.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "2025.04.14.00",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libevent2113"
+      }
     }
   ],
   "bad": false,
