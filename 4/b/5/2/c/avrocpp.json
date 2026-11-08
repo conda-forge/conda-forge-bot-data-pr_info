@@ -320,7 +320,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3585566951.json"
+        "closed_by": "timkpaine",
+        "labels": [],
+        "merged": false,
+        "number": 38,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -332,7 +336,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4280455907.json"
+        "closed_by": null,
+        "labels": [
+          {
+            "name": "automerge"
+          }
+        ],
+        "merged": true,
+        "number": 39,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -343,7 +355,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5199942431.json"
+        "closed_by": null,
+        "labels": [
+          {
+            "name": "automerge"
+          }
+        ],
+        "merged": true,
+        "number": 40,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
