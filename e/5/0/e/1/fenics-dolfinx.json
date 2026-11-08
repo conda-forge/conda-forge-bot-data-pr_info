@@ -1213,12 +1213,24 @@
         "migrator_version": 0,
         "name": "hdf52"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5211830261.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "petsc326"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.08.10.11.23.07",
+  "pinning_version": "2026.11.08.10.15.58",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
-  "smithy_version": "2026.8.9"
+  "smithy_version": "2026.11.6"
 }
