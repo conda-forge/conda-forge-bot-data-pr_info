@@ -38,7 +38,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5198600943.json"
+        "closed_by": "andrewdelong",
+        "labels": [],
+        "merged": false,
+        "number": 7,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
