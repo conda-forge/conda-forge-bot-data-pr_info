@@ -224,10 +224,21 @@
         "migrator_version": 0,
         "version": "1.8.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5226165280.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "1.8.1"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.05.10.09.12",
+  "pinning_version": "2026.11.09.10.47.07",
   "pre_pr_migrator_attempt_ts": {
     "noarch_python_min": 1794221442
   },
@@ -244,5 +255,5 @@
       "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/42601190973'>bot CI job</a>)"
     }
   },
-  "smithy_version": "2026.10.24"
+  "smithy_version": "2026.11.6"
 }
