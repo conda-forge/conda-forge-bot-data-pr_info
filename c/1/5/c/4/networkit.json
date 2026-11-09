@@ -276,7 +276,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3195877057.json"
+        "closed_by": "fabratu",
+        "labels": [],
+        "merged": false,
+        "number": 40,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -287,7 +291,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3243374388.json"
+        "closed_by": "fabratu",
+        "labels": [],
+        "merged": false,
+        "number": 41,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -299,7 +307,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4560166487.json"
+        "closed_by": "fabratu",
+        "labels": [],
+        "merged": false,
+        "number": 42,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -310,7 +322,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5189772890.json"
+        "closed_by": "fabratu",
+        "labels": [],
+        "merged": false,
+        "number": 43,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
