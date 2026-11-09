@@ -386,7 +386,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4289951634.json"
+        "closed_by": "saraedum",
+        "labels": [],
+        "merged": false,
+        "number": 35,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -397,7 +401,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4672710023.json"
+        "closed_by": "saraedum",
+        "labels": [],
+        "merged": false,
+        "number": 36,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -408,7 +416,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5206159732.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 37,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
