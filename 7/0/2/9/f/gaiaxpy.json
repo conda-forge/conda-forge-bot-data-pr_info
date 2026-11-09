@@ -2,7 +2,11 @@
   "PRed": [
     {
       "PR": {
-        "__lazy_json__": "pr_json/2223340236.json"
+        "closed_by": "conda-forge-admin",
+        "labels": [],
+        "merged": false,
+        "number": 1,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -13,7 +17,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2289358930.json"
+        "closed_by": "conda-forge-admin",
+        "labels": [],
+        "merged": false,
+        "number": 2,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -24,7 +32,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3089648716.json"
+        "closed_by": "conda-forge-admin",
+        "labels": [],
+        "merged": false,
+        "number": 3,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
