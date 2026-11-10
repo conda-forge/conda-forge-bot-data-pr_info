@@ -1028,7 +1028,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5230946941.json"
+        "closed_by": "Krande",
+        "labels": [],
+        "merged": false,
+        "number": 319,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1039,7 +1043,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5233599875.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 320,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
