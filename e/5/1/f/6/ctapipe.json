@@ -452,7 +452,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5246715449.json"
+        "closed_by": "maxnoe",
+        "labels": [],
+        "merged": false,
+        "number": 53,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
