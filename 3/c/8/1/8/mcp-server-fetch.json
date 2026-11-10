@@ -41,7 +41,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4816612269.json"
+        "closed_by": "iamthebot",
+        "labels": [],
+        "merged": false,
+        "number": 5,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -52,7 +56,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4921042114.json"
+        "closed_by": "iamthebot",
+        "labels": [],
+        "merged": false,
+        "number": 6,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -63,10 +71,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5002067747.json"
+        "closed_by": "iamthebot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 7,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1794347370.3905313,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "2026.10.24"
@@ -74,7 +90,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5059394577.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 8,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
