@@ -536,7 +536,7 @@
         "__lazy_json__": "pr_json/3431830748.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1794305015.9198284,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "11.0.0"
@@ -544,7 +544,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4456243839.json"
+        "closed_by": null,
+        "labels": [
+          {
+            "name": "automerge"
+          }
+        ],
+        "merged": true,
+        "number": 49,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
