@@ -15,7 +15,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4151399593.json"
+        "closed_by": "tasicarl",
+        "labels": [],
+        "merged": false,
+        "number": 1,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -26,7 +30,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5211779116.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 2,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
