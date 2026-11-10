@@ -832,7 +832,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5191266279.json"
+        "closed_by": "sameeul",
+        "labels": [],
+        "merged": false,
+        "number": 81,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
