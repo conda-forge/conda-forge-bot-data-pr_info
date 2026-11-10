@@ -10584,6 +10584,19 @@
         "migrator_version": 0,
         "name": "cfitsio470"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5240328249.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "v3.12.x",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "cfitsio470"
+      }
     }
   ],
   "bad": false,
