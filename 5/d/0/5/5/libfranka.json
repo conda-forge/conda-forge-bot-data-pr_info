@@ -506,6 +506,19 @@
         "migrator_version": 0,
         "name": "poco1154"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5240732622.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "v0.15.0",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "poco1154"
+      }
     }
   ],
   "bad": false,
