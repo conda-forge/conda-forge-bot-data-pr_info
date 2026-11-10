@@ -65670,7 +65670,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4443246647.json"
+        "closed_by": "h-vetinari",
+        "labels": [],
+        "merged": false,
+        "number": 8918,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -65752,7 +65756,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4584824676.json"
+        "closed_by": "h-vetinari",
+        "labels": [],
+        "merged": false,
+        "number": 8954,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -66082,7 +66090,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4723171001.json"
+        "closed_by": "h-vetinari",
+        "labels": [],
+        "merged": false,
+        "number": 9008,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -66474,7 +66486,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5032378019.json"
+        "closed_by": "h-vetinari",
+        "labels": [],
+        "merged": false,
+        "number": 9076,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -66738,7 +66754,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5158126156.json"
+        "closed_by": "h-vetinari",
+        "labels": [],
+        "merged": false,
+        "number": 9103,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -67554,7 +67574,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5196404036.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 9164,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
