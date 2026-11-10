@@ -563,12 +563,23 @@
         "migrator_version": 1,
         "name": "support windows arm64 platform"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5234887857.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "6.0.6"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.09.21.11.10.01",
+  "pinning_version": "2026.11.09.20.04.39",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
-  "smithy_version": "2026.9.19"
+  "smithy_version": "2026.11.6"
 }
