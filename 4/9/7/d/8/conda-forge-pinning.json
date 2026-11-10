@@ -67971,6 +67971,18 @@
         "migrator_version": 0,
         "name": "hdrhistogram_c0121"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5244116394.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "dawn",
+        "pin_version": "20261109.214834"
+      }
     }
   ],
   "bad": false,
