@@ -67919,10 +67919,22 @@
         "name": "c_blosc2",
         "pin_version": "3.6"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5240344947.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "starlink_ast950"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.09.20.04.39",
+  "pinning_version": "2026.11.10.08.37.46",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
