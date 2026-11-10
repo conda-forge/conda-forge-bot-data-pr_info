@@ -310,7 +310,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5237635911.json"
+        "closed_by": "wolfv",
+        "labels": [],
+        "merged": false,
+        "number": 34,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
