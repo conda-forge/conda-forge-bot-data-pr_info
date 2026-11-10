@@ -5589,10 +5589,22 @@
         "migrator_version": 0,
         "name": "c_blosc235"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5240380840.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "c_blosc236"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.07.01.17.07",
+  "pinning_version": "2026.11.10.08.37.46",
   "pre_pr_migrator_attempt_ts": {
     "aws_c_endofjuly27": 1786473359
   },
