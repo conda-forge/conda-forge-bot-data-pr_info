@@ -68131,6 +68131,18 @@
         "migrator_version": 0,
         "name": "eclib20261021"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5254476802.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "qtkeychain",
+        "pin_version": "0.18"
+      }
     }
   ],
   "bad": false,
