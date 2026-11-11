@@ -44,10 +44,22 @@
         "migrator_version": 0,
         "version": "3.3.1"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5264689498.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "lz4_c111"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.08.10.15.58",
+  "pinning_version": "2026.11.11.13.35.40",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
