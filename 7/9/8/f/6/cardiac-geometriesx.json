@@ -398,7 +398,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5245462689.json"
+        "closed_by": "finsberg",
+        "labels": [],
+        "merged": false,
+        "number": 32,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -409,7 +413,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5250221738.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 33,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
