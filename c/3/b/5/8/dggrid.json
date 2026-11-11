@@ -195,7 +195,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5155251661.json"
+        "closed_by": "allixender",
+        "labels": [],
+        "merged": false,
+        "number": 27,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -206,7 +210,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5160900693.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 28,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
