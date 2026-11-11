@@ -5610,10 +5610,12 @@
   "bad": false,
   "pinning_version": "2026.11.10.08.37.46",
   "pre_pr_migrator_attempt_ts": {
-    "aws_c_endofjuly27": 1786473359
+    "aws_c_endofjuly27": 1786473359,
+    "lz4_c111": 1794413303
   },
   "pre_pr_migrator_attempts": {
-    "aws_c_endofjuly27": 2
+    "aws_c_endofjuly27": 2,
+    "lz4_c111": 1
   },
   "pre_pr_migrator_status": {
     "aws_c_endofjuly27": {
@@ -5628,6 +5630,19 @@
         "win_64_: Cannot solve the request because of: aws-sdk-cpp 1.11.833.* cannot be installed because there are no viable options:\n└─ aws-sdk-cpp 1.11.833 would require\n   └─ aws-crt-cpp >=0.40.1,<0.40.2.0a0, for which no candidates were found.\n"
       ],
       "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/31514791198'>bot CI job</a>)"
+    },
+    "lz4_c111": {
+      "base_branch": "main",
+      "kind": "not-solvable",
+      "messages": [
+        "linux_64_: Cannot solve the request because of: azure-storage-blobs-cpp 12.19.0.* cannot be installed because there are no viable options:\n└─ azure-storage-blobs-cpp 12.19.0 would require\n   └─ libnanoarrow >=0.9.0,<0.9.1.0a0, which cannot be installed because there are no viable options:\n      └─ libnanoarrow 0.9.0 would require\n         └─ lz4-c >=1.10.0,<1.11.0a0, for which no candidates were found.\n",
+        "linux_aarch64_: Cannot solve the request because of: azure-storage-blobs-cpp 12.19.0.* cannot be installed because there are no viable options:\n└─ azure-storage-blobs-cpp 12.19.0 would require\n   └─ libnanoarrow >=0.9.0,<0.9.1.0a0, which cannot be installed because there are no viable options:\n      └─ libnanoarrow 0.9.0 would require\n         └─ lz4-c >=1.10.0,<1.11.0a0, for which no candidates were found.\n",
+        "linux_ppc64le_: Cannot solve the request because of: azure-storage-blobs-cpp 12.19.0.* cannot be installed because there are no viable options:\n└─ azure-storage-blobs-cpp 12.19.0 would require\n   └─ libnanoarrow >=0.9.0,<0.9.1.0a0, which cannot be installed because there are no viable options:\n      └─ libnanoarrow 0.9.0 would require\n         └─ lz4-c >=1.10.0,<1.11.0a0, for which no candidates were found.\n",
+        "osx_64_: Cannot solve the request because of: azure-storage-blobs-cpp 12.19.0.* cannot be installed because there are no viable options:\n└─ azure-storage-blobs-cpp 12.19.0 would require\n   └─ libnanoarrow >=0.9.0,<0.9.1.0a0, which cannot be installed because there are no viable options:\n      └─ libnanoarrow 0.9.0 would require\n         └─ lz4-c >=1.10.0,<1.11.0a0, for which no candidates were found.\n",
+        "osx_arm64_: Cannot solve the request because of: azure-storage-blobs-cpp 12.19.0.* cannot be installed because there are no viable options:\n└─ azure-storage-blobs-cpp 12.19.0 would require\n   └─ libnanoarrow >=0.9.0,<0.9.1.0a0, which cannot be installed because there are no viable options:\n      └─ libnanoarrow 0.9.0 would require\n         └─ lz4-c >=1.10.0,<1.11.0a0, for which no candidates were found.\n",
+        "win_64_: Cannot solve the request because of: azure-storage-blobs-cpp 12.19.0.* cannot be installed because there are no viable options:\n└─ azure-storage-blobs-cpp 12.19.0 would require\n   └─ libnanoarrow >=0.9.0,<0.9.1.0a0, which cannot be installed because there are no viable options:\n      └─ libnanoarrow 0.9.0 would require\n         └─ lz4-c >=1.10.0,<1.11.0a0, for which no candidates were found.\n"
+      ],
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/43046872441'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.11.6"
