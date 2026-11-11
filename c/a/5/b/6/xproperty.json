@@ -95,7 +95,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5252884002.json"
+        "closed_by": "JohanMabille",
+        "labels": [],
+        "merged": false,
+        "number": 42,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
