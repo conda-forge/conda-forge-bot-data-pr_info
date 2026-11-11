@@ -185,7 +185,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5211728264.json"
+        "closed_by": "phreed",
+        "labels": [],
+        "merged": false,
+        "number": 15,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -196,7 +200,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5252666927.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 16,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
