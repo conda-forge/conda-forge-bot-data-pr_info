@@ -478,7 +478,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5234131947.json"
+        "closed_by": "flferretti",
+        "labels": [],
+        "merged": false,
+        "number": 41,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -489,7 +493,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5254073589.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 42,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
