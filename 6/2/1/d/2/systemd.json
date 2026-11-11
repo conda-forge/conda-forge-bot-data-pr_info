@@ -1106,7 +1106,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5239915784.json"
+        "closed_by": "ehfd",
+        "labels": [],
+        "merged": false,
+        "number": 94,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1118,7 +1122,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5239945792.json"
+        "closed_by": "ehfd",
+        "labels": [],
+        "merged": false,
+        "number": 95,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1131,7 +1139,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5258294451.json"
+        "closed_by": "ehfd",
+        "labels": [],
+        "merged": false,
+        "number": 96,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1143,7 +1155,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5258330069.json"
+        "closed_by": "ehfd",
+        "labels": [],
+        "merged": false,
+        "number": 97,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
