@@ -687,7 +687,7 @@
         "__lazy_json__": "pr_json/5047211325.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1794404362.2650914,
         "migrator_name": "WinArm64",
         "migrator_version": 1,
         "name": "support windows arm64 platform"
