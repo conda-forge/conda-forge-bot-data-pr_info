@@ -45,7 +45,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2316771601.json"
+        "closed_by": "traversaro",
+        "labels": [],
+        "merged": false,
+        "number": 5,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -56,10 +60,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5028443763.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 7,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1794396976.3620787,
         "migrator_name": "LinuxRISCV64",
         "migrator_version": 1,
         "name": "support linux riscv64 platform"
@@ -67,7 +79,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5084464473.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 8,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
