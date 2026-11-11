@@ -89,7 +89,7 @@
         "__lazy_json__": "pr_json/1754719119.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1794437072.9081724,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "1.5.0"
@@ -100,7 +100,7 @@
         "__lazy_json__": "pr_json/2054413119.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1794437072.9083426,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "1.5.1"
@@ -111,7 +111,7 @@
         "__lazy_json__": "pr_json/2166175450.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1794437072.908411,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "1.5.2"
@@ -122,7 +122,7 @@
         "__lazy_json__": "pr_json/2170785687.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1794437072.9084644,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "1.5.3"
@@ -133,7 +133,7 @@
         "__lazy_json__": "pr_json/2249673745.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1794437072.9085162,
         "migrator_name": "NoarchPythonMinMigrator",
         "migrator_version": 1,
         "name": "noarch_python_min"
