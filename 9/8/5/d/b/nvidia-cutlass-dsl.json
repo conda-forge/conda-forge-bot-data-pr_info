@@ -14,7 +14,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5249022292.json"
+        "closed_by": "billysuh7",
+        "labels": [],
+        "merged": false,
+        "number": 9,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
