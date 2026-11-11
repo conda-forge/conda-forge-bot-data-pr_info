@@ -68087,6 +68087,18 @@
         "migrator_version": 0,
         "name": "fastbdt60"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5253243104.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "lz4_c",
+        "pin_version": "1.11"
+      }
     }
   ],
   "bad": false,
