@@ -4204,7 +4204,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5250236523.json"
+        "closed_by": "ocefpaf",
+        "labels": [],
+        "merged": false,
+        "number": 360,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -4215,7 +4219,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5253192562.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 361,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
