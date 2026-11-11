@@ -585,7 +585,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5062295975.json"
+        "closed_by": "jsmolic",
+        "labels": [],
+        "merged": false,
+        "number": 48,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -607,7 +611,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5267418292.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 50,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
