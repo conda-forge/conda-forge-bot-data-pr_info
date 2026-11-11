@@ -1140,6 +1140,19 @@
         "migrator_version": 0,
         "name": "lz4_c111"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5258330069.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "stdlib_217",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "lz4_c111"
+      }
     }
   ],
   "bad": false,
