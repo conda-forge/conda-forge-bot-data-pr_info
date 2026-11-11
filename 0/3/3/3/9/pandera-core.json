@@ -959,7 +959,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5002320391.json"
+        "closed_by": "cosmicbboy",
+        "labels": [],
+        "merged": false,
+        "number": 80,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -970,7 +974,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5235798599.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 81,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
