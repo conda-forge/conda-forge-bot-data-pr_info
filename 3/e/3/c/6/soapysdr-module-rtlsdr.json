@@ -36,12 +36,24 @@
         "migrator_version": 1,
         "name": "arm osx addition"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5254351374.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "soapysdr09"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2021.05.11.20.13.05",
+  "pinning_version": "2026.11.11.02.34.59",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
-  "smithy_version": "3.10.1"
+  "smithy_version": "2026.11.6"
 }
