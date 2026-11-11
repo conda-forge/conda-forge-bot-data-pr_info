@@ -29,7 +29,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4576392850.json"
+        "closed_by": "olivier-roussel",
+        "labels": [],
+        "merged": false,
+        "number": 8,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -40,7 +44,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4715208624.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 9,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
