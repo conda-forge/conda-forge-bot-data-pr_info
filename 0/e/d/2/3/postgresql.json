@@ -2209,10 +2209,22 @@
         "migrator_version": 0,
         "name": "liburing215"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5258427705.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "lz4_c111"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.09.10.18.39",
+  "pinning_version": "2026.11.11.08.31.56",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
