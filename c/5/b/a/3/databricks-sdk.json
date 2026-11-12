@@ -2174,7 +2174,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5261194013.json"
+        "closed_by": "monaldoj",
+        "labels": [],
+        "merged": false,
+        "number": 181,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -2185,7 +2189,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5273613722.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 182,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
