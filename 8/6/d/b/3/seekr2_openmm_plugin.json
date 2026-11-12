@@ -274,8 +274,12 @@
   ],
   "bad": false,
   "pinning_version": "2026.01.08.16.38.53",
-  "pre_pr_migrator_attempt_ts": {},
-  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_attempt_ts": {
+    "python315": 1794519616
+  },
+  "pre_pr_migrator_attempts": {
+    "python315": 1
+  },
   "pre_pr_migrator_status": {
     "python315": {
       "base_branch": "main",
