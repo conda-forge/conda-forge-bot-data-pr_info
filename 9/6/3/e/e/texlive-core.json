@@ -1022,10 +1022,22 @@
         "migrator_version": 0,
         "name": "poppler2611"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5272695849.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "icu79"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.10.20.40.56",
+  "pinning_version": "2026.11.11.18.41.43",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
