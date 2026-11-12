@@ -518,7 +518,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5275338928.json"
+        "closed_by": "duncanmmacleod",
+        "labels": [],
+        "merged": false,
+        "number": 56,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
