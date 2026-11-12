@@ -5991,10 +5991,10 @@
   "bad": false,
   "pinning_version": "2026.11.10.15.25.28",
   "pre_pr_migrator_attempt_ts": {
-    "absl_grpc_proto_26q4": 1794462179
+    "absl_grpc_proto_26q4": 1794464545
   },
   "pre_pr_migrator_attempts": {
-    "absl_grpc_proto_26q4": 4
+    "absl_grpc_proto_26q4": 5
   },
   "pre_pr_migrator_status": {
     "absl_grpc_proto_26q4": {
@@ -6022,7 +6022,7 @@
         "win_64_python3.13.____cp313: Cannot solve the request because of: grpcio-tools 1.78.1.* cannot be installed because there are no viable options:\n└─ grpcio-tools 1.78.1 would require\n   └─ libabseil >=20260107.1,<20260108.0a0, for which no candidates were found.\n",
         "win_64_python3.14.____cp314: Cannot solve the request because of: grpcio-tools 1.78.1.* cannot be installed because there are no viable options:\n└─ grpcio-tools 1.78.1 would require\n   └─ libabseil >=20260107.1,<20260108.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/43158408309'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/43164194100'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.11.6"
