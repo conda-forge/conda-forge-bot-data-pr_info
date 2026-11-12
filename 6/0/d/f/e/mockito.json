@@ -86,7 +86,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/1754719119.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 10,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": 1794437072.9081724,
@@ -97,7 +105,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2054413119.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 11,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": 1794437072.9083426,
@@ -108,7 +124,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2166175450.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 12,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": 1794437072.908411,
@@ -119,7 +143,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2170785687.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 13,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": 1794437072.9084644,
@@ -130,7 +162,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2249673745.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 14,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": 1794437072.9085162,
