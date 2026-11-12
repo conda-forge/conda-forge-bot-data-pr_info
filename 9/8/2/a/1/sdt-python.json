@@ -157,7 +157,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3316525733.json"
+        "closed_by": "lschr",
+        "labels": [],
+        "merged": false,
+        "number": 38,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
