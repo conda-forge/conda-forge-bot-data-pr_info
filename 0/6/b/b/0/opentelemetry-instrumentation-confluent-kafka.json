@@ -84,7 +84,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5089802977.json"
+        "closed_by": "jsmolic",
+        "labels": [],
+        "merged": false,
+        "number": 17,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
