@@ -155,7 +155,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2254883855.json"
+        "closed_by": "Marius1311",
+        "labels": [],
+        "merged": false,
+        "number": 16,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
