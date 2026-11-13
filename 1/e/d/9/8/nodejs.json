@@ -4107,6 +4107,19 @@
         "migrator_version": 0,
         "name": "icu79"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5295427625.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "24.x",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "icu79"
+      }
     }
   ],
   "bad": false,
