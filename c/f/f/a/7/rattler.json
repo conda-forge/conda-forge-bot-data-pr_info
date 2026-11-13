@@ -632,7 +632,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5189394013.json"
+        "closed_by": "pavelzw",
+        "labels": [],
+        "merged": false,
+        "number": 60,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -643,7 +647,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5281851035.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 61,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
