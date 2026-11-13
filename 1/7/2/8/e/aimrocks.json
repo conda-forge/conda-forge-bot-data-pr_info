@@ -297,36 +297,24 @@
         "migrator_version": 0,
         "name": "snappy13"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5296837127.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "lz4_c111"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.07.18.09.50",
-  "pre_pr_migrator_attempt_ts": {
-    "lz4_c111": 1794572918
-  },
-  "pre_pr_migrator_attempts": {
-    "lz4_c111": 9
-  },
-  "pre_pr_migrator_status": {
-    "lz4_c111": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_64_python3.11.____cpython: error determining content size from frame header",
-        "linux_64_python3.12.____cpython: error determining content size from frame header",
-        "linux_64_python3.13.____cp313: error determining content size from frame header",
-        "linux_64_python3.14.____cp314: error determining content size from frame header",
-        "osx_64_python3.11.____cpython: error determining content size from frame header",
-        "osx_64_python3.12.____cpython: error determining content size from frame header",
-        "osx_64_python3.13.____cp313: error determining content size from frame header",
-        "osx_64_python3.14.____cp314: error determining content size from frame header",
-        "osx_arm64_python3.11.____cpython: error determining content size from frame header",
-        "osx_arm64_python3.12.____cpython: error determining content size from frame header",
-        "osx_arm64_python3.13.____cp313: error determining content size from frame header",
-        "osx_arm64_python3.14.____cp314: error determining content size from frame header"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/43417139278'>bot CI job</a>)"
-    }
-  },
+  "pinning_version": "2026.11.13.10.23.16",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
   "smithy_version": "2026.11.6"
 }
