@@ -68347,6 +68347,18 @@
         "migrator_version": 0,
         "name": "librerun_sdk0431"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5291289257.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "libjxl",
+        "pin_version": "0.13"
+      }
     }
   ],
   "bad": false,
