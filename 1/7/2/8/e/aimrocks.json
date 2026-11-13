@@ -302,10 +302,10 @@
   "bad": false,
   "pinning_version": "2026.11.07.18.09.50",
   "pre_pr_migrator_attempt_ts": {
-    "lz4_c111": 1794567054
+    "lz4_c111": 1794572918
   },
   "pre_pr_migrator_attempts": {
-    "lz4_c111": 8
+    "lz4_c111": 9
   },
   "pre_pr_migrator_status": {
     "lz4_c111": {
@@ -325,7 +325,7 @@
         "osx_arm64_python3.13.____cp313: error determining content size from frame header",
         "osx_arm64_python3.14.____cp314: error determining content size from frame header"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/43406593899'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/43417139278'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.11.6"
