@@ -60,7 +60,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5217300317.json"
+        "closed_by": "vvsagar",
+        "labels": [],
+        "merged": false,
+        "number": 10,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -71,7 +75,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5288217432.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 11,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
