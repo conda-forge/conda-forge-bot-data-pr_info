@@ -13,7 +13,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5282472764.json"
+        "closed_by": "changliao1025",
+        "labels": [],
+        "merged": false,
+        "number": 3,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
