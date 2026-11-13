@@ -41,7 +41,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3861489069.json"
+        "closed_by": "MAfarrag",
+        "labels": [],
+        "merged": false,
+        "number": 7,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -52,7 +56,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3872359216.json"
+        "closed_by": "MAfarrag",
+        "labels": [],
+        "merged": false,
+        "number": 8,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -63,7 +71,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4448094343.json"
+        "closed_by": "MAfarrag",
+        "labels": [],
+        "merged": false,
+        "number": 9,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -74,7 +86,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4458638808.json"
+        "closed_by": "MAfarrag",
+        "labels": [],
+        "merged": false,
+        "number": 10,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
