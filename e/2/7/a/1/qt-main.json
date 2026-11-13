@@ -2113,6 +2113,19 @@
         "migrator_version": 0,
         "name": "pcre21049"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5299692874.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "qt6.11",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "pcre21049"
+      }
     }
   ],
   "bad": false,
