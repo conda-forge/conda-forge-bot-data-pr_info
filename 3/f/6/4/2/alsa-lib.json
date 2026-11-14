@@ -282,7 +282,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4883241488.json"
+        "closed_by": "carterbox",
+        "labels": [],
+        "merged": false,
+        "number": 31,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
