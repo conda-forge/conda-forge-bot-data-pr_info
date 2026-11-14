@@ -2,7 +2,11 @@
   "PRed": [
     {
       "PR": {
-        "__lazy_json__": "pr_json/5174520809.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 1,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -13,7 +17,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5252691699.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 2,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
