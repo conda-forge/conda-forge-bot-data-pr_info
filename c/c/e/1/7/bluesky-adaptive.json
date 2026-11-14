@@ -78,10 +78,21 @@
         "migrator_version": 0,
         "version": "1.0.1"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/63accf46-d5d4-450a-a205-b2dc9cbacea4.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "NoarchPythonMinMigrator",
+        "migrator_version": 1,
+        "name": "noarch_python_min"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.07.21.50.48",
+  "pinning_version": "2026.11.14.17.19.29",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
