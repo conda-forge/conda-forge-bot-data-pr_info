@@ -2953,7 +2953,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5313661209.json"
+        "closed_by": "amotl",
+        "labels": [],
+        "merged": false,
+        "number": 243,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
