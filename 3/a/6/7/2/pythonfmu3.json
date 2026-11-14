@@ -146,7 +146,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4737828278.json"
+        "closed_by": "StephenSmith25",
+        "labels": [],
+        "merged": false,
+        "number": 13,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
