@@ -68467,10 +68467,22 @@
         "migrator_version": 0,
         "name": "librerun_sdk0432"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5311994048.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "lz4_c111"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.14.05.11.29",
+  "pinning_version": "2026.11.14.10.38.58",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
