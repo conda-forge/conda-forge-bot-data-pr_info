@@ -712,7 +712,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5212638257.json"
+        "closed_by": "cekees",
+        "labels": [],
+        "merged": false,
+        "number": 85,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -724,7 +728,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5303469922.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 86,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
