@@ -68479,6 +68479,18 @@
         "migrator_version": 0,
         "name": "lz4_c111"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5312488514.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "onnxruntime_cpp",
+        "pin_version": "1.32.0"
+      }
     }
   ],
   "bad": false,
