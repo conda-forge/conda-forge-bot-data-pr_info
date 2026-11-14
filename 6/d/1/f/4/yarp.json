@@ -1029,10 +1029,22 @@
         "migrator_version": 0,
         "name": "librerun_sdk0431"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5309473151.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "librerun_sdk0432"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.12.22.42.52",
+  "pinning_version": "2026.11.14.05.11.29",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
