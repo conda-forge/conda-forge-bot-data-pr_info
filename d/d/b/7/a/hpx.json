@@ -394,10 +394,22 @@
         "migrator_version": 0,
         "name": "mimalloc361"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5315519279.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 2,
+        "migrator_version": 0,
+        "name": "libhwloc2150"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.13.10.23.16",
+  "pinning_version": "2026.11.14.10.38.58",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
