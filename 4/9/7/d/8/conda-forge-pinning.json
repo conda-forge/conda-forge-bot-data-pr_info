@@ -68419,10 +68419,22 @@
         "migrator_version": 0,
         "name": "mimalloc361"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5305168091.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "librerun_sdk",
+        "pin_version": "0.43.2"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.13.10.23.16",
+  "pinning_version": "2026.11.13.21.02.03",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
