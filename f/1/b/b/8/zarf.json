@@ -58,7 +58,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3506107151.json"
+        "closed_by": "connor-stewarty",
+        "labels": [],
+        "merged": false,
+        "number": 9,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -69,7 +73,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3541974500.json"
+        "closed_by": "connor-stewarty",
+        "labels": [],
+        "merged": false,
+        "number": 10,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -80,7 +88,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3611528296.json"
+        "closed_by": "connor-stewarty",
+        "labels": [],
+        "merged": false,
+        "number": 11,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -91,7 +103,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3686398012.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 12,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
