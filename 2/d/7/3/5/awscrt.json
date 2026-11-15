@@ -10179,10 +10179,21 @@
         "migrator_version": 0,
         "name": "s2n1713"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5325286855.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "0.38.1"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.14.17.19.29",
+  "pinning_version": "2026.11.15.14.44.40",
   "pre_pr_migrator_attempt_ts": {
     "s2n177": 1786470364
   },
