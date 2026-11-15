@@ -288,7 +288,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5066414804.json"
+        "closed_by": "stoiver",
+        "labels": [],
+        "merged": false,
+        "number": 30,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
