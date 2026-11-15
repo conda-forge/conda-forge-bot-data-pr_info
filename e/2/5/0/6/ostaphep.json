@@ -2988,10 +2988,21 @@
         "migrator_version": 0,
         "version": "3.8.6.18"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5327977873.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "3.8.6.20"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.09.10.18.39",
+  "pinning_version": "2026.11.15.14.44.40",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
