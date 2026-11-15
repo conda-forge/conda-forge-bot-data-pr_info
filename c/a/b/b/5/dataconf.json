@@ -293,7 +293,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5321259883.json"
+        "closed_by": "zifeo",
+        "labels": [],
+        "merged": false,
+        "number": 30,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -304,7 +308,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5322492276.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 31,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
