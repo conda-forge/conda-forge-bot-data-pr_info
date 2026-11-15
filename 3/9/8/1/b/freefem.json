@@ -709,7 +709,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3474153920.json"
+        "closed_by": "ldallolio",
+        "labels": [],
+        "merged": false,
+        "number": 53,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -856,7 +860,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5324386932.json"
+        "closed_by": "ldallolio",
+        "labels": [],
+        "merged": false,
+        "number": 66,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
