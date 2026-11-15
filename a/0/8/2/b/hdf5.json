@@ -1199,38 +1199,25 @@
         "migrator_version": 0,
         "name": "aws_c_io11"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5323433791.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "1.14.x",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "aws_c_nov26"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.27.07.30.40",
-  "pre_pr_migrator_attempt_ts": {
-    "aws_c_nov26": 1794749494
-  },
-  "pre_pr_migrator_attempts": {
-    "aws_c_nov26": 1
-  },
-  "pre_pr_migrator_status": {
-    "aws_c_nov26": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_64_mpimpich: Cannot solve the request because of: aws-c-s3 1.1.* cannot be installed because there are no viable options:\n├─ aws-c-s3 1.1.3 would require\n│  └─ aws-c-io >=1.0.0,<1.1.0a0, for which no candidates were found.\n└─ aws-c-s3 1.1.2 would require\n   └─ aws-c-http >=1.0.0,<1.1.0a0, for which no candidates were found.\n",
-        "linux_64_mpinompi: Cannot solve the request because of: aws-c-s3 1.1.* cannot be installed because there are no viable options:\n├─ aws-c-s3 1.1.3 would require\n│  └─ aws-c-io >=1.0.0,<1.1.0a0, for which no candidates were found.\n└─ aws-c-s3 1.1.2 would require\n   └─ aws-c-http >=1.0.0,<1.1.0a0, for which no candidates were found.\n",
-        "linux_64_mpiopenmpi: Cannot solve the request because of: aws-c-s3 1.1.* cannot be installed because there are no viable options:\n├─ aws-c-s3 1.1.3 would require\n│  └─ aws-c-io >=1.0.0,<1.1.0a0, for which no candidates were found.\n└─ aws-c-s3 1.1.2 would require\n   └─ aws-c-http >=1.0.0,<1.1.0a0, for which no candidates were found.\n",
-        "linux_aarch64_mpimpich: Cannot solve the request because of: aws-c-s3 1.1.* cannot be installed because there are no viable options:\n├─ aws-c-s3 1.1.3 would require\n│  └─ aws-c-io >=1.0.0,<1.1.0a0, for which no candidates were found.\n└─ aws-c-s3 1.1.2 would require\n   └─ aws-c-http >=1.0.0,<1.1.0a0, for which no candidates were found.\n",
-        "linux_aarch64_mpinompi: Cannot solve the request because of: aws-c-s3 1.1.* cannot be installed because there are no viable options:\n├─ aws-c-s3 1.1.3 would require\n│  └─ aws-c-io >=1.0.0,<1.1.0a0, for which no candidates were found.\n└─ aws-c-s3 1.1.2 would require\n   └─ aws-c-http >=1.0.0,<1.1.0a0, for which no candidates were found.\n",
-        "linux_aarch64_mpiopenmpi: Cannot solve the request because of: aws-c-s3 1.1.* cannot be installed because there are no viable options:\n├─ aws-c-s3 1.1.3 would require\n│  └─ aws-c-io >=1.0.0,<1.1.0a0, for which no candidates were found.\n└─ aws-c-s3 1.1.2 would require\n   └─ aws-c-http >=1.0.0,<1.1.0a0, for which no candidates were found.\n",
-        "osx_64_mpimpich: Cannot solve the request because of: aws-c-s3 1.1.* cannot be installed because there are no viable options:\n├─ aws-c-s3 1.1.3 would require\n│  └─ aws-c-http >=1.0.0,<1.1.0a0, for which no candidates were found.\n└─ aws-c-s3 1.1.2 would require\n   └─ aws-c-io >=1.0.0,<1.1.0a0, for which no candidates were found.\n",
-        "osx_64_mpinompi: Cannot solve the request because of: aws-c-s3 1.1.* cannot be installed because there are no viable options:\n├─ aws-c-s3 1.1.3 would require\n│  └─ aws-c-http >=1.0.0,<1.1.0a0, for which no candidates were found.\n└─ aws-c-s3 1.1.2 would require\n   └─ aws-c-io >=1.0.0,<1.1.0a0, for which no candidates were found.\n",
-        "osx_64_mpiopenmpi: Cannot solve the request because of: aws-c-s3 1.1.* cannot be installed because there are no viable options:\n├─ aws-c-s3 1.1.3 would require\n│  └─ aws-c-http >=1.0.0,<1.1.0a0, for which no candidates were found.\n└─ aws-c-s3 1.1.2 would require\n   └─ aws-c-io >=1.0.0,<1.1.0a0, for which no candidates were found.\n",
-        "osx_arm64_mpimpich: Cannot solve the request because of: aws-c-s3 1.1.* cannot be installed because there are no viable options:\n└─ aws-c-s3 1.1.2 | 1.1.3 would require\n   └─ aws-c-io >=1.0.0,<1.1.0a0, for which no candidates were found.\n",
-        "osx_arm64_mpinompi: Cannot solve the request because of: aws-c-s3 1.1.* cannot be installed because there are no viable options:\n└─ aws-c-s3 1.1.2 | 1.1.3 would require\n   └─ aws-c-io >=1.0.0,<1.1.0a0, for which no candidates were found.\n",
-        "osx_arm64_mpiopenmpi: Cannot solve the request because of: aws-c-s3 1.1.* cannot be installed because there are no viable options:\n└─ aws-c-s3 1.1.2 | 1.1.3 would require\n   └─ aws-c-io >=1.0.0,<1.1.0a0, for which no candidates were found.\n",
-        "win_64_mpiimpi: Cannot solve the request because of: aws-c-s3 1.1.* cannot be installed because there are no viable options:\n└─ aws-c-s3 1.1.2 | 1.1.3 would require\n   └─ aws-c-io >=1.0.0,<1.1.0a0, for which no candidates were found.\n",
-        "win_64_mpinompi: Cannot solve the request because of: aws-c-s3 1.1.* cannot be installed because there are no viable options:\n└─ aws-c-s3 1.1.2 | 1.1.3 would require\n   └─ aws-c-io >=1.0.0,<1.1.0a0, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/43718153314'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "2026.10.24"
+  "pinning_version": "2026.11.15.08.35.05",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.11.6"
 }
