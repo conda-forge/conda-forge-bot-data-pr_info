@@ -68519,10 +68519,22 @@
         "migrator_version": 0,
         "name": "s2n1713"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5319552480.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libjxl013"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.14.17.19.29",
+  "pinning_version": "2026.11.15.02.11.28",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
