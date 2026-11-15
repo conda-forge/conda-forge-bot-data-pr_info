@@ -4624,7 +4624,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4652463039.json"
+        "closed_by": "conda-forge-admin",
+        "labels": [],
+        "merged": false,
+        "number": 461,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -4635,7 +4639,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4762848913.json"
+        "closed_by": "conda-forge-admin",
+        "labels": [],
+        "merged": false,
+        "number": 463,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -4646,7 +4654,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4949335673.json"
+        "closed_by": "conda-forge-admin",
+        "labels": [],
+        "merged": false,
+        "number": 464,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -4657,7 +4669,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5095592051.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 465,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": 1794699369.8315966,
@@ -4668,7 +4688,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5317531338.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 467,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
