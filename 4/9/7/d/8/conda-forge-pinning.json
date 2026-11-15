@@ -67054,7 +67054,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5196206113.json"
+        "closed_by": "xhochy",
+        "labels": [],
+        "merged": false,
+        "number": 9127,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -68302,7 +68306,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5273289774.json"
+        "closed_by": "xhochy",
+        "labels": [],
+        "merged": false,
+        "number": 9213,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
