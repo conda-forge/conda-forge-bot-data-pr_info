@@ -104,7 +104,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2247540243.json"
+        "closed_by": "gauteh",
+        "labels": [],
+        "merged": false,
+        "number": 8,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -116,7 +120,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2928650076.json"
+        "closed_by": "gauteh",
+        "labels": [],
+        "merged": false,
+        "number": 9,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -128,7 +136,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4908580232.json"
+        "closed_by": "gauteh",
+        "labels": [],
+        "merged": false,
+        "number": 10,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -140,7 +152,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5302531161.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 13,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
