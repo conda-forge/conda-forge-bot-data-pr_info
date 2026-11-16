@@ -151,7 +151,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5310631081.json"
+        "closed_by": "tkralphs",
+        "labels": [],
+        "merged": false,
+        "number": 16,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -162,7 +166,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5320407976.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 17,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
