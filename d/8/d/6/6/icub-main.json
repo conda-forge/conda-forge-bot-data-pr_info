@@ -716,10 +716,22 @@
         "migrator_version": 0,
         "name": "gsl28"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/6d866876-a6b1-4aba-b96c-04066477a8db.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libopencv510"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.14.21.41.28",
+  "pinning_version": "2026.11.16.12.42.28",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
