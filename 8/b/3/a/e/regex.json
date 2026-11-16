@@ -1786,6 +1786,18 @@
         "migrator_version": 0,
         "version": "2026.11.15"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5335392579.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315t"
+      }
     }
   ],
   "bad": false,
