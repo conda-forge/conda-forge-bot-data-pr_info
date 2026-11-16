@@ -1425,10 +1425,22 @@
         "migrator_version": 0,
         "name": "python315t"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/1eb33fb6-2c85-4ee9-abc5-b011146e3034.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315t"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.15.14.44.40",
+  "pinning_version": "2026.11.16.07.50.53",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
