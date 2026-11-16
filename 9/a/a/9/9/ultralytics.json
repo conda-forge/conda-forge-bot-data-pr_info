@@ -8505,7 +8505,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5333979720.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 706,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
