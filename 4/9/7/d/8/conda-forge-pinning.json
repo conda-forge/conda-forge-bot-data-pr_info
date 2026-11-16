@@ -68595,10 +68595,22 @@
         "name": "libopencv",
         "pin_version": "5.1.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5336191418.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "libflint",
+        "pin_version": "3.6"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.15.14.44.40",
+  "pinning_version": "2026.11.16.07.50.53",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
