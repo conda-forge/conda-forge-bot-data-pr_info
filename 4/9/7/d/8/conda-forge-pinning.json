@@ -68623,6 +68623,18 @@
         "migrator_version": 0,
         "name": "root_base64004"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5346501886.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "simdjson52"
+      }
     }
   ],
   "bad": false,
