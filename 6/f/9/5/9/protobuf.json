@@ -1463,6 +1463,19 @@
         "migrator_version": 0,
         "name": "python315t"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5331351011.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "v7.35.x",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315t"
+      }
     }
   ],
   "bad": false,
