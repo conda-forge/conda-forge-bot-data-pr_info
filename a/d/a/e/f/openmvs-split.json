@@ -55,10 +55,22 @@
         "migrator_version": 0,
         "name": "libjxl013"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5338071895.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libopencv510"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.14.23.32.26",
+  "pinning_version": "2026.11.16.07.50.53",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
