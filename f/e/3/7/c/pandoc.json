@@ -1221,10 +1221,21 @@
         "migrator_version": 0,
         "version": "3.14"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5355532049.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "LinuxRISCV64",
+        "migrator_version": 1,
+        "name": "support linux riscv64 platform"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.11.18.41.43",
+  "pinning_version": "2026.11.17.05.57.25",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
