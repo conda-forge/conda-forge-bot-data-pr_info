@@ -509,7 +509,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5268249475.json"
+        "closed_by": "soapy1",
+        "labels": [],
+        "merged": false,
+        "number": 41,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -520,7 +524,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5292906830.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 42,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
