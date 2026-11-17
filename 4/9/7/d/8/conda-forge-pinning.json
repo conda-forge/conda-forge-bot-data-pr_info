@@ -68799,6 +68799,18 @@
         "migrator_version": 0,
         "name": "bxdecay0121"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5359522059.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "libintl",
+        "pin_version": "1"
+      }
     }
   ],
   "bad": false,
