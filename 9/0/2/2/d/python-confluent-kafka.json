@@ -1507,10 +1507,22 @@
         "migrator_version": 0,
         "name": "python315t"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/02118266-e688-4c93-b4b5-f423b1db9d93.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "librdkafka216"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.16.12.42.28",
+  "pinning_version": "2026.11.17.15.31.29",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
