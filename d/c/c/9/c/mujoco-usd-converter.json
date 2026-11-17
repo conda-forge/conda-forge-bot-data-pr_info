@@ -162,7 +162,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5181707861.json"
+        "closed_by": "diegoferigo",
+        "labels": [],
+        "merged": false,
+        "number": 15,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -173,7 +177,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5352741465.json"
+        "closed_by": "diegoferigo",
+        "labels": [],
+        "merged": false,
+        "number": 16,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
