@@ -431,7 +431,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4921835437.json"
+        "closed_by": "davidbrochart",
+        "labels": [],
+        "merged": false,
+        "number": 34,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -442,7 +446,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5289674530.json"
+        "closed_by": "davidbrochart",
+        "labels": [],
+        "merged": false,
+        "number": 35,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -453,7 +461,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5305036841.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 36,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
