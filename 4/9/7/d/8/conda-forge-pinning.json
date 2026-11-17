@@ -68759,10 +68759,22 @@
         "name": "aws_c_auth",
         "pin_version": "1.1"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5355791406.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "libgoogle_cloud",
+        "pin_version": "3.14"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.17.01.59.04",
+  "pinning_version": "2026.11.17.05.57.25",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
