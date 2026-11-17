@@ -68775,10 +68775,22 @@
         "name": "libgoogle_cloud",
         "pin_version": "3.14"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5359364455.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "mimalloc",
+        "pin_version": "3.7.0"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.17.05.57.25",
+  "pinning_version": "2026.11.17.09.18.59",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
