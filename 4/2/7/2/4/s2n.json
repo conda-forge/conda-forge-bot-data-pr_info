@@ -2315,10 +2315,22 @@
         "migrator_version": 0,
         "version": "1.7.14"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5355781602.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "aws_c_nov26"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.13.23.41.52",
+  "pinning_version": "2026.11.17.05.57.25",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
