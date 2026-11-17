@@ -158,12 +158,24 @@
         "migrator_version": 0,
         "name": "libboost190"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5359208687.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "ldas_tools_framecpp41"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.06.06.17.50.26",
+  "pinning_version": "2026.11.17.09.18.59",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
-  "smithy_version": "2026.5.29"
+  "smithy_version": "2026.11.6"
 }
