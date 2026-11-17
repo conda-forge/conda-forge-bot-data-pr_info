@@ -502,10 +502,22 @@
         "migrator_version": 0,
         "version": "3.1.1"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5359192477.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "ldas_tools_framecpp41"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.12.09.07.52",
+  "pinning_version": "2026.11.17.09.18.59",
   "pre_pr_migrator_attempt_ts": {
     "python314t": 1786457474
   },
