@@ -1826,6 +1826,18 @@
         "migrator_version": 0,
         "version": "10.7.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5384615026.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "pybind11_abi12"
+      }
     }
   ],
   "bad": false,
