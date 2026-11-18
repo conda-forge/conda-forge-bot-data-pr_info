@@ -90,7 +90,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5329446159.json"
+        "closed_by": "utk4r-sh",
+        "labels": [],
+        "merged": false,
+        "number": 12,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -101,7 +105,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5369794279.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 13,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
