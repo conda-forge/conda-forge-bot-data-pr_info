@@ -1568,10 +1568,22 @@
         "migrator_version": 0,
         "name": "pcre21049"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5381263531.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libintl10"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.07.03.26.23",
+  "pinning_version": "2026.11.18.08.30.39",
   "pre_pr_migrator_attempt_ts": {
     "icu78": 1786471656,
     "pcre21049": 1795001206
