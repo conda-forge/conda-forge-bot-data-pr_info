@@ -10190,10 +10190,21 @@
         "migrator_version": 0,
         "version": "0.38.1"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5373523830.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "0.38.2"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.15.14.44.40",
+  "pinning_version": "2026.11.17.22.35.44",
   "pre_pr_migrator_attempt_ts": {
     "python315t": 1794979284,
     "s2n177": 1786470364
