@@ -1944,6 +1944,17 @@
         "migrator_version": 0,
         "version": "0.9.66"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5383357334.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "0.9.67"
+      }
     }
   ],
   "bad": false,
