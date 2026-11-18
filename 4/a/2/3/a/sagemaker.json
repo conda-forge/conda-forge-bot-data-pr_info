@@ -1001,7 +1001,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4963337485.json"
+        "closed_by": "aviruthen",
+        "labels": [],
+        "merged": false,
+        "number": 91,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1012,7 +1016,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5084613839.json"
+        "closed_by": "aviruthen",
+        "labels": [],
+        "merged": false,
+        "number": 92,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1023,7 +1031,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5169330833.json"
+        "closed_by": "aviruthen",
+        "labels": [],
+        "merged": false,
+        "number": 93,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
