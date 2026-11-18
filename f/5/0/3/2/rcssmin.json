@@ -360,10 +360,22 @@
         "migrator_version": 1,
         "name": "arm osx addition"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5370505128.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315t"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.11.13.35.40",
+  "pinning_version": "2026.11.17.22.35.44",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
