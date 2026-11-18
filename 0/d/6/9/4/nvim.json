@@ -400,10 +400,22 @@
         "migrator_version": 0,
         "name": "libutf8proc212"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5374856826.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libintl10"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.07.02.37.51",
+  "pinning_version": "2026.11.17.22.35.44",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
