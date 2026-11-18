@@ -1115,10 +1115,22 @@
         "migrator_version": 0,
         "version": "7.2.2"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5372060471.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "pybind11_abi12"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.10.18.58.18",
+  "pinning_version": "2026.11.17.22.35.44",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
