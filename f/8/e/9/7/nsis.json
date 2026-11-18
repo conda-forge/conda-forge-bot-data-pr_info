@@ -114,7 +114,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4964459905.json"
+        "closed_by": "jaimergp",
+        "labels": [],
+        "merged": false,
+        "number": 33,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
