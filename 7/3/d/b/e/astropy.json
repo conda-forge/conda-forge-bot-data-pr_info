@@ -963,10 +963,21 @@
         "migrator_version": 0,
         "name": "python314t"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5369598201.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "8.0.3"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.11.09.32.12",
+  "pinning_version": "2026.11.17.22.35.44",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
