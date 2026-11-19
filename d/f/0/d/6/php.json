@@ -542,7 +542,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/1052332254.json"
+        "closed_by": "wolfv",
+        "labels": [],
+        "merged": false,
+        "number": 61,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -681,7 +685,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/1123617112.json"
+        "closed_by": "wolfv",
+        "labels": [],
+        "merged": false,
+        "number": 71,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1166,7 +1174,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2491387490.json"
+        "closed_by": "wolfv",
+        "labels": [],
+        "merged": false,
+        "number": 104,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1179,7 +1191,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2491389259.json"
+        "closed_by": "wolfv",
+        "labels": [],
+        "merged": false,
+        "number": 105,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1219,7 +1235,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2790926722.json"
+        "closed_by": "wolfv",
+        "labels": [],
+        "merged": false,
+        "number": 110,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1232,7 +1252,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2790927851.json"
+        "closed_by": "wolfv",
+        "labels": [],
+        "merged": false,
+        "number": 111,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1276,7 +1300,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2806615573.json"
+        "closed_by": "wolfv",
+        "labels": [],
+        "merged": false,
+        "number": 114,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1289,7 +1317,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2806616882.json"
+        "closed_by": "wolfv",
+        "labels": [],
+        "merged": false,
+        "number": 115,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1329,7 +1361,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3032614873.json"
+        "closed_by": "wolfv",
+        "labels": [],
+        "merged": false,
+        "number": 118,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1342,7 +1378,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3032616965.json"
+        "closed_by": "wolfv",
+        "labels": [],
+        "merged": false,
+        "number": 119,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1380,7 +1420,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3435848281.json"
+        "closed_by": "wolfv",
+        "labels": [],
+        "merged": false,
+        "number": 124,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1437,7 +1481,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3694567858.json"
+        "closed_by": "wolfv",
+        "labels": [],
+        "merged": false,
+        "number": 128,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1558,7 +1606,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5201072086.json"
+        "closed_by": "wolfv",
+        "labels": [],
+        "merged": false,
+        "number": 136,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1571,7 +1623,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5381263531.json"
+        "closed_by": null,
+        "labels": [
+          {
+            "name": "automerge"
+          }
+        ],
+        "merged": true,
+        "number": 137,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1583,7 +1643,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5381307710.json"
+        "closed_by": "wolfv",
+        "labels": [],
+        "merged": false,
+        "number": 138,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
