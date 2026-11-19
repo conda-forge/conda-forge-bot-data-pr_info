@@ -116,7 +116,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2248825715.json"
+        "closed_by": "patricksnape",
+        "labels": [],
+        "merged": false,
+        "number": 14,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -127,7 +131,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5369454501.json"
+        "closed_by": "patricksnape",
+        "labels": [],
+        "merged": false,
+        "number": 16,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
