@@ -391,12 +391,23 @@
         "migrator_version": 0,
         "name": "libnetcdf4101"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5390175915.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "1.11.0.1"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.07.12.09.01.38",
+  "pinning_version": "2026.11.19.00.35.58",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
-  "smithy_version": "2026.6.14"
+  "smithy_version": "2026.11.6"
 }
