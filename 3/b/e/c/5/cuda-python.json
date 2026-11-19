@@ -1009,7 +1009,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5370450848.json"
+        "closed_by": "leofang",
+        "labels": [],
+        "merged": false,
+        "number": 227,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1021,7 +1025,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5370458495.json"
+        "closed_by": "leofang",
+        "labels": [],
+        "merged": false,
+        "number": 228,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
