@@ -425,7 +425,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5182260549.json"
+        "closed_by": "xylar",
+        "labels": [],
+        "merged": false,
+        "number": 37,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -436,7 +440,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5392293539.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 38,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
