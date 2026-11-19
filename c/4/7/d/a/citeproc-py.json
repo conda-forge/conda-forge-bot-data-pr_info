@@ -452,10 +452,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5269716611.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 37,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1795065780.205489,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "0.12.2"
@@ -463,10 +471,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5290730484.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 38,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1795065780.2056775,
         "migrator_name": "Version",
         "migrator_version": 0,
         "version": "0.12.3"
