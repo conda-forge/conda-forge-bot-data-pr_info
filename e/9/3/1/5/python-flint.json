@@ -703,11 +703,11 @@
   "bad": false,
   "pinning_version": "2026.09.03.21.56.33",
   "pre_pr_migrator_attempt_ts": {
-    "python314t": 1795064953,
+    "python314t": 1795085765,
     "python315": 1795075734
   },
   "pre_pr_migrator_attempts": {
-    "python314t": 1,
+    "python314t": 2,
     "python315": 1
   },
   "pre_pr_migrator_status": {
@@ -721,7 +721,7 @@
         "win_64_python3.14.____cp314: Cannot solve the request because of: No candidates were found for vs2022_win-64 2022.*.\n",
         "win_64_python3.14.____cp314t: Cannot solve the request because of: No candidates were found for vs2022_win-64 2022.*.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/44440443841'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/44489230162'>bot CI job</a>)"
     },
     "python315": {
       "base_branch": "main",
