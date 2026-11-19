@@ -702,8 +702,25 @@
   ],
   "bad": false,
   "pinning_version": "2026.09.03.21.56.33",
-  "pre_pr_migrator_attempt_ts": {},
-  "pre_pr_migrator_attempts": {},
-  "pre_pr_migrator_status": {},
+  "pre_pr_migrator_attempt_ts": {
+    "python314t": 1795064953
+  },
+  "pre_pr_migrator_attempts": {
+    "python314t": 1
+  },
+  "pre_pr_migrator_status": {
+    "python314t": {
+      "base_branch": "main",
+      "kind": "not-solvable",
+      "messages": [
+        "win_64_python3.11.____cpython: Cannot solve the request because of: No candidates were found for vs2022_win-64 2022.*.\n",
+        "win_64_python3.12.____cpython: Cannot solve the request because of: No candidates were found for vs2022_win-64 2022.*.\n",
+        "win_64_python3.13.____cp313: Cannot solve the request because of: No candidates were found for vs2022_win-64 2022.*.\n",
+        "win_64_python3.14.____cp314: Cannot solve the request because of: No candidates were found for vs2022_win-64 2022.*.\n",
+        "win_64_python3.14.____cp314t: Cannot solve the request because of: No candidates were found for vs2022_win-64 2022.*.\n"
+      ],
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/44440443841'>bot CI job</a>)"
+    }
+  },
   "smithy_version": "2026.9.1"
 }
