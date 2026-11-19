@@ -26298,6 +26298,19 @@
         "migrator_version": 0,
         "name": "libgoogle_cloud314"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5388868018.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "25.x",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libgoogle_cloud314"
+      }
     }
   ],
   "bad": false,
