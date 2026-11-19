@@ -68887,10 +68887,22 @@
         "migrator_version": 0,
         "name": "ldas_tools_framecpp41"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5388735700.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "pari",
+        "pin_version": "2.19"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.17.22.35.44",
+  "pinning_version": "2026.11.19.00.35.58",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
