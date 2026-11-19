@@ -356,12 +356,24 @@
         "migrator_version": 0,
         "name": "givaro422"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5396290009.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libflint36"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.07.22.19.40.54",
+  "pinning_version": "2026.11.19.07.31.05",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
-  "smithy_version": "2026.6.14"
+  "smithy_version": "2026.11.6"
 }
