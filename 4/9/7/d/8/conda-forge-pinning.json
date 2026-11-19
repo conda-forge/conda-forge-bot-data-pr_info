@@ -68522,7 +68522,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5299703195.json"
+        "closed_by": "h-vetinari",
+        "labels": [],
+        "merged": false,
+        "number": 9223,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -68710,7 +68714,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5336191418.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 9241,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -68766,7 +68774,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5355791406.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 9251,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
