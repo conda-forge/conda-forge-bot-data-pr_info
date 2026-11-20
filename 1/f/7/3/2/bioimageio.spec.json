@@ -1290,7 +1290,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4305047091.json"
+        "closed_by": "FynnBe",
+        "labels": [],
+        "merged": false,
+        "number": 156,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1301,7 +1305,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4360686276.json"
+        "closed_by": "FynnBe",
+        "labels": [],
+        "merged": false,
+        "number": 157,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1312,7 +1320,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4363106319.json"
+        "closed_by": "FynnBe",
+        "labels": [],
+        "merged": false,
+        "number": 158,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1323,7 +1335,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4590772654.json"
+        "closed_by": "FynnBe",
+        "labels": [],
+        "merged": false,
+        "number": 159,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
