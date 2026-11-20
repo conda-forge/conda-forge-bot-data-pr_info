@@ -452,7 +452,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5389723212.json"
+        "closed_by": "tdstein",
+        "labels": [],
+        "merged": false,
+        "number": 66,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -463,7 +467,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5410055857.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 67,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
