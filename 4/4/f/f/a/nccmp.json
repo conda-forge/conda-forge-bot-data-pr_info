@@ -358,7 +358,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3800491222.json"
+        "closed_by": "zklaus",
+        "labels": [],
+        "merged": false,
+        "number": 30,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -370,7 +374,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3808190152.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 31,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
