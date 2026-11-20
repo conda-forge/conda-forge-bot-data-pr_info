@@ -1727,10 +1727,22 @@
         "migrator_version": 0,
         "name": "pcre21049"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5413220579.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libpq19"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.19.13.45.55",
+  "pinning_version": "2026.11.19.21.51.13",
   "pre_pr_migrator_attempt_ts": {
     "icu78": 1786471656
   },
