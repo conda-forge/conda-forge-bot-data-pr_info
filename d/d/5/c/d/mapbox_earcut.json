@@ -364,25 +364,24 @@
         "migrator_version": 0,
         "name": "python315"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5405426285.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315t"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.09.15.20.14.38",
-  "pre_pr_migrator_attempt_ts": {
-    "python315t": 1795112652
-  },
-  "pre_pr_migrator_attempts": {
-    "python315t": 1
-  },
-  "pre_pr_migrator_status": {
-    "python315t": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "win_64_python3.11.____cpython: HTTP status server error (503 Service Unavailable) for url (https://conda.anaconda.org/msys2/win-64/repodata_shards.msgpack.zst)"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/44551342769'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "2026.9.10"
+  "pinning_version": "2026.11.19.13.45.55",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.11.6"
 }
