@@ -172,7 +172,7 @@
         "__lazy_json__": "pr_json/4492561339.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1795160376.273882,
         "migrator_name": "ArchRebuild",
         "migrator_version": 1,
         "name": "aarch64 and ppc64le addition"
