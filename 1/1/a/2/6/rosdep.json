@@ -256,7 +256,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4510874238.json"
+        "closed_by": "Tobias-Fischer",
+        "labels": [],
+        "merged": false,
+        "number": 38,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
