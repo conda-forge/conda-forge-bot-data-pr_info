@@ -277,7 +277,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5130514440.json"
+        "closed_by": "haecker-felix",
+        "labels": [],
+        "merged": false,
+        "number": 29,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -288,7 +292,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5146748969.json"
+        "closed_by": "haecker-felix",
+        "labels": [],
+        "merged": false,
+        "number": 31,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -299,7 +307,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5277959802.json"
+        "closed_by": "haecker-felix",
+        "labels": [],
+        "merged": false,
+        "number": 32,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -310,7 +322,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5282746155.json"
+        "closed_by": "haecker-felix",
+        "labels": [],
+        "merged": false,
+        "number": 33,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
