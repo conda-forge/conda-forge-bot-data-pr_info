@@ -55,7 +55,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5420457699.json"
+        "closed_by": "mattwthompson",
+        "labels": [],
+        "merged": false,
+        "number": 38,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
