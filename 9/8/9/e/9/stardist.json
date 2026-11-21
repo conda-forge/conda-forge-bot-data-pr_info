@@ -210,10 +210,21 @@
         "migrator_version": 1,
         "name": "aarch64 and ppc64le addition"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5422252862.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "ArchRebuild",
+        "migrator_version": 1,
+        "name": "aarch64 and ppc64le addition"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.19.21.51.13",
+  "pinning_version": "2026.11.20.18.30.48",
   "pre_pr_migrator_attempt_ts": {
     "python315": 1795202903
   },
