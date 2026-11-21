@@ -84,7 +84,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5253863861.json"
+        "closed_by": "Almarch",
+        "labels": [],
+        "merged": false,
+        "number": 7,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -95,7 +99,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5424191617.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 8,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
