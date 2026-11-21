@@ -2232,7 +2232,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5423504630.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 196,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
