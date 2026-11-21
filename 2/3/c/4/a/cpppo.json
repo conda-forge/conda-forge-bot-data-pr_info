@@ -121,7 +121,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5412029600.json"
+        "closed_by": "beenje",
+        "labels": [],
+        "merged": false,
+        "number": 11,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -132,7 +136,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5419735062.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 12,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
