@@ -2977,6 +2977,19 @@
         "migrator_version": 0,
         "name": "libintl10"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5432047341.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "4.5.x",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "libintl10"
+      }
     }
   ],
   "bad": false,
