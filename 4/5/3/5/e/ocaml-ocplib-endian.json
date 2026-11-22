@@ -1,10 +1,22 @@
 {
+  "PRed": [
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5442776694.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "ocaml552"
+      }
+    }
+  ],
   "bad": false,
-  "pre_pr_migrator_attempt_ts": {
-    "ocaml552": 1795375836
-  },
-  "pre_pr_migrator_attempts": {
-    "ocaml552": 1
-  },
-  "pre_pr_migrator_status": {}
+  "pinning_version": "2026.11.22.12.31.48",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.11.6"
 }
