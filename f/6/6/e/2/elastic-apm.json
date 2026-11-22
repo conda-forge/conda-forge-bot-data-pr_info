@@ -604,7 +604,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2261340539.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 61,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": 1795357781.7866697,
@@ -615,7 +623,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2738567457.json"
+        "closed_by": "tobiasraabe",
+        "labels": [],
+        "merged": false,
+        "number": 62,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -626,7 +638,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3033289965.json"
+        "closed_by": "tobiasraabe",
+        "labels": [],
+        "merged": false,
+        "number": 63,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -637,7 +653,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3125644312.json"
+        "closed_by": "tobiasraabe",
+        "labels": [],
+        "merged": false,
+        "number": 64,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -648,7 +668,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3743998869.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 65,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
