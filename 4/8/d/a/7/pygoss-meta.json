@@ -37,25 +37,24 @@
         "migrator_version": 0,
         "name": "python314"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5438754953.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2025.12.09.17.39.06",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1795345914
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 9
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "linux_aarch64_: Cannot solve the request because of: cppyy * cannot be installed because there are no viable options:\n├─ cppyy 2.2.0 | 2.3.0 | 2.3.1 would require\n│  └─ python >=3.10,<3.11.0a0, for which no candidates were found.\n├─ cppyy 2.0.0 | 2.1.0 | ... | 2.3.1 would require\n│  └─ python >=3.7,<3.8.0a0, for which no candidates were found.\n├─ cppyy 2.0.0 | 2.1.0 | ... | 2.3.1 would require\n│  └─ python >=3.8,<3.9.0a0, for which no candidates were found.\n├─ cppyy 2.0.0 | 2.1.0 | ... | 2.3.1 would require\n│  └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n└─ cppyy 2.0.0 | 2.1.0 would require\n   └─ python >=3.6,<3.7.0a0, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/45013725970'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "3.53.3"
+  "pinning_version": "2026.11.22.03.14.01",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.11.6"
 }
