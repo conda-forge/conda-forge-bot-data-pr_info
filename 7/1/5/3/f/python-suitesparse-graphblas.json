@@ -792,7 +792,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5055537842.json"
+        "closed_by": "eriknw",
+        "labels": [],
+        "merged": false,
+        "number": 79,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -803,7 +807,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5396508129.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 80,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
