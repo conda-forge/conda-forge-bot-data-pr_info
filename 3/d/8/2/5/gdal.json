@@ -10476,7 +10476,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5200168868.json"
+        "closed_by": "akrherz",
+        "labels": [],
+        "merged": false,
+        "number": 1247,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -10711,7 +10715,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5301511027.json"
+        "closed_by": null,
+        "labels": [
+          {
+            "name": "automerge"
+          }
+        ],
+        "merged": true,
+        "number": 1260,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
