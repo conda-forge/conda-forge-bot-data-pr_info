@@ -2,7 +2,11 @@
   "PRed": [
     {
       "PR": {
-        "__lazy_json__": "pr_json/3907514892.json"
+        "closed_by": "IvoLeist",
+        "labels": [],
+        "merged": false,
+        "number": 1,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -53,7 +57,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5420210094.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 5,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
