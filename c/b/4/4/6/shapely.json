@@ -845,10 +845,10 @@
   "bad": false,
   "pinning_version": "2026.09.10.17.42.53",
   "pre_pr_migrator_attempt_ts": {
-    "geos3150": 1795343582
+    "geos3150": 1795345870
   },
   "pre_pr_migrator_attempts": {
-    "geos3150": 316
+    "geos3150": 317
   },
   "pre_pr_migrator_status": {
     "geos3150": {
