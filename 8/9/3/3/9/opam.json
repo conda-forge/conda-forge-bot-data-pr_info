@@ -160,8 +160,12 @@
   ],
   "bad": false,
   "pinning_version": "2026.10.24.05.42.06",
-  "pre_pr_migrator_attempt_ts": {},
-  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_attempt_ts": {
+    "ocaml552": 1795375844
+  },
+  "pre_pr_migrator_attempts": {
+    "ocaml552": 1
+  },
   "pre_pr_migrator_status": {},
   "smithy_version": "2026.10.24"
 }
