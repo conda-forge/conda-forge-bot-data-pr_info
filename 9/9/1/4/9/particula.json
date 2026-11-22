@@ -560,7 +560,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5406731744.json"
+        "closed_by": "Gorkowski",
+        "labels": [],
+        "merged": false,
+        "number": 59,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
