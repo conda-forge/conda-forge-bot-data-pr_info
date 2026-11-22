@@ -471,7 +471,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3577543852.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 47,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -503,7 +507,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5433801954.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 49,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": 1795333741.5391624,
@@ -515,7 +527,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5436184274.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 50,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": 1795333741.5394027,
