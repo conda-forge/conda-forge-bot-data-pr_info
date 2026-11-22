@@ -410,10 +410,22 @@
         "migrator_version": 0,
         "name": "occt801"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5443976201.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.09.18.22.03.52",
+  "pinning_version": "2026.11.22.17.16.11",
   "pre_pr_migrator_attempt_ts": {
     "python314t": 1786465873
   },
@@ -459,5 +471,5 @@
       "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/31501592921'>bot CI job</a>)"
     }
   },
-  "smithy_version": "2026.9.10"
+  "smithy_version": "2026.11.6"
 }
