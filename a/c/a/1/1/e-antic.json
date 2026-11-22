@@ -829,10 +829,10 @@
   "bad": false,
   "pinning_version": "2026.11.22.03.14.01",
   "pre_pr_migrator_attempt_ts": {
-    "python314t": 1795375033
+    "python314t": 1795375882
   },
   "pre_pr_migrator_attempts": {
-    "python314t": 6
+    "python314t": 7
   },
   "pre_pr_migrator_status": {
     "python314t": {
