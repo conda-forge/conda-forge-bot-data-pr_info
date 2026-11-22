@@ -16,10 +16,10 @@
   "bad": false,
   "pinning_version": "2021.07.07.15.42.36",
   "pre_pr_migrator_attempt_ts": {
-    "noarch_python_min": 1795334776
+    "noarch_python_min": 1795375802
   },
   "pre_pr_migrator_attempts": {
-    "noarch_python_min": 594
+    "noarch_python_min": 595
   },
   "pre_pr_migrator_status": {
     "noarch_python_min": {
