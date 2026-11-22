@@ -15,26 +15,24 @@
         "migrator_version": 0,
         "name": "ocaml551"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5442135764.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "ocaml552"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.24.05.42.06",
-  "pre_pr_migrator_attempt_ts": {
-    "ocaml552": 1795370890
-  },
-  "pre_pr_migrator_attempts": {
-    "ocaml552": 2
-  },
-  "pre_pr_migrator_status": {
-    "ocaml552": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "win_64_c_compilervs2022: Rattler build errors: Command: rattler-build build --recipe /cf_feedstock_ops_dir/recipe --target-platform win-64 --build-platform win-64 -m /tmp/tmpxoz32ash/692872fb-28e4-4e37-8739-e4fc6fbfea6d.yaml --render-only --with-solve\nLogs:\nrattler-build 0.80.2\n No configuration file loaded\n Processing recipe at path: /cf_feedstock_ops_dir/recipe/recipe.yaml\n\n ╭─ Finding outputs from recipe\n │ Loading variant config from: /tmp/tmpxoz32ash/692872fb-28e4-4e37-8739-e4fc6fbfea6d.yaml\n │ ⚠ warning Found 'pin_run_as_build' in variant config - this is not supported and will be ignored\n │ Loading variant config from: /cf_feedstock_ops_dir/recipe/variants.yaml\n │ Loading variant config from: /tmp/tmpxoz32ash/692872fb-28e4-4e37-8739-e4fc6fbfea6d.yaml\n │ ⚠ warning Found 'pin_run_as_build' in variant config - this is not supported and will be ignored\n │ Found 1 variants\n │ \n │ Build variant: ocaml-stdlib-shims-0.3.0-hd43773e_4\n │ \n │ ╭────────────────────────┬───────────────────────────────────────╮\n │ │ Variant                ┆ Version                               │\n │ ╞════════════════════════╪═══════════════════════════════════════╡\n │ │ build_platform         ┆ \"win-64\"                              │\n │ │ c_compiler             ┆ \"vs2022\"                              │\n │ │ c_compiler_version     ┆ \"2022\"                                │\n │ │ c_stdlib               ┆ \"vs\"                                  │\n │ │ channel_sources        ┆ \"conda-forge,file:///tmp/tmpwnwwi74e\" │\n │ │ channel_targets        ┆ \"conda-forge main\"                    │\n │ │ ocaml_compiler         ┆ \"ocaml\"                               │\n │ │ ocaml_compiler_version ┆ \"5.5.2\"                               │\n │ │ target_platform        ┆ \"win-64\"                              │\n │ ╰────────────────────────┴───────────────────────────────────────╯\n │\n ╰─────────────────── (took 0 seconds)\n\n ╭─ Resolving build environment\n │   Platform: win-64 [__win=10.0=0, __archspec=1=x86_64]\n │   Channels: \n │    - file:///tmp/tmp4rm4iku6/\n │    - conda-forge\n │    - file:///tmp/tmpwnwwi74e/\n │   Specs:\n │    - ocaml_win-64 5.5.2.*\n │    - vs_win-64\n │    - vs2022_win-64 2022.*\n │    - ocaml_win-64 5.5.2.* vs2022_*\n │    - ocaml-dune >=1.0\n │\n ╰─────────────────── (took 0 seconds)\nError:   × Failed to resolve dependencies\n  ╰─▶ Cannot solve the request because of: No candidates were found for\n      vs2022_win-64 2022.*.",
-        "win_arm64_: Rattler build errors: Command: rattler-build build --recipe /cf_feedstock_ops_dir/recipe --target-platform win-arm64 --build-platform win-arm64 -m /tmp/tmp186xape1/958c866f-2103-44be-aac7-d32713313c1f.yaml --render-only --with-solve\nLogs:\nrattler-build 0.80.2\n No configuration file loaded\n Processing recipe at path: /cf_feedstock_ops_dir/recipe/recipe.yaml\n\n ╭─ Finding outputs from recipe\n │ Loading variant config from: /tmp/tmp186xape1/958c866f-2103-44be-aac7-d32713313c1f.yaml\n │ ⚠ warning Found 'pin_run_as_build' in variant config - this is not supported and will be ignored\n │ Loading variant config from: /cf_feedstock_ops_dir/recipe/variants.yaml\n │ Loading variant config from: /tmp/tmp186xape1/958c866f-2103-44be-aac7-d32713313c1f.yaml\n │ ⚠ warning Found 'pin_run_as_build' in variant config - this is not supported and will be ignored\n │ Found 1 variants\n │ \n │ Build variant: ocaml-stdlib-shims-0.3.0-h81ce66c_4\n │ \n │ ╭────────────────────────┬───────────────────────────────────────╮\n │ │ Variant                ┆ Version                               │\n │ ╞════════════════════════╪═══════════════════════════════════════╡\n │ │ build_platform         ┆ \"win-arm64\"                           │\n │ │ c_compiler             ┆ \"zig\"                                 │\n │ │ c_compiler_version     ┆ \"2022\"                                │\n │ │ c_stdlib               ┆ \"vs\"                                  │\n │ │ channel_sources        ┆ \"conda-forge,file:///tmp/tmpwnwwi74e\" │\n │ │ channel_targets        ┆ \"conda-forge main\"                    │\n │ │ ocaml_compiler         ┆ \"ocaml\"                               │\n │ │ ocaml_compiler_version ┆ \"5.5.2\"                               │\n │ │ target_platform        ┆ \"win-arm64\"                           │\n │ ╰────────────────────────┴───────────────────────────────────────╯\n │\n ╰─────────────────── (took 0 seconds)\n\n ╭─ Resolving build environment\n │   Platform: win-arm64 [__win=10.0=0, __archspec=1=aarch64]\n │   Channels: \n │    - file:///tmp/tmp4rm4iku6/\n │    - conda-forge\n │    - file:///tmp/tmpwnwwi74e/\n │   Specs:\n │    - ocaml_win-arm64 5.5.2.*\n │    - vs_win-arm64\n │    - zig_win-arm64 2022.*\n │    - ocaml_win-arm64 5.5.2.* zig_*\n │    - ocaml-dune >=1.0\n │\n ╰─────────────────── (took 0 seconds)\nError:   × Failed to resolve dependencies\n  ╰─▶ Cannot solve the request because of: No candidates were found for\n      zig_win-arm64 2022.*."
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/45049813211'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "2026.10.21"
+  "pinning_version": "2026.11.22.12.31.48",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.11.6"
 }
