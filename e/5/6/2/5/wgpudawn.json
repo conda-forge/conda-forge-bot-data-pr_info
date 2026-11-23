@@ -2,7 +2,15 @@
   "PRed": [
     {
       "PR": {
-        "__lazy_json__": "pr_json/5446189467.json"
+        "closed_by": null,
+        "labels": [
+          {
+            "name": "automerge"
+          }
+        ],
+        "merged": true,
+        "number": 3,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -13,7 +21,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/77cfc47d-0f20-494b-97d9-6a6e7004337c.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": null,
+        "number": null,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
