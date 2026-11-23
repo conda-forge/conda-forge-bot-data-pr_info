@@ -1066,10 +1066,21 @@
         "migrator_version": 0,
         "name": "ipopt31420"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5461296990.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "15.2.0"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.10.08.37.46",
+  "pinning_version": "2026.11.23.13.57.39",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
