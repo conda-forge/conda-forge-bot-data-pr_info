@@ -1995,10 +1995,22 @@
         "migrator_version": 0,
         "name": "pybind11_abi12"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5458884193.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "simdjson53"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.17.09.18.59",
+  "pinning_version": "2026.11.23.13.57.39",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
