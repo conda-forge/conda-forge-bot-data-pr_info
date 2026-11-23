@@ -69199,6 +69199,18 @@
         "migrator_version": 0,
         "name": "dawn20261120121236"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5456854025.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "rdma_core",
+        "pin_version": "66"
+      }
     }
   ],
   "bad": false,
