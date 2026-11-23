@@ -69187,10 +69187,22 @@
         "name": "dawn",
         "pin_version": "20261120.121236"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5456779490.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "dawn20261120121236"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.23.01.03.36",
+  "pinning_version": "2026.11.23.11.24.55",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
