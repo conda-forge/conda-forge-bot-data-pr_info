@@ -298,10 +298,21 @@
         "migrator_version": 0,
         "version": "3.5.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5452390099.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "NoarchPythonMinMigrator",
+        "migrator_version": 1,
+        "name": "noarch_python_min"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.19.07.31.05",
+  "pinning_version": "2026.11.23.03.42.54",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
