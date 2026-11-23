@@ -69151,6 +69151,18 @@
         "name": "octomap",
         "pin_version": "2.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5446396453.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "simdjson",
+        "pin_version": "5.3"
+      }
     }
   ],
   "bad": false,
