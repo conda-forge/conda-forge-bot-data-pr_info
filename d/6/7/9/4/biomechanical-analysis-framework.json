@@ -232,10 +232,22 @@
         "migrator_version": 0,
         "name": "libyarp3123"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5450635653.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "pybind11_abi12"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.05.11.02.48.58",
+  "pinning_version": "2026.11.23.03.42.54",
   "pre_pr_migrator_attempt_ts": {
     "libyarp3123": 1786472499
   },
@@ -252,5 +264,5 @@
       "url": "https://github.com/conda-forge/conda-forge-bot/actions/runs/31514791198"
     }
   },
-  "smithy_version": "3.61.2"
+  "smithy_version": "2026.11.6"
 }
