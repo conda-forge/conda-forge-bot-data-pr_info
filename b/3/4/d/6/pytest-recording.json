@@ -121,7 +121,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5131868302.json"
+        "closed_by": "ruben-arts",
+        "labels": [],
+        "merged": false,
+        "number": 16,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -132,7 +136,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5329021442.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 17,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
