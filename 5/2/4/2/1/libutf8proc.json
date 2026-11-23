@@ -210,12 +210,23 @@
         "migrator_version": 0,
         "version": "2.12.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5448950296.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "LinuxRISCV64",
+        "migrator_version": 1,
+        "name": "support linux riscv64 platform"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.09.25.08.29.03",
+  "pinning_version": "2026.11.23.03.42.54",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
-  "smithy_version": "2026.9.23"
+  "smithy_version": "2026.11.6"
 }
