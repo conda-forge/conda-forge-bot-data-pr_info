@@ -333,10 +333,21 @@
         "migrator_version": 0,
         "version": "6.12.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5461437907.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "6.12.1"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.09.29.05.28.35",
+  "pinning_version": "2026.11.23.13.57.39",
   "pre_pr_migrator_attempt_ts": {
     "qt6_main611": 1792179095
   },
@@ -353,5 +364,5 @@
       "url": "https://github.com/conda-forge/conda-forge-bot/actions/runs/38952508551"
     }
   },
-  "smithy_version": "2026.9.23"
+  "smithy_version": "2026.11.6"
 }
