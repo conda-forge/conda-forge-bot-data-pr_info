@@ -69215,10 +69215,22 @@
         "name": "rdma_core",
         "pin_version": "66"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5460529688.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "simdjson53"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.23.11.24.55",
+  "pinning_version": "2026.11.23.13.57.39",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
