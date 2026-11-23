@@ -26369,10 +26369,22 @@
         "migrator_version": 0,
         "name": "libgoogle_cloud314"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5456443367.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "simdjson53"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.19.00.35.58",
+  "pinning_version": "2026.11.23.11.24.55",
   "pre_pr_migrator_attempt_ts": {
     "aws_c_endofjuly27": 1786473437
   },
