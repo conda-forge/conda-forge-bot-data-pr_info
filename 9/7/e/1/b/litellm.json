@@ -5997,10 +5997,21 @@
         "migrator_version": 0,
         "name": "python315"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5467534209.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "1.110.3"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.23.13.57.39",
+  "pinning_version": "2026.11.24.03.10.27",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
