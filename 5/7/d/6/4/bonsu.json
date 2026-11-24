@@ -1138,10 +1138,10 @@
   "bad": false,
   "pinning_version": "2026.10.25.07.44.23",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1795459540
+    "python315": 1795528894
   },
   "pre_pr_migrator_attempts": {
-    "python315": 4
+    "python315": 5
   },
   "pre_pr_migrator_status": {
     "python315": {
