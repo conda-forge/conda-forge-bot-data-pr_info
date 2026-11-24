@@ -435,10 +435,10 @@
   "bad": false,
   "pinning_version": "2026.08.26.23.15.14",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1795484969
+    "python315": 1795528882
   },
   "pre_pr_migrator_attempts": {
-    "python315": 4
+    "python315": 5
   },
   "pre_pr_migrator_status": {
     "python315": {
