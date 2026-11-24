@@ -69255,10 +69255,22 @@
         "name": "c_blosc2",
         "pin_version": "3.8"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5465227792.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "occt802"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.23.13.57.39",
+  "pinning_version": "2026.11.23.18.15.48",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
