@@ -2714,10 +2714,10 @@
   "bad": false,
   "pinning_version": "2026.10.16.16.32.47",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1795473361
+    "python315": 1795529835
   },
   "pre_pr_migrator_attempts": {
-    "python315": 4
+    "python315": 5
   },
   "pre_pr_migrator_status": {
     "python315": {
