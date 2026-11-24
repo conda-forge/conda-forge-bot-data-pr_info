@@ -26452,10 +26452,22 @@
         "migrator_version": 0,
         "name": "simdjson53"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5466848814.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "aws_c_nov26"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.23.11.24.55",
+  "pinning_version": "2026.11.24.03.10.27",
   "pre_pr_migrator_attempt_ts": {
     "aws_c_endofjuly27": 1786473437
   },
