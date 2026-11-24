@@ -10241,10 +10241,21 @@
         "migrator_version": 0,
         "name": "aws_c_nov26"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5464945129.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "Version",
+        "migrator_version": 0,
+        "version": "0.38.2"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.23.13.57.39",
+  "pinning_version": "2026.11.23.18.15.48",
   "pre_pr_migrator_attempt_ts": {
     "s2n177": 1786470364
   },
