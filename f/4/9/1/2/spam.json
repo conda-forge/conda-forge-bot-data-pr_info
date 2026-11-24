@@ -98,10 +98,10 @@
   "bad": false,
   "pinning_version": "2025.10.06.11.31.54",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1795508229
+    "python315": 1795528927
   },
   "pre_pr_migrator_attempts": {
-    "python315": 6
+    "python315": 7
   },
   "pre_pr_migrator_status": {
     "python315": {
