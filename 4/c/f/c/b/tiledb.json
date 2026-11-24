@@ -5636,7 +5636,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5436540466.json"
+        "closed_by": "teo-tsirpanis",
+        "labels": [],
+        "merged": false,
+        "number": 520,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -5664,7 +5668,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5468312313.json"
+        "closed_by": null,
+        "labels": [
+          {
+            "name": "automerge"
+          }
+        ],
+        "merged": true,
+        "number": 522,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
