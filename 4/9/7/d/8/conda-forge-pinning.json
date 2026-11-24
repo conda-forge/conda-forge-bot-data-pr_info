@@ -69267,6 +69267,18 @@
         "migrator_version": 0,
         "name": "occt802"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5465235979.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "aws_sdk_cpp",
+        "pin_version": "1.11.931"
+      }
     }
   ],
   "bad": false,
