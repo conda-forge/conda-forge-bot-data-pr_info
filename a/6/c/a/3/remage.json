@@ -418,10 +418,10 @@
   "bad": false,
   "pinning_version": "2026.11.17.05.57.25",
   "pre_pr_migrator_attempt_ts": {
-    "hdf52": 1795528444
+    "hdf52": 1795529782
   },
   "pre_pr_migrator_attempts": {
-    "hdf52": 1
+    "hdf52": 2
   },
   "pre_pr_migrator_status": {
     "hdf52": {
