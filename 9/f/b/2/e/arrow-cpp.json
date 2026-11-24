@@ -26464,6 +26464,19 @@
         "migrator_version": 0,
         "name": "aws_c_nov26"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5466923312.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "25.x",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "aws_c_nov26"
+      }
     }
   ],
   "bad": false,
