@@ -670,10 +670,10 @@
   "bad": false,
   "pinning_version": "2026.08.25.07.26.29",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1795528871
+    "python315": 1795529846
   },
   "pre_pr_migrator_attempts": {
-    "python315": 6
+    "python315": 7
   },
   "pre_pr_migrator_status": {
     "python315": {
