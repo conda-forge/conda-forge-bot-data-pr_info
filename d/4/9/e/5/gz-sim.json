@@ -1911,10 +1911,10 @@
   "bad": false,
   "pinning_version": "2026.11.24.03.10.27",
   "pre_pr_migrator_attempt_ts": {
-    "absl_grpc_proto_26q4": 1795527778
+    "absl_grpc_proto_26q4": 1795529769
   },
   "pre_pr_migrator_attempts": {
-    "absl_grpc_proto_26q4": 7
+    "absl_grpc_proto_26q4": 8
   },
   "pre_pr_migrator_status": {
     "absl_grpc_proto_26q4": {
