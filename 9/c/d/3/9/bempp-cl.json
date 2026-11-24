@@ -209,10 +209,10 @@
   "bad": false,
   "pinning_version": "2025.12.09.17.39.06",
   "pre_pr_migrator_attempt_ts": {
-    "python315": 1795525582
+    "python315": 1795529856
   },
   "pre_pr_migrator_attempts": {
-    "python315": 7
+    "python315": 8
   },
   "pre_pr_migrator_status": {
     "python315": {
