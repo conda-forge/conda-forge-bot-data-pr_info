@@ -119,7 +119,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2529283706.json"
+        "closed_by": "julian-risch",
+        "labels": [],
+        "merged": false,
+        "number": 14,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -130,7 +134,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2635905668.json"
+        "closed_by": "julian-risch",
+        "labels": [],
+        "merged": false,
+        "number": 15,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -141,7 +149,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2665643485.json"
+        "closed_by": "julian-risch",
+        "labels": [],
+        "merged": false,
+        "number": 16,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -152,7 +164,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2801079165.json"
+        "closed_by": "julian-risch",
+        "labels": [],
+        "merged": false,
+        "number": 17,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
