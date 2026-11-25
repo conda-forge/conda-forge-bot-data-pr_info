@@ -764,7 +764,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5039871730.json"
+        "closed_by": "weiji14",
+        "labels": [],
+        "merged": false,
+        "number": 64,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -775,7 +779,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5392589397.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 65,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
