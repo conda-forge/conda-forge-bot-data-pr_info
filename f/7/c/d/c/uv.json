@@ -3321,10 +3321,22 @@
         "migrator_version": 0,
         "version": "0.13.10"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5494188035.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "zstd16"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.24.05.01.35",
+  "pinning_version": "2026.11.25.10.26.24",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
