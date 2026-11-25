@@ -902,37 +902,24 @@
         "migrator_version": 0,
         "version": "2026.11.1"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5487556788.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "aws_c_nov26"
+      }
     }
   ],
   "bad": false,
   "pinning_version": "2026.11.24.05.01.35",
-  "pre_pr_migrator_attempt_ts": {
-    "aws_c_nov26": 1795586486
-  },
-  "pre_pr_migrator_attempts": {
-    "aws_c_nov26": 9
-  },
-  "pre_pr_migrator_status": {
-    "aws_c_nov26": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "osx_64_libarrow23.0python3.11.____cpython: Cannot solve the request because of: libarrow 23.0.* cannot be installed because there are no viable options:\n├─ libarrow 23.0.1 would require\n│  └─ aws-sdk-cpp >=1.11.905,<1.11.906.0a0, for which no candidates were found.\n├─ libarrow 23.0.1 would require\n│  └─ aws-sdk-cpp >=1.11.833,<1.11.834.0a0, for which no candidates were found.\n├─ libarrow 23.0.1 would require\n│  └─ aws-sdk-cpp >=1.11.747,<1.11.748.0a0, for which no candidates were found.\n└─ libarrow 23.0.0 | 23.0.1 would require\n   └─ aws-sdk-cpp >=1.11.606,<1.11.607.0a0, for which no candidates were found.\n",
-        "osx_64_libarrow23.0python3.12.____cpython: Cannot solve the request because of: libarrow 23.0.* cannot be installed because there are no viable options:\n├─ libarrow 23.0.1 would require\n│  └─ aws-sdk-cpp >=1.11.905,<1.11.906.0a0, for which no candidates were found.\n├─ libarrow 23.0.1 would require\n│  └─ aws-sdk-cpp >=1.11.833,<1.11.834.0a0, for which no candidates were found.\n├─ libarrow 23.0.1 would require\n│  └─ aws-sdk-cpp >=1.11.747,<1.11.748.0a0, for which no candidates were found.\n└─ libarrow 23.0.0 | 23.0.1 would require\n   └─ aws-sdk-cpp >=1.11.606,<1.11.607.0a0, for which no candidates were found.\n",
-        "osx_64_libarrow23.0python3.13.____cp313: Cannot solve the request because of: libarrow 23.0.* cannot be installed because there are no viable options:\n├─ libarrow 23.0.1 would require\n│  └─ aws-sdk-cpp >=1.11.905,<1.11.906.0a0, for which no candidates were found.\n├─ libarrow 23.0.1 would require\n│  └─ aws-sdk-cpp >=1.11.833,<1.11.834.0a0, for which no candidates were found.\n├─ libarrow 23.0.1 would require\n│  └─ aws-sdk-cpp >=1.11.747,<1.11.748.0a0, for which no candidates were found.\n└─ libarrow 23.0.0 | 23.0.1 would require\n   └─ aws-sdk-cpp >=1.11.606,<1.11.607.0a0, for which no candidates were found.\n",
-        "osx_64_libarrow23.0python3.14.____cp314: Cannot solve the request because of: libarrow 23.0.* cannot be installed because there are no viable options:\n├─ libarrow 23.0.1 would require\n│  └─ aws-sdk-cpp >=1.11.905,<1.11.906.0a0, for which no candidates were found.\n├─ libarrow 23.0.1 would require\n│  └─ aws-sdk-cpp >=1.11.833,<1.11.834.0a0, for which no candidates were found.\n├─ libarrow 23.0.1 would require\n│  └─ aws-sdk-cpp >=1.11.747,<1.11.748.0a0, for which no candidates were found.\n└─ libarrow 23.0.0 | 23.0.1 would require\n   └─ aws-sdk-cpp >=1.11.606,<1.11.607.0a0, for which no candidates were found.\n",
-        "osx_64_libarrow24.0python3.11.____cpython: Cannot solve the request because of: libarrow 24.0.* cannot be installed because there are no viable options:\n├─ libarrow 24.0.0 would require\n│  └─ aws-sdk-cpp >=1.11.905,<1.11.906.0a0, for which no candidates were found.\n├─ libarrow 24.0.0 would require\n│  └─ aws-sdk-cpp >=1.11.833,<1.11.834.0a0, for which no candidates were found.\n└─ libarrow 24.0.0 would require\n   └─ aws-sdk-cpp >=1.11.747,<1.11.748.0a0, for which no candidates were found.\n",
-        "osx_64_libarrow24.0python3.12.____cpython: Cannot solve the request because of: libarrow 24.0.* cannot be installed because there are no viable options:\n├─ libarrow 24.0.0 would require\n│  └─ aws-sdk-cpp >=1.11.905,<1.11.906.0a0, for which no candidates were found.\n├─ libarrow 24.0.0 would require\n│  └─ aws-sdk-cpp >=1.11.833,<1.11.834.0a0, for which no candidates were found.\n└─ libarrow 24.0.0 would require\n   └─ aws-sdk-cpp >=1.11.747,<1.11.748.0a0, for which no candidates were found.\n",
-        "osx_64_libarrow24.0python3.13.____cp313: Cannot solve the request because of: libarrow 24.0.* cannot be installed because there are no viable options:\n├─ libarrow 24.0.0 would require\n│  └─ aws-sdk-cpp >=1.11.905,<1.11.906.0a0, for which no candidates were found.\n├─ libarrow 24.0.0 would require\n│  └─ aws-sdk-cpp >=1.11.833,<1.11.834.0a0, for which no candidates were found.\n└─ libarrow 24.0.0 would require\n   └─ aws-sdk-cpp >=1.11.747,<1.11.748.0a0, for which no candidates were found.\n",
-        "osx_64_libarrow24.0python3.14.____cp314: Cannot solve the request because of: libarrow 24.0.* cannot be installed because there are no viable options:\n├─ libarrow 24.0.0 would require\n│  └─ aws-sdk-cpp >=1.11.905,<1.11.906.0a0, for which no candidates were found.\n├─ libarrow 24.0.0 would require\n│  └─ aws-sdk-cpp >=1.11.833,<1.11.834.0a0, for which no candidates were found.\n└─ libarrow 24.0.0 would require\n   └─ aws-sdk-cpp >=1.11.747,<1.11.748.0a0, for which no candidates were found.\n",
-        "osx_64_libarrow25.0python3.11.____cpython: Cannot solve the request because of: libarrow 25.0.* cannot be installed because there are no viable options:\n├─ libarrow 25.0.1 would require\n│  └─ aws-sdk-cpp >=1.11.905,<1.11.906.0a0, for which no candidates were found.\n└─ libarrow 25.0.0 | 25.0.1 would require\n   └─ aws-sdk-cpp >=1.11.833,<1.11.834.0a0, for which no candidates were found.\n",
-        "osx_64_libarrow25.0python3.12.____cpython: Cannot solve the request because of: libarrow 25.0.* cannot be installed because there are no viable options:\n├─ libarrow 25.0.1 would require\n│  └─ aws-sdk-cpp >=1.11.905,<1.11.906.0a0, for which no candidates were found.\n└─ libarrow 25.0.0 | 25.0.1 would require\n   └─ aws-sdk-cpp >=1.11.833,<1.11.834.0a0, for which no candidates were found.\n",
-        "osx_64_libarrow25.0python3.13.____cp313: Cannot solve the request because of: libarrow 25.0.* cannot be installed because there are no viable options:\n├─ libarrow 25.0.1 would require\n│  └─ aws-sdk-cpp >=1.11.905,<1.11.906.0a0, for which no candidates were found.\n└─ libarrow 25.0.0 | 25.0.1 would require\n   └─ aws-sdk-cpp >=1.11.833,<1.11.834.0a0, for which no candidates were found.\n",
-        "osx_64_libarrow25.0python3.14.____cp314: Cannot solve the request because of: libarrow 25.0.* cannot be installed because there are no viable options:\n├─ libarrow 25.0.1 would require\n│  └─ aws-sdk-cpp >=1.11.905,<1.11.906.0a0, for which no candidates were found.\n└─ libarrow 25.0.0 | 25.0.1 would require\n   └─ aws-sdk-cpp >=1.11.833,<1.11.834.0a0, for which no candidates were found.\n",
-        "osx_64_libarrow25.0python3.15.____cp315: Cannot solve the request because of: libarrow 25.0.* cannot be installed because there are no viable options:\n├─ libarrow 25.0.1 would require\n│  └─ aws-sdk-cpp >=1.11.905,<1.11.906.0a0, for which no candidates were found.\n└─ libarrow 25.0.0 | 25.0.1 would require\n   └─ aws-sdk-cpp >=1.11.833,<1.11.834.0a0, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/45539316794'>bot CI job</a>)"
-    }
-  },
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
   "smithy_version": "2026.11.6"
 }
