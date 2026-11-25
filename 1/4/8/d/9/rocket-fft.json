@@ -2,7 +2,11 @@
   "PRed": [
     {
       "PR": {
-        "__lazy_json__": "pr_json/1680596705.json"
+        "closed_by": "JaRoSchm",
+        "labels": [],
+        "merged": false,
+        "number": 1,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -16,7 +20,7 @@
         "__lazy_json__": "pr_json/1710392502.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1795587839.5644789,
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
         "migrator_version": 0,
@@ -25,7 +29,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/1715585185.json"
+        "closed_by": "JaRoSchm",
+        "labels": [],
+        "merged": false,
+        "number": 6,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -36,7 +44,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/1774048209.json"
+        "closed_by": "JaRoSchm",
+        "labels": [],
+        "merged": false,
+        "number": 7,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -50,7 +62,7 @@
         "__lazy_json__": "pr_json/1931245707.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1795587839.5646236,
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
         "migrator_version": 0,
@@ -62,7 +74,7 @@
         "__lazy_json__": "pr_json/2327521443.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1795587839.5646784,
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
         "migrator_version": 0,
@@ -74,7 +86,7 @@
         "__lazy_json__": "pr_json/3088026112.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1795587839.5647233,
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
         "migrator_version": 0,
@@ -83,7 +95,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/3130446604.json"
+        "closed_by": "JaRoSchm",
+        "labels": [],
+        "merged": false,
+        "number": 11,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
