@@ -85,7 +85,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5464232542.json"
+        "closed_by": "safl",
+        "labels": [],
+        "merged": false,
+        "number": 7,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -96,7 +100,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5486552461.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 8,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
