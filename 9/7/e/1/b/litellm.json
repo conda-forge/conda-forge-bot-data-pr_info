@@ -6035,10 +6035,23 @@
         "migrator_version": 0,
         "version": "1.111.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/66ac4c43-829d-48e1-aa23-736db7b3e22c.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "v1.108.x",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.24.05.01.35",
+  "pinning_version": "2026.11.25.19.15.47",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
