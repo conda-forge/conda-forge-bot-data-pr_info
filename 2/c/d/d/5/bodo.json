@@ -907,10 +907,10 @@
   "bad": false,
   "pinning_version": "2026.11.24.05.01.35",
   "pre_pr_migrator_attempt_ts": {
-    "aws_c_nov26": 1795529756
+    "aws_c_nov26": 1795576072
   },
   "pre_pr_migrator_attempts": {
-    "aws_c_nov26": 7
+    "aws_c_nov26": 8
   },
   "pre_pr_migrator_status": {
     "aws_c_nov26": {
@@ -931,7 +931,7 @@
         "osx_64_libarrow25.0python3.14.____cp314: Cannot solve the request because of: libarrow 25.0.* cannot be installed because there are no viable options:\n├─ libarrow 25.0.1 would require\n│  └─ aws-sdk-cpp >=1.11.905,<1.11.906.0a0, for which no candidates were found.\n└─ libarrow 25.0.0 | 25.0.1 would require\n   └─ aws-sdk-cpp >=1.11.833,<1.11.834.0a0, for which no candidates were found.\n",
         "osx_64_libarrow25.0python3.15.____cp315: Cannot solve the request because of: libarrow 25.0.* cannot be installed because there are no viable options:\n├─ libarrow 25.0.1 would require\n│  └─ aws-sdk-cpp >=1.11.905,<1.11.906.0a0, for which no candidates were found.\n└─ libarrow 25.0.0 | 25.0.1 would require\n   └─ aws-sdk-cpp >=1.11.833,<1.11.834.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/45400882200'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/45513112441'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.11.6"
