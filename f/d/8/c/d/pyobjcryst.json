@@ -443,7 +443,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/2786755288.json"
+        "closed_by": "vincefn",
+        "labels": [],
+        "merged": false,
+        "number": 51,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -516,7 +520,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5486696380.json"
+        "closed_by": null,
+        "labels": [
+          {
+            "name": "automerge"
+          }
+        ],
+        "merged": true,
+        "number": 57,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
