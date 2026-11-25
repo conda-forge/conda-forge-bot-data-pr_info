@@ -1296,10 +1296,22 @@
         "migrator_version": 0,
         "name": "pybind11_abi12"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5489303956.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "pybind11_abi12"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.17.09.18.59",
+  "pinning_version": "2026.11.24.05.01.35",
   "pre_pr_migrator_attempt_ts": {
     "python314t": 1786474227
   },
