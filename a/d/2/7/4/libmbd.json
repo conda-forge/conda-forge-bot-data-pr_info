@@ -279,7 +279,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5441746342.json"
+        "closed_by": "jhrmnn",
+        "labels": [],
+        "merged": false,
+        "number": 43,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
