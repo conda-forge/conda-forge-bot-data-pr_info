@@ -597,7 +597,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5370805802.json"
+        "closed_by": "chrisguidry",
+        "labels": [],
+        "merged": false,
+        "number": 56,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -608,7 +612,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5390577264.json"
+        "closed_by": "chrisguidry",
+        "labels": [],
+        "merged": false,
+        "number": 57,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
