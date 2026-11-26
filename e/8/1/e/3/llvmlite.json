@@ -984,10 +984,22 @@
         "migrator_version": 0,
         "name": "python315t"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5507904491.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "StaticLibMigrator",
+        "migrator_version": 0,
+        "name": "static_lib_migrator",
+        "static_libs": "linux-64::llvmdev 22.1.8 hff5219a_4;linux-aarch64::llvmdev 22.1.8 h4911939_4;linux-ppc64le::llvmdev 22.1.8 ha87c041_4;osx-64::llvmdev 22.1.8 h58952bc_4;osx-arm64::llvmdev 22.1.8 hdfa3884_4;win-64::llvmdev 22.1.8 h5379664_4"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.15.14.44.40",
+  "pinning_version": "2026.11.26.07.43.12",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
