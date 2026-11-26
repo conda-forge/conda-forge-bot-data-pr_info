@@ -556,7 +556,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5232202606.json"
+        "closed_by": "bterwijn",
+        "labels": [],
+        "merged": false,
+        "number": 42,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -567,7 +571,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5498409413.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 43,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
