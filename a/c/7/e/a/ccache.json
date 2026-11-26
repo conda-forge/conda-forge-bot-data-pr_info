@@ -715,10 +715,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4751814659.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 80,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1795689025.7954488,
         "migrator_name": "WinArm64",
         "migrator_version": 1,
         "name": "support windows arm64 platform"
@@ -772,7 +780,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5499746856.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 84,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
