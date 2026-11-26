@@ -17,7 +17,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5497350377.json"
+        "closed_by": "davidbrochart",
+        "labels": [],
+        "merged": false,
+        "number": 6,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
