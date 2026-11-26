@@ -120,7 +120,7 @@
         "__lazy_json__": "pr_json/5418622876.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1795697286.939837,
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
         "migrator_version": 0,
@@ -129,7 +129,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5491967990.json"
+        "closed_by": "SwayamInSync",
+        "labels": [],
+        "merged": false,
+        "number": 16,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
