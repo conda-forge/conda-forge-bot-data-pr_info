@@ -17,7 +17,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5138650620.json"
+        "closed_by": "LiuGaoyong",
+        "labels": [],
+        "merged": false,
+        "number": 45,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
