@@ -92,25 +92,24 @@
         "migrator_version": 0,
         "name": "python314"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5502652099.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "python315"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2025.10.23.07.58.14",
-  "pre_pr_migrator_attempt_ts": {
-    "python315": 1795653809
-  },
-  "pre_pr_migrator_attempts": {
-    "python315": 6
-  },
-  "pre_pr_migrator_status": {
-    "python315": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "osx_64_python3.15.____cp315: Cannot solve the request because of: panda3d * cannot be installed because there are no viable options:\n├─ panda3d 1.10.15 | 1.10.16 would require\n│  └─ python_abi 3.14.* *_cp314, for which no candidates were found.\n├─ panda3d 1.10.15 | 1.10.16 would require\n│  └─ python_abi 3.13.* *_cp313, for which no candidates were found.\n├─ panda3d 1.10.15 | 1.10.16 would require\n│  └─ python_abi 3.12.* *_cp312, for which no candidates were found.\n├─ panda3d 1.10.15 | 1.10.16 would require\n│  └─ python_abi 3.11.* *_cp311, for which no candidates were found.\n├─ panda3d 1.10.15 would require\n│  └─ python_abi 3.9.* *_cp39, for which no candidates were found.\n├─ panda3d 1.10.15 | 1.10.16 would require\n│  └─ python_abi 3.10.* *_cp310, for which no candidates were found.\n├─ panda3d 1.10.14 would require\n│  └─ python >=3.12,<3.13.0a0, for which no candidates were found.\n├─ panda3d 1.10.12 | 1.10.13 | 1.10.14 would require\n│  └─ python >=3.11,<3.12.0a0, for which no candidates were found.\n├─ panda3d 1.10.11 | 1.10.12 | 1.10.13 | 1.10.14 would require\n│  └─ python >=3.10,<3.11.0a0, for which no candidates were found.\n├─ panda3d 1.10.10 | 1.10.11 | ... | 1.10.14 would require\n│  └─ python >=3.9,<3.10.0a0, for which no candidates were found.\n├─ panda3d 1.10.7 | 1.10.8 | ... | 1.10.14 would require\n│  └─ python >=3.8,<3.9.0a0, for which no candidates were found.\n├─ panda3d 1.10.7 | 1.10.8 | ... | 1.10.12 would require\n│  └─ python >=3.7,<3.8.0a0, for which no candidates were found.\n└─ panda3d 1.10.7 | 1.10.8 | 1.10.9 | 1.10.10 would require\n   └─ python >=3.6,<3.7.0a0, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/45728928274'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "3.52.3"
+  "pinning_version": "2026.11.25.23.04.15",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.11.6"
 }
