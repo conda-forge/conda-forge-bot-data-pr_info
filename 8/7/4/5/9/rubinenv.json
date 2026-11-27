@@ -518,10 +518,22 @@
         "migrator_version": 0,
         "name": "starlink_ast9214"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5523674545.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "gsl28"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2025.09.05.16.03.09",
+  "pinning_version": "2026.11.26.11.07.18",
   "pre_pr_migrator_attempt_ts": {
     "python314": 1781331238
   },
@@ -538,5 +550,5 @@
       "url": "https://github.com/conda-forge/conda-forge-bot/actions/runs/27458246843"
     }
   },
-  "smithy_version": "3.52.1"
+  "smithy_version": "2026.11.6"
 }
