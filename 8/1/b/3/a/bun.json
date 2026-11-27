@@ -384,8 +384,21 @@
   ],
   "bad": false,
   "pinning_version": "2026.11.19.11.22.12",
-  "pre_pr_migrator_attempt_ts": {},
-  "pre_pr_migrator_attempts": {},
-  "pre_pr_migrator_status": {},
+  "pre_pr_migrator_attempt_ts": {
+    "zstd16": 1795779871
+  },
+  "pre_pr_migrator_attempts": {
+    "zstd16": 1
+  },
+  "pre_pr_migrator_status": {
+    "zstd16": {
+      "base_branch": "main",
+      "kind": "not-solvable",
+      "messages": [
+        "win_64_: Rattler build errors: Command: rattler-build build --recipe /cf_feedstock_ops_dir/recipe --target-platform win-64 --build-platform win-64 -m /tmp/tmpse211ve1/b88593b3-f24c-4e60-8ef8-7f00f325bc00.yaml --render-only --with-solve\nLogs:\nrattler-build 0.80.2\n No configuration file loaded\n Processing recipe at path: /cf_feedstock_ops_dir/recipe/recipe.yaml\n\n ╭─ Finding outputs from recipe\n │ Loading variant config from: /tmp/tmpse211ve1/b88593b3-f24c-4e60-8ef8-7f00f325bc00.yaml\n │ ⚠ warning Found 'pin_run_as_build' in variant config - this is not supported and will be ignored\n │ Loading variant config from: /cf_feedstock_ops_dir/recipe/conda_build_config.yaml\n │ Loading variant config from: /tmp/tmpse211ve1/b88593b3-f24c-4e60-8ef8-7f00f325bc00.yaml\n │ ⚠ warning Found 'pin_run_as_build' in variant config - this is not supported and will be ignored\n │ Found 1 variants\n │ \n │ Build variant: bun-1.4.2-pl5321h6e0e6f1_2\n │ \n │ ╭──────────────────────┬──────────────────────────────────────────────────────────────────╮\n │ │ Variant              ┆ Version                                                          │\n │ ╞══════════════════════╪══════════════════════════════════════════════════════════════════╡\n │ │ brotli               ┆ \"1.2\"                                                            │\n │ │ build_platform       ┆ \"win-64\"                                                         │\n │ │ c_compiler           ┆ \"vs2022\"                                                         │\n │ │ c_compiler_version   ┆ \"2022\"                                                           │\n │ │ c_stdlib             ┆ \"vs\"                                                             │\n │ │ channel_sources      ┆ \"conda-forge/label/rust_dev,conda-forge,file:///tmp/tmphk_lkf2t\" │\n │ │ channel_targets      ┆ \"conda-forge main\"                                               │\n │ │ cxx_compiler         ┆ \"vs2022\"                                                         │\n │ │ cxx_compiler_version ┆ \"2022\"                                                           │\n │ │ hdrhistogram_c       ┆ \"0.12.1\"                                                         │\n │ │ libdeflate           ┆ \"1.26\"                                                           │\n │ │ libhwy               ┆ \"1.4\"                                                            │\n │ │ libjpeg_turbo        ┆ \"3\"                                                              │\n │ │ libsqlite            ┆ \"3\"                                                              │\n │ │ libwebp_base         ┆ \"1\"                                                              │\n │ │ perl                 ┆ \"5.32.1\"                                                         │\n │ │ rust_compiler        ┆ \"rust\"                                                           │\n │ │ target_platform      ┆ \"win-64\"                                                         │\n │ │ zlib                 ┆ \"1\"                                                              │\n │ │ zstd                 ┆ \"1.6\"                                                            │\n │ ╰──────────────────────┴──────────────────────────────────────────────────────────────────╯\n │\n ╰─────────────────── (took 0 seconds)\n\n ╭─ Resolving build environment\n │   Platform: win-64 [__win=10.0=0, __archspec=1=x86_64]\n │   Channels: \n │    - file:///tmp/tmpjuqqxh5u/\n │    - conda-forge/label/rust_dev\n │    - conda-forge\n │    - file:///tmp/tmphk_lkf2t/\n │   Specs:\n │    - vs2022_win-64 2022.*\n │    - vs2022_win-64 2022.*\n │    - rust_win-64\n │    - vs_win-64\n │    - cargo-bundle-licenses\n │    - cmake\n │    - git\n │    - clang 21.*\n │    - lld 21.*\n │    - llvm-tools 21.*\n │    - nasm\n │    - rust-src\n │    - ninja\n │    - perl 5.32.1.*\n │    - pkg-config\n │\n ╰─────────────────── (took 0 seconds)\nError:   × Failed to resolve dependencies\n  ╰─▶ Cannot solve the request because of: No candidates were found for\n      vs2022_win-64 2022.*."
+      ],
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/45986680593'>bot CI job</a>)"
+    }
+  },
   "smithy_version": "2026.11.6"
 }
