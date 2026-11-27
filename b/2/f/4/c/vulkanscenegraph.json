@@ -105,7 +105,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5472354815.json"
+        "closed_by": "jeongseok-meta",
+        "labels": [],
+        "merged": false,
+        "number": 19,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -116,7 +120,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5530488002.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 20,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
