@@ -283,10 +283,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/4722113898.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 30,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1795780729.502678,
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
         "migrator_version": 0,
@@ -295,10 +303,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5028430209.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 34,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1795780729.5028517,
         "migrator_name": "LinuxRISCV64",
         "migrator_version": 1,
         "name": "support linux riscv64 platform"
