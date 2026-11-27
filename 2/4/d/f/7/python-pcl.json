@@ -442,28 +442,24 @@
         "migrator_version": 0,
         "name": "python315"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5519290524.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "vtk972"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.25.23.04.15",
-  "pre_pr_migrator_attempt_ts": {
-    "vtk972": 1795735542
-  },
-  "pre_pr_migrator_attempts": {
-    "vtk972": 1
-  },
-  "pre_pr_migrator_status": {
-    "vtk972": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "win_64_python3.11.____cpython: Cannot solve the request because of: pcl 1.15.1.* cannot be installed because there are no viable options:\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.7.0,<9.7.1.0a0, for which no candidates were found.\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.6.2,<9.6.3.0a0, for which no candidates were found.\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.6.1,<9.6.2.0a0, for which no candidates were found.\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.6.0,<9.6.1.0a0, for which no candidates were found.\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.5.2,<9.5.3.0a0, for which no candidates were found.\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.5.1,<9.5.2.0a0, for which no candidates were found.\n└─ pcl 1.15.1 would require\n   └─ vtk-base >=9.4.2,<9.4.3.0a0, for which no candidates were found.\n",
-        "win_64_python3.12.____cpython: Cannot solve the request because of: pcl 1.15.1.* cannot be installed because there are no viable options:\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.7.0,<9.7.1.0a0, for which no candidates were found.\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.6.2,<9.6.3.0a0, for which no candidates were found.\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.6.1,<9.6.2.0a0, for which no candidates were found.\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.6.0,<9.6.1.0a0, for which no candidates were found.\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.5.2,<9.5.3.0a0, for which no candidates were found.\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.5.1,<9.5.2.0a0, for which no candidates were found.\n└─ pcl 1.15.1 would require\n   └─ vtk-base >=9.4.2,<9.4.3.0a0, for which no candidates were found.\n",
-        "win_64_python3.13.____cp313: Cannot solve the request because of: pcl 1.15.1.* cannot be installed because there are no viable options:\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.7.0,<9.7.1.0a0, for which no candidates were found.\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.6.2,<9.6.3.0a0, for which no candidates were found.\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.6.1,<9.6.2.0a0, for which no candidates were found.\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.6.0,<9.6.1.0a0, for which no candidates were found.\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.5.2,<9.5.3.0a0, for which no candidates were found.\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.5.1,<9.5.2.0a0, for which no candidates were found.\n└─ pcl 1.15.1 would require\n   └─ vtk-base >=9.4.2,<9.4.3.0a0, for which no candidates were found.\n",
-        "win_64_python3.14.____cp314: Cannot solve the request because of: pcl 1.15.1.* cannot be installed because there are no viable options:\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.7.0,<9.7.1.0a0, for which no candidates were found.\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.6.2,<9.6.3.0a0, for which no candidates were found.\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.6.1,<9.6.2.0a0, for which no candidates were found.\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.6.0,<9.6.1.0a0, for which no candidates were found.\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.5.2,<9.5.3.0a0, for which no candidates were found.\n├─ pcl 1.15.1 would require\n│  └─ vtk-base >=9.5.1,<9.5.2.0a0, for which no candidates were found.\n└─ pcl 1.15.1 would require\n   └─ vtk-base >=9.4.2,<9.4.3.0a0, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/45907675768'>bot CI job</a>)"
-    }
-  },
+  "pinning_version": "2026.11.26.11.07.18",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
   "smithy_version": "2026.11.6"
 }
