@@ -352,10 +352,18 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5268480191.json"
+        "closed_by": "regro-cf-autotick-bot",
+        "labels": [
+          {
+            "name": "bot-rerun"
+          }
+        ],
+        "merged": false,
+        "number": 33,
+        "state": "closed"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1795815562.7042916,
         "migrator_name": "OSXArm",
         "migrator_version": 1,
         "name": "arm osx addition"
@@ -363,7 +371,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5370505128.json"
+        "closed_by": null,
+        "labels": [],
+        "merged": true,
+        "number": 34,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
