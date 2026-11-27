@@ -633,7 +633,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5530662490.json"
+        "closed_by": "casperdcl",
+        "labels": [],
+        "merged": false,
+        "number": 62,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
