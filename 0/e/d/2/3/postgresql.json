@@ -2417,25 +2417,25 @@
         "migrator_version": 0,
         "name": "icu79"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5522580143.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "v18.x",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "zstd16"
+      }
     }
   ],
   "bad": false,
   "pinning_version": "2026.11.26.11.07.18",
-  "pre_pr_migrator_attempt_ts": {
-    "zstd16": 1795761735
-  },
-  "pre_pr_migrator_attempts": {
-    "zstd16": 1
-  },
-  "pre_pr_migrator_status": {
-    "zstd16": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "osx_64_: Cannot solve the request because of: python 3.14.* *_cp314 cannot be installed because there are no viable options:\n├─ python 3.14.0 | 3.14.1 | ... | 3.14.10 would require\n│  └─ zstd >=1.5.7,<1.6.0a0, for which no candidates were found.\n└─ python 3.14.0rc1 | 3.14.0rc2 | 3.14.0rc3 would require\n   └─ _python_rc *, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/45949285526'>bot CI job</a>)"
-    }
-  },
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
   "smithy_version": "2026.11.6"
 }
