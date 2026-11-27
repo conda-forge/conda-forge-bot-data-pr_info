@@ -2225,7 +2225,7 @@
         "__lazy_json__": "pr_json/5529636067.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1795810012.2595425,
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
         "migrator_version": 0,
@@ -2250,7 +2250,7 @@
         "__lazy_json__": "pr_json/5529694070.json"
       },
       "data": {
-        "bot_rerun": false,
+        "bot_rerun": 1795810012.2598832,
         "branch": "qt6.11",
         "migrator_name": "MigrationYaml",
         "migrator_object_version": 1,
@@ -2286,7 +2286,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5530792131.json"
+        "closed_by": null,
+        "labels": [
+          {
+            "name": "automerge"
+          }
+        ],
+        "merged": true,
+        "number": 435,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
