@@ -69527,6 +69527,18 @@
         "name": "ccr",
         "pin_version": "2.0"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5534069213.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "vulkanscenegraph",
+        "pin_version": "1.1.18"
+      }
     }
   ],
   "bad": false,
