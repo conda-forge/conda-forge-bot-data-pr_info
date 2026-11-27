@@ -382,22 +382,47 @@
       }
     }
   ],
-  "bad": false,
+  "bad": {
+    "exception": "Error running 'conda-forge-tick-container migrate-feedstock --feedstock-name bun --default-branch main --existing-feedstock-node-attrs - --log-level info --kwargs {\n  \"hash_type\": \"sha256\"\n}' in container - error RuntimeError raised:\ntraceback: Traceback (most recent call last):\n  File \"/opt/conda-forge-bot/conda_forge_tick/container_cli.py\", line 115, in _run_bot_task\n    data = func(attrs=attrs, **kwargs)\n  File \"/opt/conda-forge-bot/conda_forge_tick/container_cli.py\", line 227, in _migrate_feedstock\n    migrator = make_from_lazy_json_data(loads(f.read()))\n  File \"/opt/conda-forge-bot/conda_forge_tick/migrators/core.py\", line 301, in make_from_lazy_json_data\n    return cls(*data[\"args\"], **kwargs)\n  File \"/opt/conda-forge-bot/conda_forge_tick/migrators/migration_yaml.py\", line 301, in __init__\n    self.excluded_pinned_feedstocks.update(outputs_lut.get(_node, {_node}))\n                                           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^\n  File \"<frozen _collections_abc>\", line 795, in get\n  File \"/opt/conda-forge-bot/conda_forge_tick/lazy_json_backends.py\", line 961, in __getitem__\n    self._load()\n    ~~~~~~~~~~^^\n  File \"/opt/conda-forge-bot/conda_forge_tick/lazy_json_backends.py\", line 906, in _load\n    if backend.hexists(self.hashmap, self.node):\n       ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/conda-forge-bot/conda_forge_tick/lazy_json_backends.py\", line 353, in hexists\n    raise RuntimeError(f\"Unexpected status code {status} for {url}\")\nRuntimeError: Unexpected status code 504 for https://github.com/conda-forge/conda-forge-bot-data/raw/main/outputs_to_feedstocks.json\n",
+    "traceback": [
+      "Traceback (most recent call last):",
+      "  File \"/opt/conda-forge-bot/conda_forge_tick/container_cli.py\", line 115, in _run_bot_task",
+      "    data = func(attrs=attrs, **kwargs)",
+      "  File \"/opt/conda-forge-bot/conda_forge_tick/container_cli.py\", line 227, in _migrate_feedstock",
+      "    migrator = make_from_lazy_json_data(loads(f.read()))",
+      "  File \"/opt/conda-forge-bot/conda_forge_tick/migrators/core.py\", line 301, in make_from_lazy_json_data",
+      "    return cls(*data[\"args\"], **kwargs)",
+      "  File \"/opt/conda-forge-bot/conda_forge_tick/migrators/migration_yaml.py\", line 301, in __init__",
+      "    self.excluded_pinned_feedstocks.update(outputs_lut.get(_node, {_node}))",
+      "                                           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^",
+      "  File \"<frozen _collections_abc>\", line 795, in get",
+      "  File \"/opt/conda-forge-bot/conda_forge_tick/lazy_json_backends.py\", line 961, in __getitem__",
+      "    self._load()",
+      "    ~~~~~~~~~~^^",
+      "  File \"/opt/conda-forge-bot/conda_forge_tick/lazy_json_backends.py\", line 906, in _load",
+      "    if backend.hexists(self.hashmap, self.node):",
+      "       ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^",
+      "  File \"/opt/conda-forge-bot/conda_forge_tick/lazy_json_backends.py\", line 353, in hexists",
+      "    raise RuntimeError(f\"Unexpected status code {status} for {url}\")",
+      "RuntimeError: Unexpected status code 504 for https://github.com/conda-forge/conda-forge-bot-data/raw/main/outputs_to_feedstocks.json",
+      ""
+    ]
+  },
   "pinning_version": "2026.11.19.11.22.12",
   "pre_pr_migrator_attempt_ts": {
-    "zstd16": 1795796995
+    "zstd16": 1795804671
   },
   "pre_pr_migrator_attempts": {
-    "zstd16": 2
+    "zstd16": 3
   },
   "pre_pr_migrator_status": {
     "zstd16": {
       "base_branch": "main",
-      "kind": "not-solvable",
+      "kind": "bot-error",
       "messages": [
-        "win_64_: Rattler build errors: Command: rattler-build build --recipe /cf_feedstock_ops_dir/recipe --target-platform win-64 --build-platform win-64 -m /tmp/tmpn5jp8esr/3630910a-290e-414e-a2c2-cf09ed721778.yaml --render-only --with-solve\nLogs:\nrattler-build 0.80.2\n No configuration file loaded\n Processing recipe at path: /cf_feedstock_ops_dir/recipe/recipe.yaml\n\n ╭─ Finding outputs from recipe\n │ Loading variant config from: /tmp/tmpn5jp8esr/3630910a-290e-414e-a2c2-cf09ed721778.yaml\n │ ⚠ warning Found 'pin_run_as_build' in variant config - this is not supported and will be ignored\n │ Loading variant config from: /cf_feedstock_ops_dir/recipe/conda_build_config.yaml\n │ Loading variant config from: /tmp/tmpn5jp8esr/3630910a-290e-414e-a2c2-cf09ed721778.yaml\n │ ⚠ warning Found 'pin_run_as_build' in variant config - this is not supported and will be ignored\n │ Found 1 variants\n │ \n │ Build variant: bun-1.4.2-pl5321h6d436d3_2\n │ \n │ ╭──────────────────────┬──────────────────────────────────────────────────────────────────╮\n │ │ Variant              ┆ Version                                                          │\n │ ╞══════════════════════╪══════════════════════════════════════════════════════════════════╡\n │ │ brotli               ┆ \"1.2\"                                                            │\n │ │ build_platform       ┆ \"win-64\"                                                         │\n │ │ c_compiler           ┆ \"vs2022\"                                                         │\n │ │ c_compiler_version   ┆ \"2022\"                                                           │\n │ │ c_stdlib             ┆ \"vs\"                                                             │\n │ │ channel_sources      ┆ \"conda-forge/label/rust_dev,conda-forge,file:///tmp/tmpgsedh07k\" │\n │ │ channel_targets      ┆ \"conda-forge main\"                                               │\n │ │ cxx_compiler         ┆ \"vs2022\"                                                         │\n │ │ cxx_compiler_version ┆ \"2022\"                                                           │\n │ │ hdrhistogram_c       ┆ \"0.12.1\"                                                         │\n │ │ libdeflate           ┆ \"1.26\"                                                           │\n │ │ libhwy               ┆ \"1.4\"                                                            │\n │ │ libjpeg_turbo        ┆ \"3\"                                                              │\n │ │ libsqlite            ┆ \"3\"                                                              │\n │ │ libwebp_base         ┆ \"1\"                                                              │\n │ │ perl                 ┆ \"5.32.1\"                                                         │\n │ │ rust_compiler        ┆ \"rust\"                                                           │\n │ │ target_platform      ┆ \"win-64\"                                                         │\n │ │ zlib                 ┆ \"1\"                                                              │\n │ │ zstd                 ┆ \"1.6\"                                                            │\n │ ╰──────────────────────┴──────────────────────────────────────────────────────────────────╯\n │\n ╰─────────────────── (took 0 seconds)\n\n ╭─ Resolving build environment\n │   Platform: win-64 [__win=10.0=0, __archspec=1=x86_64]\n │   Channels: \n │    - file:///tmp/tmphm67onk0/\n │    - conda-forge/label/rust_dev\n │    - conda-forge\n │    - file:///tmp/tmpgsedh07k/\n │   Specs:\n │    - vs2022_win-64 2022.*\n │    - vs2022_win-64 2022.*\n │    - rust_win-64\n │    - vs_win-64\n │    - cargo-bundle-licenses\n │    - cmake\n │    - git\n │    - clang 21.*\n │    - lld 21.*\n │    - llvm-tools 21.*\n │    - nasm\n │    - rust-src\n │    - ninja\n │    - perl 5.32.1.*\n │    - pkg-config\n │\n ╰─────────────────── (took 0 seconds)\nError:   × Failed to resolve dependencies\n  ╰─▶ Cannot solve the request because of: No candidates were found for\n      vs2022_win-64 2022.*."
+        "Traceback (most recent call last):\n  File \"/opt/conda-forge-bot/conda_forge_tick/container_cli.py\", line 115, in _run_bot_task\n    data = func(attrs=attrs, **kwargs)\n  File \"/opt/conda-forge-bot/conda_forge_tick/container_cli.py\", line 227, in _migrate_feedstock\n    migrator = make_from_lazy_json_data(loads(f.read()))\n  File \"/opt/conda-forge-bot/conda_forge_tick/migrators/core.py\", line 301, in make_from_lazy_json_data\n    return cls(*data[\"args\"], **kwargs)\n  File \"/opt/conda-forge-bot/conda_forge_tick/migrators/migration_yaml.py\", line 301, in __init__\n    self.excluded_pinned_feedstocks.update(outputs_lut.get(_node, {_node}))\n                                           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^\n  File \"<frozen _collections_abc>\", line 795, in get\n  File \"/opt/conda-forge-bot/conda_forge_tick/lazy_json_backends.py\", line 961, in __getitem__\n    self._load()\n    ~~~~~~~~~~^^\n  File \"/opt/conda-forge-bot/conda_forge_tick/lazy_json_backends.py\", line 906, in _load\n    if backend.hexists(self.hashmap, self.node):\n       ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/conda-forge-bot/conda_forge_tick/lazy_json_backends.py\", line 353, in hexists\n    raise RuntimeError(f\"Unexpected status code {status} for {url}\")\nRuntimeError: Unexpected status code 504 for https://github.com/conda-forge/conda-forge-bot-data/raw/main/outputs_to_feedstocks.json\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/46025269395'>bot CI job</a>)"
+      "url": "https://github.com/conda-forge/conda-forge-bot/actions/runs/46046198906"
     }
   },
   "smithy_version": "2026.11.6"
