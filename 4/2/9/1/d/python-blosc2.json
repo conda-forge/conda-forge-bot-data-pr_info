@@ -1458,7 +1458,11 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5470535709.json"
+        "closed_by": "hmaarrfk",
+        "labels": [],
+        "merged": false,
+        "number": 122,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
@@ -1470,7 +1474,15 @@
     },
     {
       "PR": {
-        "__lazy_json__": "pr_json/5505767682.json"
+        "closed_by": null,
+        "labels": [
+          {
+            "name": "automerge"
+          }
+        ],
+        "merged": true,
+        "number": 123,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
