@@ -154,10 +154,10 @@
   "bad": false,
   "pinning_version": "2026.02.09.23.12.11",
   "pre_pr_migrator_attempt_ts": {
-    "zstd16": 1795779558
+    "zstd16": 1795796752
   },
   "pre_pr_migrator_attempts": {
-    "zstd16": 1
+    "zstd16": 2
   },
   "pre_pr_migrator_status": {
     "zstd16": {
@@ -166,7 +166,7 @@
       "messages": [
         "win_64_: Cannot solve the request because of: clangdev 18.1.8.* cling_1.2* cannot be installed because there are no viable options:\n├─ clangdev 18.1.8 would require\n│  └─ zstd >=1.5.7,<1.6.0a0, for which no candidates were found.\n└─ clangdev 18.1.8 would require\n   └─ zstd >=1.5.6,<1.6.0a0, for which no candidates were found.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/45986680593'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/46025269395'>bot CI job</a>)"
     }
   },
   "smithy_version": "3.54.2"
