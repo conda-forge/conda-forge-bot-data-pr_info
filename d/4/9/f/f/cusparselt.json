@@ -396,10 +396,21 @@
         "migrator_version": 1,
         "name": "support windows arm64 platform"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5534050217.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "LinuxRISCV64",
+        "migrator_version": 1,
+        "name": "support linux riscv64 platform"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.10.27.07.30.40",
+  "pinning_version": "2026.11.26.11.07.18",
   "pre_pr_migrator_attempt_ts": {
     "supportwindowsarm64platform": 1793903504
   },
@@ -416,5 +427,5 @@
       "url": "https://github.com/conda-forge/conda-forge-bot/actions/runs/42077959329"
     }
   },
-  "smithy_version": "2026.10.24"
+  "smithy_version": "2026.11.6"
 }
