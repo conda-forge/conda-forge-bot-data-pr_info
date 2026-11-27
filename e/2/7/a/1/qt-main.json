@@ -2327,6 +2327,18 @@
         "migrator_version": 0,
         "name": "zstd16"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/ab0a719c-122e-40b7-b9b8-4b4b314db892.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "icu79"
+      }
     }
   ],
   "bad": false,
