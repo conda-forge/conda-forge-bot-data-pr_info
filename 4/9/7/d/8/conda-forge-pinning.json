@@ -69503,10 +69503,22 @@
         "migrator_version": 0,
         "name": "c_blosc239"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5529771387.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYamlCreator",
+        "migrator_version": 0,
+        "name": "mppp",
+        "pin_version": "3.0"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.26.00.52.20",
+  "pinning_version": "2026.11.26.11.07.18",
   "pre_pr_migrator_attempt_ts": {},
   "pre_pr_migrator_attempts": {},
   "pre_pr_migrator_status": {},
