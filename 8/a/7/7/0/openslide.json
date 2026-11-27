@@ -249,10 +249,10 @@
   "bad": false,
   "pinning_version": "2026.06.07.20.13.55",
   "pre_pr_migrator_attempt_ts": {
-    "zstd16": 1795808985
+    "zstd16": 1795813723
   },
   "pre_pr_migrator_attempts": {
-    "zstd16": 3
+    "zstd16": 4
   },
   "pre_pr_migrator_status": {
     "zstd16": {
@@ -261,7 +261,7 @@
       "messages": [
         "win_64_: Cannot solve the request because of: No candidates were found for clang_win-64 2022.*.\n"
       ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/46051460782'>bot CI job</a>)"
+      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/46060803921'>bot CI job</a>)"
     }
   },
   "smithy_version": "2026.5.29"
