@@ -2,7 +2,11 @@
   "PRed": [
     {
       "PR": {
-        "__lazy_json__": "pr_json/2318623039.json"
+        "closed_by": "pera-noaa",
+        "labels": [],
+        "merged": false,
+        "number": 1,
+        "state": "closed"
       },
       "data": {
         "bot_rerun": false,
