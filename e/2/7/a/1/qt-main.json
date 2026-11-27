@@ -2231,6 +2231,19 @@
         "migrator_version": 0,
         "name": "icu79"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5529682457.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "branch": "qt5",
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "icu79"
+      }
     }
   ],
   "bad": false,
