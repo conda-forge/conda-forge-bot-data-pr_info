@@ -1057,25 +1057,24 @@
         "migrator_version": 0,
         "version": "23.1.6"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5534252911.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "zstd16"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.18.08.30.39",
-  "pre_pr_migrator_attempt_ts": {
-    "zstd16": 1795804621
-  },
-  "pre_pr_migrator_attempts": {
-    "zstd16": 1
-  },
-  "pre_pr_migrator_status": {
-    "zstd16": {
-      "base_branch": "main",
-      "kind": "bot-error",
-      "messages": [
-        "Traceback (most recent call last):\n  File \"/opt/conda-forge-bot/conda_forge_tick/container_cli.py\", line 115, in _run_bot_task\n    data = func(attrs=attrs, **kwargs)\n  File \"/opt/conda-forge-bot/conda_forge_tick/container_cli.py\", line 227, in _migrate_feedstock\n    migrator = make_from_lazy_json_data(loads(f.read()))\n  File \"/opt/conda-forge-bot/conda_forge_tick/migrators/core.py\", line 301, in make_from_lazy_json_data\n    return cls(*data[\"args\"], **kwargs)\n  File \"/opt/conda-forge-bot/conda_forge_tick/migrators/migration_yaml.py\", line 301, in __init__\n    self.excluded_pinned_feedstocks.update(outputs_lut.get(_node, {_node}))\n                                           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^\n  File \"<frozen _collections_abc>\", line 795, in get\n  File \"/opt/conda-forge-bot/conda_forge_tick/lazy_json_backends.py\", line 961, in __getitem__\n    self._load()\n    ~~~~~~~~~~^^\n  File \"/opt/conda-forge-bot/conda_forge_tick/lazy_json_backends.py\", line 906, in _load\n    if backend.hexists(self.hashmap, self.node):\n       ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/conda-forge-bot/conda_forge_tick/lazy_json_backends.py\", line 353, in hexists\n    raise RuntimeError(f\"Unexpected status code {status} for {url}\")\nRuntimeError: Unexpected status code 504 for https://github.com/conda-forge/conda-forge-bot-data/raw/main/outputs_to_feedstocks.json\n"
-      ],
-      "url": "https://github.com/conda-forge/conda-forge-bot/actions/runs/46046198906"
-    }
-  },
+  "pinning_version": "2026.11.26.11.07.18",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
   "smithy_version": "2026.11.6"
 }
