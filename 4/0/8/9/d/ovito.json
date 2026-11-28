@@ -1446,28 +1446,24 @@
         "migrator_version": 0,
         "version": "3.17.2"
       }
+    },
+    {
+      "PR": {
+        "__lazy_json__": "pr_json/5536139303.json"
+      },
+      "data": {
+        "bot_rerun": false,
+        "migrator_name": "MigrationYaml",
+        "migrator_object_version": 1,
+        "migrator_version": 0,
+        "name": "zstd16"
+      }
     }
   ],
   "bad": false,
-  "pinning_version": "2026.11.02.15.51.50",
-  "pre_pr_migrator_attempt_ts": {
-    "zstd16": 1795819838
-  },
-  "pre_pr_migrator_attempts": {
-    "zstd16": 1
-  },
-  "pre_pr_migrator_status": {
-    "zstd16": {
-      "base_branch": "main",
-      "kind": "not-solvable",
-      "messages": [
-        "osx_64_hdf51.14.6: Cannot solve the request because of: qt6-main 6.11.* cannot be installed because there are no viable options:\n└─ qt6-main 6.11.0 | 6.11.1 | 6.11.2 | 6.11.3 would require\n   └─ zstd >=1.5.7,<1.6.0a0, for which no candidates were found.\n",
-        "osx_64_hdf52: Cannot solve the request because of: qt6-main 6.11.* cannot be installed because there are no viable options:\n└─ qt6-main 6.11.0 | 6.11.1 | 6.11.2 | 6.11.3 would require\n   └─ zstd >=1.5.7,<1.6.0a0, for which no candidates were found.\n",
-        "win_64_hdf51.14.6: Cannot solve the request because of: qt6-main 6.11.* cannot be installed because there are no viable options:\n└─ qt6-main 6.11.0 | 6.11.1 | 6.11.2 | 6.11.3 would require\n   └─ zstd >=1.5.7,<1.6.0a0, for which no candidates were found.\n",
-        "win_64_hdf52: Cannot solve the request because of: qt6-main 6.11.* cannot be installed because there are no viable options:\n└─ qt6-main 6.11.0 | 6.11.1 | 6.11.2 | 6.11.3 would require\n   └─ zstd >=1.5.7,<1.6.0a0, for which no candidates were found.\n"
-      ],
-      "url": "(<a href='https://github.com/conda-forge/conda-forge-bot/actions/runs/46071294290'>bot CI job</a>)"
-    }
-  },
-  "smithy_version": "2026.10.24"
+  "pinning_version": "2026.11.28.00.29.02",
+  "pre_pr_migrator_attempt_ts": {},
+  "pre_pr_migrator_attempts": {},
+  "pre_pr_migrator_status": {},
+  "smithy_version": "2026.11.6"
 }
