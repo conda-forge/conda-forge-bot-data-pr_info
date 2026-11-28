@@ -846,11 +846,11 @@
   "pinning_version": "2026.09.10.17.42.53",
   "pre_pr_migrator_attempt_ts": {
     "geos3150": 1795845523,
-    "geos3151": 1795845464
+    "geos3151": 1795846880
   },
   "pre_pr_migrator_attempts": {
     "geos3150": 424,
-    "geos3151": 42
+    "geos3151": 43
   },
   "pre_pr_migrator_status": {
     "geos3150": {
